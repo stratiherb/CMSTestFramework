@@ -14,18 +14,20 @@ Pod::Spec.new do |s|
   #  can feel like a chore to fill in it's definitely to your advantage. The
   #  summary should be tweet-length, and the description more in depth.
   #
-
+  s.platform = :ios
+  s.ios.deployment_target = '8.0'
   s.name         = "CMSTestFramework"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "Testing importing the CMSTestFramework with plists."
+  s.requires_arc = true
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  #s.description  = <<-DESC
+  #DESC
 
   s.homepage     = "http://EXAMPLE/CMSTestFramework"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -38,7 +40,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = { :type => "MIT" }
+  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
