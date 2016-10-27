@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-s.license      = { :type => "MIT" }
+  s.license      = { :type => "MIT" }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -79,7 +79,7 @@ s.license      = { :type => "MIT" }
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/CMSTestFramework.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/stratiherb/CMSTestFramework.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ s.license      = { :type => "MIT" }
   #
 
   s.source_files  = "CMSTestFramework", "CMSTestFramework/**/*.{swift}"
-  s.exclude_files = "Classes/Exclude"
+  #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
