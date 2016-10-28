@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   #s.description  = <<-DESC
   #DESC
 
-  s.homepage     = "http://EXAMPLE/CMSTestFramework"
+  s.homepage     = "https://github.com/stratiherb"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
