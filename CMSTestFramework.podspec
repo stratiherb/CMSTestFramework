@@ -107,7 +107,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-    s.resources = "CMSTestFramework/**/*.{plist}"
+    s.resources = "CMSTestFramework/**/TestingPList.{plist}"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
