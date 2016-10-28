@@ -13,6 +13,7 @@ class Interpretor{
     let dictionary: NSDictionary
     
     init?(){
+        
         let bundle = NSBundle(forClass: self.dynamicType)
         if let urlForResource = bundle.url(forResource: "TestingPList", withExtension: "plist"){
             if let plistDictionary = NSDictionary(contentsOf: urlForResource){
