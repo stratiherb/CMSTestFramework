@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8815051DC3FCBE002D27E5 /* Interpretor.swift */; };
 		1ECADCAA1DC273B200E7A566 /* CMSTestFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1ECADCB21DC2758200E7A566 /* TestingPList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1ECADCB11DC2758200E7A566 /* TestingPList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E8815051DC3FCBE002D27E5 /* Interpretor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interpretor.swift; sourceTree = "<group>"; };
 		1ECADCA51DC273B200E7A566 /* CMSTestFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CMSTestFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMSTestFramework.h; sourceTree = "<group>"; };
 		1ECADCA91DC273B200E7A566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 				1ECADCB01DC2756100E7A566 /* Support */,
 				1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */,
 				1ECADCA91DC273B200E7A566 /* Info.plist */,
+				1E8815051DC3FCBE002D27E5 /* Interpretor.swift */,
 			);
 			path = CMSTestFramework;
 			sourceTree = "<group>";
@@ -107,6 +110,7 @@
 					1ECADCA41DC273B200E7A566 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = 24Y2VQTKE3;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -144,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +257,7 @@
 		1ECADCAE1DC273B200E7A566 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 24Y2VQTKE3;
@@ -264,6 +270,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = iHerb.CMSTestFramework;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -271,6 +278,7 @@
 		1ECADCAF1DC273B200E7A566 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 24Y2VQTKE3;
@@ -306,6 +314,7 @@
 				1ECADCAF1DC273B200E7A566 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
