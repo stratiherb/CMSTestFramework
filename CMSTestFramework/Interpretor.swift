@@ -15,8 +15,8 @@ class Interpretor{
     init?(){
         
         let bundle = NSBundle(forClass: self.dynamicType)
-        if let urlForResource = bundle.url(forResource: "TestingPList", withExtension: "plist"){
-            if let plistDictionary = NSDictionary(contentsOf: urlForResource){
+        if let urlForResource = bundle.URLForResource("TestingPList", withExtension: "plist"){
+            if let plistDictionary = NSDictionary(contentsOfURL: urlForResource){
                 dictionary = plistDictionary
             }else{
                 return nil
