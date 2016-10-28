@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.name         = "CMSTestFramework"
-  s.version      = "0.1.6"
+  s.version      = "0.1.7"
   s.summary      = "Testing importing the CMSTestFramework with plists."
   s.requires_arc = true
 

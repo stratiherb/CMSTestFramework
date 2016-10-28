@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8815051DC3FCBE002D27E5 /* Interpretor.swift */; };
+		1E8815481DC41D5A002D27E5 /* TestingPList.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1ECADCB11DC2758200E7A566 /* TestingPList.plist */; };
 		1ECADCAA1DC273B200E7A566 /* CMSTestFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1ECADCB21DC2758200E7A566 /* TestingPList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1ECADCB11DC2758200E7A566 /* TestingPList.plist */; };
 /* End PBXBuildFile section */
@@ -148,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E8815481DC41D5A002D27E5 /* TestingPList.plist in Sources */,
 				1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
