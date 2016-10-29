@@ -1,0 +1,10 @@
+framework module CMSTestFramework {
+  umbrella header "CMSTestFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CMSTestFramework.Swift {
+    header "CMSTestFramework-Swift.h"
+}
