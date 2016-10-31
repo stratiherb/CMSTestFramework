@@ -10,9 +10,9 @@ import Foundation
 
 public class Interpretor{
     
-    let dictionary: NSDictionary
+    public let dictionary: NSDictionary
     
-    init?(){
+    public init?(){
         
         let bundle = NSBundle(forClass: self.dynamicType)
         if let urlForResource = bundle.URLForResource("TestingPList", withExtension: "plist"){
