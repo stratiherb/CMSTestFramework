@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E40BF0C1DC7B415001921D3 /* ar-SA.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF021DC7B414001921D3 /* ar-SA.plist */; };
+		1E40BF0D1DC7B415001921D3 /* de-DE.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF031DC7B414001921D3 /* de-DE.plist */; };
+		1E40BF0E1DC7B415001921D3 /* en-US.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF041DC7B414001921D3 /* en-US.plist */; };
+		1E40BF0F1DC7B415001921D3 /* es-MX.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF051DC7B414001921D3 /* es-MX.plist */; };
+		1E40BF101DC7B415001921D3 /* fr-FR.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF061DC7B414001921D3 /* fr-FR.plist */; };
+		1E40BF111DC7B415001921D3 /* ja-JP.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF071DC7B414001921D3 /* ja-JP.plist */; };
+		1E40BF121DC7B415001921D3 /* ko-KR.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF081DC7B414001921D3 /* ko-KR.plist */; };
+		1E40BF131DC7B415001921D3 /* pt-BR.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF091DC7B414001921D3 /* pt-BR.plist */; };
+		1E40BF141DC7B415001921D3 /* ru-RU.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF0A1DC7B414001921D3 /* ru-RU.plist */; };
+		1E40BF151DC7B415001921D3 /* zh-CN.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E40BF0B1DC7B414001921D3 /* zh-CN.plist */; };
+		1E40BF161DC7B630001921D3 /* ar-SA.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF021DC7B414001921D3 /* ar-SA.plist */; };
+		1E40BF171DC7B630001921D3 /* de-DE.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF031DC7B414001921D3 /* de-DE.plist */; };
+		1E40BF181DC7B630001921D3 /* en-US.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF041DC7B414001921D3 /* en-US.plist */; };
+		1E40BF191DC7B630001921D3 /* es-MX.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF051DC7B414001921D3 /* es-MX.plist */; };
+		1E40BF1A1DC7B630001921D3 /* fr-FR.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF061DC7B414001921D3 /* fr-FR.plist */; };
+		1E40BF1B1DC7B630001921D3 /* ja-JP.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF071DC7B414001921D3 /* ja-JP.plist */; };
+		1E40BF1C1DC7B630001921D3 /* ko-KR.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF081DC7B414001921D3 /* ko-KR.plist */; };
+		1E40BF1D1DC7B630001921D3 /* pt-BR.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF091DC7B414001921D3 /* pt-BR.plist */; };
+		1E40BF1E1DC7B630001921D3 /* ru-RU.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF0A1DC7B414001921D3 /* ru-RU.plist */; };
+		1E40BF1F1DC7B630001921D3 /* zh-CN.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BF0B1DC7B414001921D3 /* zh-CN.plist */; };
 		1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8815051DC3FCBE002D27E5 /* Interpretor.swift */; };
 		1E8815481DC41D5A002D27E5 /* TestingPList.plist in Sources */ = {isa = PBXBuildFile; fileRef = 1ECADCB11DC2758200E7A566 /* TestingPList.plist */; };
 		1ECADCAA1DC273B200E7A566 /* CMSTestFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -14,6 +34,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E40BF021DC7B414001921D3 /* ar-SA.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ar-SA.plist"; sourceTree = "<group>"; };
+		1E40BF031DC7B414001921D3 /* de-DE.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "de-DE.plist"; sourceTree = "<group>"; };
+		1E40BF041DC7B414001921D3 /* en-US.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "en-US.plist"; sourceTree = "<group>"; };
+		1E40BF051DC7B414001921D3 /* es-MX.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "es-MX.plist"; sourceTree = "<group>"; };
+		1E40BF061DC7B414001921D3 /* fr-FR.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "fr-FR.plist"; sourceTree = "<group>"; };
+		1E40BF071DC7B414001921D3 /* ja-JP.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ja-JP.plist"; sourceTree = "<group>"; };
+		1E40BF081DC7B414001921D3 /* ko-KR.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ko-KR.plist"; sourceTree = "<group>"; };
+		1E40BF091DC7B414001921D3 /* pt-BR.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "pt-BR.plist"; sourceTree = "<group>"; };
+		1E40BF0A1DC7B414001921D3 /* ru-RU.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ru-RU.plist"; sourceTree = "<group>"; };
+		1E40BF0B1DC7B414001921D3 /* zh-CN.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "zh-CN.plist"; sourceTree = "<group>"; };
 		1E8815051DC3FCBE002D27E5 /* Interpretor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interpretor.swift; sourceTree = "<group>"; };
 		1ECADCA51DC273B200E7A566 /* CMSTestFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CMSTestFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ECADCA81DC273B200E7A566 /* CMSTestFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CMSTestFramework.h; sourceTree = "<group>"; };
@@ -62,6 +92,16 @@
 		1ECADCB01DC2756100E7A566 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				1E40BF021DC7B414001921D3 /* ar-SA.plist */,
+				1E40BF031DC7B414001921D3 /* de-DE.plist */,
+				1E40BF041DC7B414001921D3 /* en-US.plist */,
+				1E40BF051DC7B414001921D3 /* es-MX.plist */,
+				1E40BF061DC7B414001921D3 /* fr-FR.plist */,
+				1E40BF071DC7B414001921D3 /* ja-JP.plist */,
+				1E40BF081DC7B414001921D3 /* ko-KR.plist */,
+				1E40BF091DC7B414001921D3 /* pt-BR.plist */,
+				1E40BF0A1DC7B414001921D3 /* ru-RU.plist */,
+				1E40BF0B1DC7B414001921D3 /* zh-CN.plist */,
 				1ECADCB11DC2758200E7A566 /* TestingPList.plist */,
 			);
 			name = Support;
@@ -138,7 +178,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E40BF111DC7B415001921D3 /* ja-JP.plist in Resources */,
+				1E40BF121DC7B415001921D3 /* ko-KR.plist in Resources */,
+				1E40BF101DC7B415001921D3 /* fr-FR.plist in Resources */,
 				1ECADCB21DC2758200E7A566 /* TestingPList.plist in Resources */,
+				1E40BF131DC7B415001921D3 /* pt-BR.plist in Resources */,
+				1E40BF0E1DC7B415001921D3 /* en-US.plist in Resources */,
+				1E40BF0F1DC7B415001921D3 /* es-MX.plist in Resources */,
+				1E40BF151DC7B415001921D3 /* zh-CN.plist in Resources */,
+				1E40BF0C1DC7B415001921D3 /* ar-SA.plist in Resources */,
+				1E40BF141DC7B415001921D3 /* ru-RU.plist in Resources */,
+				1E40BF0D1DC7B415001921D3 /* de-DE.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,6 +199,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E40BF161DC7B630001921D3 /* ar-SA.plist in Sources */,
+				1E40BF171DC7B630001921D3 /* de-DE.plist in Sources */,
+				1E40BF181DC7B630001921D3 /* en-US.plist in Sources */,
+				1E40BF191DC7B630001921D3 /* es-MX.plist in Sources */,
+				1E40BF1A1DC7B630001921D3 /* fr-FR.plist in Sources */,
+				1E40BF1B1DC7B630001921D3 /* ja-JP.plist in Sources */,
+				1E40BF1C1DC7B630001921D3 /* ko-KR.plist in Sources */,
+				1E40BF1D1DC7B630001921D3 /* pt-BR.plist in Sources */,
+				1E40BF1E1DC7B630001921D3 /* ru-RU.plist in Sources */,
+				1E40BF1F1DC7B630001921D3 /* zh-CN.plist in Sources */,
 				1E8815481DC41D5A002D27E5 /* TestingPList.plist in Sources */,
 				1E8815061DC3FCBE002D27E5 /* Interpretor.swift in Sources */,
 			);

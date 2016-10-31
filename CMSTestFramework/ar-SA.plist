@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>IDS_BTN_ADD-ANOTHER-ITEM</key>
+    <string>إضافة منتج آخر</string>
+    <key>IDS_BTN_ADD-BILLING-ADDRESS_A</key>
+    <string>إضافة عنوان دفع</string>
+    <key>IDS_BTN_ADD-BOTH-TO-CART</key>
+    <string>أضف كلاهما الى السلة</string>
+    <key>IDS_BTN_ADD-FOLDER-TO-CART</key>
+    <string>أضف المجلد الى السلة</string>
+    <key>IDS_BTN_ADD-NEW-FOLDER_A</key>
+    <string>إضافة مجلد جديد</string>
+    <key>IDS_BTN_ADD-PAYMENT-METHOD_A</key>
+    <string>إضافة وسيلة دفع</string>
+    <key>IDS_BTN_ADD-PERSONAL-INFORMATION_A</key>
+    <string>إضافة المعلومات الشخصية</string>
+    <key>IDS_BTN_ADD-PHOTO</key>
+    <string>إضافة صورة</string>
+    <key>IDS_BTN_ADD-REWARDS-ADDRESS_A</key>
+    <string>إضافة عنوان مكافآت</string>
+    <key>IDS_BTN_ADD-SHIPPING-ADDRESS_A</key>
+    <string>إضافة عنوان شحن</string>
+    <key>IDS_BTN_ADD-TO-CART</key>
+    <string>أضف إلى السلة</string>
+    <key>IDS_BTN_ADD-TO-WISH-LIST</key>
+    <string>أضف إلى قائمة الرغبات</string>
+    <key>IDS_BTN_APP-DEMO_A</key>
+    <string>التطبيق التجريبي</string>
+    <key>IDS_BTN_APPLY</key>
+    <string>تقدم  بالطلب</string>
+    <key>IDS_BTN_APPLY-CODE</key>
+    <string>تطبيق الرمز</string>
+    <key>IDS_BTN_CALCULATE</key>
+    <string>قم بالحساب</string>
+    <key>IDS_BTN_CANCEL</key>
+    <string>إلغاء</string>
+    <key>IDS_BTN_CHOOSE-EXISTING-PHOTO</key>
+    <string>اختيار صورة موجودة</string>
+    <key>IDS_BTN_CLEAR-CACHE</key>
+    <string>مسح ذاكرة التخزين المؤقت</string>
+    <key>IDS_BTN_CLEAR_A</key>
+    <string>مسح</string>
+    <key>IDS_BTN_COMBINE-BOTH-CARTS</key>
+    <string>اجمع كلا السلتين</string>
+    <key>IDS_BTN_COMPLETE-PAYMENT</key>
+    <string>إكمال عملية الدفع</string>
+    <key>IDS_BTN_CONTINUE</key>
+    <string>متابعة</string>
+    <key>IDS_BTN_CONTINUE-TO-APP</key>
+    <string>المتابعة إلى التطبيق</string>
+    <key>IDS_BTN_COPY-TO-WISH-LIST_A</key>
+    <string>نسخ إلى قائمة الرغبات</string>
+    <key>IDS_BTN_CREATE-ACCOUNT</key>
+    <string>إنشاء حساب</string>
+    <key>IDS_BTN_CREATE-NEW-SAVED-SEARCH_A</key>
+    <string>إنشاء بحث محفوظ جديد</string>
+    <key>IDS_BTN_CUSTOMIZABLE-HOMEPAGE_A</key>
+    <string>الصفحة الرئيسية قابلة للتخصيص</string>
+    <key>IDS_BTN_DELETE-REVIEW</key>
+    <string>حذف التقييم</string>
+    <key>IDS_BTN_DISMISS</key>
+    <string>رفض</string>
+    <key>IDS_BTN_DONE</key>
+    <string>إنتهى</string>
+    <key>IDS_BTN_EDIT</key>
+    <string>تعديل</string>
+    <key>IDS_BTN_ENTER-CODES</key>
+    <string>أدخل الرموز</string>
+    <key>IDS_BTN_FORGOT-PASSWORD</key>
+    <string>نسيت كلمة المرور</string>
+    <key>IDS_BTN_HELPFUL_A</key>
+    <string>مفيد</string>
+    <key>IDS_BTN_MAKE-DEFAULT</key>
+    <string>جعله افتراضي</string>
+    <key>IDS_BTN_NO</key>
+    <string>لا</string>
+    <key>IDS_BTN_OK</key>
+    <string>حسنًا</string>
+    <key>IDS_BTN_REFINE_A</key>
+    <string>تنقيح</string>
+    <key>IDS_BTN_REMOVE</key>
+    <string>إزالة</string>
+    <key>IDS_BTN_REMOVE-ALL-ITEMS</key>
+    <string>إزالة جميع المنتجات</string>
+    <key>IDS_BTN_REPORT-ABUSE</key>
+    <string>أبلغ عن إساءة معاملة</string>
+    <key>IDS_BTN_RESET_A</key>
+    <string>إعادة تعيين</string>
+    <key>IDS_BTN_SAVE</key>
+    <string>حفظ</string>
+    <key>IDS_BTN_SAVE-AND-CONTINUE</key>
+    <string>حفظ &amp;amp; متابعة</string>
+    <key>IDS_BTN_SAVE-CART-TO-WISHLIST</key>
+    <string>احفظ السلة إلى قائمة الرغبات</string>
+    <key>IDS_BTN_SAVE-CHANGES_A</key>
+    <string>حفظ التغييرات</string>
+    <key>IDS_BTN_SAVE-SEARCH_A</key>
+    <string>حفظ البحث</string>
+    <key>IDS_BTN_SEE-ALL-REVIEWS</key>
+    <string>رؤية جميع التقييمات</string>
+    <key>IDS_BTN_SKIP-SIGN-IN</key>
+    <string>تخطي تسجيل الدخول</string>
+    <key>IDS_BTN_SKIP-VERIFICATION</key>
+    <string>تخطى التحقّق</string>
+    <key>IDS_BTN_SUBMIT-REVIEW</key>
+    <string>إرسال التقييم</string>
+    <key>IDS_BTN_TAKE-PHOTO</key>
+    <string>التقاط صورة</string>
+    <key>IDS_BTN_TAP-TO-EXIT-HOMEPAGE-EDIT-MODE</key>
+    <string>اضغط هنا للخروج من وضع تحرير الصفحة الرئيسية</string>
+    <key>IDS_BTN_USE-CURRENT-CART</key>
+    <string>استخدام سلة التسوق الحالية</string>
+    <key>IDS_BTN_USE-PREVIOUS-CART</key>
+    <string>استخدام سلة التسوق سابقة</string>
+    <key>IDS_BTN_YES</key>
+    <string>نعم</string>
+    <key>IDS_ERR_ADD-A-CREDIT-CARD</key>
+    <string>يرجى المرور عبر قسم الدفع، لإضافة بطاقة إئتمان.</string>
+    <key>IDS_ERR_ADDRESS-LINE1-REQUIRED</key>
+    <string>العنوان الأول مطلوب</string>
+    <key>IDS_ERR_ADDRESS-LINE2-REQUIRED</key>
+    <string>العنوان الثاني مطلوب</string>
+    <key>IDS_ERR_BAD-REQUEST</key>
+    <string>هناك مشكلة في إكمال هذا الطلب.</string>
+    <key>IDS_ERR_CITY-REQUIRED</key>
+    <string>يجب إدخال اسم المدينة.</string>
+    <key>IDS_ERR_CONFIRM-PASSWORD-REQUIRED</key>
+    <string>يجب تأكيد كلمة المرور.</string>
+    <key>IDS_ERR_CONSIGNEE-NAME-REQUIRED</key>
+    <string>يجب إدخال الإسم الذي سيتم الشحن إليه.</string>
+    <key>IDS_ERR_COUNTRY-REQUIRED</key>
+    <string>اسم المدينة مطلوب</string>
+    <key>IDS_ERR_EMAIL-ADDRESS-REQUIRED</key>
+    <string>يجب إدخال عنوان البريد الإلكتروني.</string>
+    <key>IDS_ERR_FIELDS-MISSING-IN-FORM</key>
+    <string>هناك حقل أو أكثر من الحقول المطلوبة غير مملوءة . الرجاء مراجعة البيانات المدخلة و اعادة المحاولة.</string>
+    <key>IDS_ERR_FOLDER-ALREADY-EXISTS</key>
+    <string>هذا المجلد موجود مسبقًا.</string>
+    <key>IDS_ERR_FULL-NAME-REQUIRED</key>
+    <string>مطلوب إدخال الاسم كاملًا</string>
+    <key>IDS_ERR_IMAGE-ATTACHMENTS-TOO-BIG</key>
+    <string>الحجم الإجمالي للصورة المرفقة (المرفقات) كبير جدًا.</string>
+    <key>IDS_ERR_ISSUE-TYPE-REQUIRED</key>
+    <string>مطلوب تحديد نوع المشكلة.</string>
+    <key>IDS_ERR_LOGIN-FAILED</key>
+    <string>فشل تسجيل الدخول لسببٍ ما. يرجى الاتصال بخدمة العملاء أو المحاولة مجددًا في وقتٍ لاحق.</string>
+    <key>IDS_ERR_LOGIN-TO-CUSTOMIZE-HOMEPAGE_A</key>
+    <string>يرجى تسجيل الدخول لتخصيص صفحتك الرئيسية.</string>
+    <key>IDS_ERR_NEW-PASSWORD-REQUIRED</key>
+    <string>يجب إدخال كلمة مرور جديدة.</string>
+    <key>IDS_ERR_OLD-PASSWORD-REQUIRED</key>
+    <string>يجب إدخال كلمة المرور القديمة.</string>
+    <key>IDS_ERR_ORDER-NUMBER-REQUIRED</key>
+    <string>مطلوب تحديد رقم الطلب.</string>
+    <key>IDS_ERR_PASSWORD-REQUIRED</key>
+    <string>يجب إدخال كلمة المرور.</string>
+    <key>IDS_ERR_PHONE-NUMBER-REQUIRED</key>
+    <string>يجب إدخال رقم هاتف صحيح.</string>
+    <key>IDS_ERR_POSTAL-REQUIRED</key>
+    <string>يجب إدخال الرمز البريدي.</string>
+    <key>IDS_ERR_PRODUCT-REQUIRED</key>
+    <string>مطلوب إدخال المنتج.</string>
+    <key>IDS_ERR_REASON-REQUIRED</key>
+    <string>مطلوب كتابة السبب.</string>
+    <key>IDS_ERR_REVIEW-IS-REQUIRED</key>
+    <string>يجب إضافة تقييم.</string>
+    <key>IDS_ERR_REVIEW-TITLE-REQUIRED</key>
+    <string>يجب إدخال عنوان لتقييمك.</string>
+    <key>IDS_ERR_REWARDS-CODE-IS-REQUIRED</key>
+    <string>مطلوب إدخال كود المكافآت.</string>
+    <key>IDS_ERR_STATE-PROVINCE-REGION-REQUIRED</key>
+    <string>يجب إدخال الولاية/ المحافظة/ الإقليم/ المنطقة.</string>
+    <key>IDS_ERR_STATE-REQUIRED</key>
+    <string>يجب إدخال الولاية.</string>
+    <key>IDS_ERR_SUBURB-REQUIRED</key>
+    <string>يجب إدخال الضاحية.</string>
+    <key>IDS_ERR_TRY-AGAIN-LATER</key>
+    <string>يرجى المحاولة مرةً أخرى. إذا استمرت المشكلة، يرجى الاتصال بخدمة العملاء.</string>
+    <key>IDS_ERR_ZIP-POSTAL-REQUIRED</key>
+    <string>يجب إدخال الرمز البريدي.</string>
+    <key>IDS_GEN_CART</key>
+    <string>سلة التسوّق</string>
+    <key>IDS_GEN_CHANGE-PASSWORD</key>
+    <string>تغيير كلمة المرور</string>
+    <key>IDS_GEN_DISCLAIMER</key>
+    <string>إخلاء مسؤولية</string>
+    <key>IDS_GEN_EXPIRATION-DATE</key>
+    <string>تاريخ انتهاء الصلاحية</string>
+    <key>IDS_GEN_HEALTH-TOPICS</key>
+    <string>المواضيع الصحية</string>
+    <key>IDS_GEN_HOME</key>
+    <string>الصفحة الرئيسية</string>
+    <key>IDS_GEN_INTERNATIONAL</key>
+    <string>دولي</string>
+    <key>IDS_GEN_MODIFY-ORDER</key>
+    <string>التعديل على الطلب</string>
+    <key>IDS_GEN_MODIFY-ORDER-ITEMS</key>
+    <string>تعديل كمية المنتجات المطلوبة</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-ADDRESS</key>
+    <string>تعديل عنوان الشحن</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-METHOD_A</key>
+    <string>تعديل وسيلة الشحن</string>
+    <key>IDS_GEN_MY-IHERB-PAGE</key>
+    <string>صفحة iHerb الخاصة بي</string>
+    <key>IDS_GEN_NOTIFICATION-LIST</key>
+    <string>قائمة التنبيهات</string>
+    <key>IDS_GEN_NOTIFY-ME</key>
+    <string>قم بتنبيهي</string>
+    <key>IDS_GEN_ORDER-HISTORY</key>
+    <string>الطلبات السابقة</string>
+    <key>IDS_GEN_ORDER-SUMMARY</key>
+    <string>ملخص الطلب</string>
+    <key>IDS_GEN_PERSONAL-INFORMATION</key>
+    <string>المعلومات الشخصية</string>
+    <key>IDS_GEN_PRIVACY-POLICY</key>
+    <string>سياسة الخصوصية</string>
+    <key>IDS_GEN_RELATED-PRODUCTS</key>
+    <string>منتجات ذات صلة</string>
+    <key>IDS_GEN_REORDER</key>
+    <string>إعادة الطلب</string>
+    <key>IDS_GEN_RESET-PASSWORD</key>
+    <string>إعادة تعيين كلمة المرور</string>
+    <key>IDS_GEN_REWARDS</key>
+    <string>المكافآت</string>
+    <key>IDS_GEN_SEARCH</key>
+    <string>بحث</string>
+    <key>IDS_GEN_SETTINGS_A</key>
+    <string>الضبط</string>
+    <key>IDS_GEN_SHARE-YOUR-CART</key>
+    <string>شارك سلة تسوقك</string>
+    <key>IDS_GEN_SHIPPING-CALCULATOR</key>
+    <string>حساب عملية الشحن</string>
+    <key>IDS_GEN_SHIPPING-INFORMATION</key>
+    <string>معلومات الشحن الدولية</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT-COLON</key>
+    <string>وزن الشحنة:</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT_A</key>
+    <string>وزن الشحنة</string>
+    <key>IDS_GEN_SIGN-IN</key>
+    <string>تسجيل الدخول</string>
+    <key>IDS_GEN_TERMS-AND-CONDITIONS</key>
+    <string>القوانين والشروط</string>
+    <key>IDS_GEN_WISHLIST</key>
+    <string>قائمة الرغبات</string>
+    <key>IDS_GEN_WRITE-A-REVIEW</key>
+    <string>تقييمك للمنتج</string>
+    <key>IDS_HDR_ALL-CATEGORIES</key>
+    <string>جميع الأصناف</string>
+    <key>IDS_HDR_BENEFITS-SHOPPING-WITH-IHERB</key>
+    <string>مزايا التسوق عبر iHerb</string>
+    <key>IDS_HDR_PASSWORD-RESET</key>
+    <string>إعادة تعيين كلمة المرور</string>
+    <key>IDS_HDR_PRODUCT-OVERVIEW</key>
+    <string>نظرة عامة على المنتج</string>
+    <key>IDS_LBL-MENU</key>
+    <string>القائمة</string>
+    <key>IDS_LBL_ABOUT-IHERB</key>
+    <string>حول iHerb</string>
+    <key>IDS_LBL_ACCOUNT-NOTIFICATIONS</key>
+    <string>إشعارات الحساب</string>
+    <key>IDS_LBL_ACCOUNT-NUMBER_A</key>
+    <string>رقم الحساب</string>
+    <key>IDS_LBL_ADD-NEW-BILLING-ADDRESS_A</key>
+    <string>إضافة عنوان دفع جديد</string>
+    <key>IDS_LBL_ADD-NEW-SHIPPING-ADDRESS_A</key>
+    <string>إضافة عنوان شحن جديد</string>
+    <key>IDS_LBL_ADDRESS-1-AUSTRALIA</key>
+    <string>عنوان الشارع، صندوق البريد، اسم الشركة، اسم المنزل</string>
+    <key>IDS_LBL_ADDRESS-2-AUSTRALIA</key>
+    <string>شقة، جناح، وحدة، بناء، طابق، إلخ</string>
+    <key>IDS_LBL_ADDRESS-LINE1</key>
+    <string>العنوان الأول</string>
+    <key>IDS_LBL_ADDRESS-LINE2</key>
+    <string>العنوان الثاني</string>
+    <key>IDS_LBL_ADDRESS-VERIFICATION</key>
+    <string>تأكيد العنوان</string>
+    <key>IDS_LBL_ALSO-CREATE-BILLING-ADDRESS_A</key>
+    <string>قم أيضًا بإنشاء عنوان دفع</string>
+    <key>IDS_LBL_ALSO-CREATE-SHIPPING-ADDRESS_A</key>
+    <string>قم أيضًا بإنشاء عنوان شحن</string>
+    <key>IDS_LBL_AROMATHERAPY</key>
+    <string>العلاج بالروائح</string>
+    <key>IDS_LBL_AVAILABLE-COLON</key>
+    <string>متوفر:</string>
+    <key>IDS_LBL_BATH-AND-BEAUTY</key>
+    <string>الإستحمام</string>
+    <key>IDS_LBL_BEST-RATING</key>
+    <string>أفضل تقييم</string>
+    <key>IDS_LBL_BEST-SELLERS</key>
+    <string>أفضل المبيعات</string>
+    <key>IDS_LBL_BEST-SELLING</key>
+    <string>الأفضل مبيعًا</string>
+    <key>IDS_LBL_BILLING-ADDRESS</key>
+    <string>عنوانك الخاص بالدفع</string>
+    <key>IDS_LBL_BRANDS</key>
+    <string>العلامات التجارية</string>
+    <key>IDS_LBL_CACHE-CLEARED</key>
+    <string>Cache Cleared</string>
+    <key>IDS_LBL_CACHING</key>
+    <string>التخزين المؤقت</string>
+    <key>IDS_LBL_CACHING-LENGTH</key>
+    <string>طول التخزين المؤقت</string>
+    <key>IDS_LBL_CALCULATE-SHIPPING-COSTS_A</key>
+    <string>حساب تكاليف الشحن:</string>
+    <key>IDS_LBL_CANCEL-ORDER</key>
+    <string>إلغاء الطلب</string>
+    <key>IDS_LBL_CASH-ON-DELIVERY</key>
+    <string>الدفع عند التسليم</string>
+    <key>IDS_LBL_CATEGORIES</key>
+    <string>الفئات</string>
+    <key>IDS_LBL_CITY</key>
+    <string>المدينة</string>
+    <key>IDS_LBL_CLEARANCE_ITEMS</key>
+    <string>التصفية</string>
+    <key>IDS_LBL_CONFIRM-PASSWORD</key>
+    <string>تأكيد كلمة المرور</string>
+    <key>IDS_LBL_CONSIGNEE-NAME</key>
+    <string>اسم المستلم</string>
+    <key>IDS_LBL_COPY-ME-IN-EMAIL</key>
+    <string>إرسال نسخة لي عبر البريد الإلكتروني</string>
+    <key>IDS_LBL_COUNTRY</key>
+    <string>البلد</string>
+    <key>IDS_LBL_CREAMS-LOTIONS</key>
+    <string>الكريمات والمرطبات</string>
+    <key>IDS_LBL_CURRENCY_A</key>
+    <string>العملة</string>
+    <key>IDS_LBL_CURRENT-CART</key>
+    <string>سلة التّسوق الحالية</string>
+    <key>IDS_LBL_CUSTOMER-INFORMATION</key>
+    <string>معلومات عن الزبون</string>
+    <key>IDS_LBL_CUSTOMER-SERVICE</key>
+    <string>خدمة العملاء</string>
+    <key>IDS_LBL_DATE-COLON</key>
+    <string>التاريخ:</string>
+    <key>IDS_LBL_DEALS</key>
+    <string>العروض</string>
+    <key>IDS_LBL_DELIVERED-ON</key>
+    <string>التسليم في:</string>
+    <key>IDS_LBL_DESCRIPTION</key>
+    <string>الوصف</string>
+    <key>IDS_LBL_DESCRIPTION-OF-ISSUE</key>
+    <string>وصف المشكلة</string>
+    <key>IDS_LBL_DIET-AND-WEIGHT-LOSS</key>
+    <string>الحمية وفقدان الوزن</string>
+    <key>IDS_LBL_DIMENSIONS</key>
+    <string>الأبعاد</string>
+    <key>IDS_LBL_DISCOUNT-COLON</key>
+    <string>خصم:</string>
+    <key>IDS_LBL_DISCOUNT-S-COLON</key>
+    <string>الخصم/ الخصومات:</string>
+    <key>IDS_LBL_EDIT-BILLING-ADDRESS</key>
+    <string>تعديل عنوان الدفع</string>
+    <key>IDS_LBL_EDIT-REVIEW</key>
+    <string>تعديل التقييم</string>
+    <key>IDS_LBL_EDIT-SHIPPING-ADDRESS</key>
+    <string>تعديل عنوان الشحن</string>
+    <key>IDS_LBL_EMAIL-ADDRESS</key>
+    <string>عنوان البريد الإلكتروني</string>
+    <key>IDS_LBL_EMAIL-UPDATE</key>
+    <string>تحديث البريد الإلكتروني</string>
+    <key>IDS_LBL_ENABLE-TOUCH-ID</key>
+    <string>تفعيل بصمة الاصبع</string>
+    <key>IDS_LBL_ENTER-CODE</key>
+    <string>أدخل الرمز</string>
+    <key>IDS_LBL_ESTIMATED-DELIVERY</key>
+    <string>موعد التسليم المقدر:</string>
+    <key>IDS_LBL_ESTIMATED-ORDER-TOTAL-COLON</key>
+    <string>السعر الإجمالي الكامل للطلب مع الشحن المقدر:</string>
+    <key>IDS_LBL_ESTIMATED-TOTAL-IN-LOCALIZED_A</key>
+    <string>السعر الإجمالي الكامل للطلب مع الشحن بعملتك</string>
+    <key>IDS_LBL_EXP</key>
+    <string>تاريخ الانتهاء</string>
+    <key>IDS_LBL_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>إن عملية الدفع عبر {0} لم تكتمل!</string>
+    <key>IDS_LBL_FILL-PASSPORT-NUMBER</key>
+    <string>رقم جواز السفر</string>
+    <key>IDS_LBL_FOLDER-NAME_A</key>
+    <string>اسم المجلد</string>
+    <key>IDS_LBL_FROM_A</key>
+    <string>من</string>
+    <key>IDS_LBL_FULL-NAME</key>
+    <string>الاسم كامل (الأول و العائلي)</string>
+    <key>IDS_LBL_GROCERY</key>
+    <string>المواد الغذائية</string>
+    <key>IDS_LBL_HEALTHY-HOME</key>
+    <string>المنزل الصحي</string>
+    <key>IDS_LBL_HEAVIEST-TO-LIGHTEST_A</key>
+    <string>من الأثقل إلى الأخف</string>
+    <key>IDS_LBL_HERBS</key>
+    <string>الأعشاب</string>
+    <key>IDS_LBL_HIDE</key>
+    <string>إخفاء</string>
+    <key>IDS_LBL_HIGH-TO-LOW</key>
+    <string>من الأعلى إلى الأقل</string>
+    <key>IDS_LBL_HIGHEST-PRICE</key>
+    <string>السعر الأعلى</string>
+    <key>IDS_LBL_IMPORTANT-NOTE</key>
+    <string>ملاحظة هامة:</string>
+    <key>IDS_LBL_IN-STOCK-COLON</key>
+    <string>في المخزن:</string>
+    <key>IDS_LBL_IN-STOCK-NOTIFICATIONS_A</key>
+    <string>اشعارات المخزن</string>
+    <key>IDS_LBL_INFORMATION</key>
+    <string>المعلومات</string>
+    <key>IDS_LBL_ISSUE-INFORMATION</key>
+    <string>معلومات عن المشكلة</string>
+    <key>IDS_LBL_ISSUE-WITH-ENTIRE-ORDER</key>
+    <string>مشكلة في الطلب بأكمله</string>
+    <key>IDS_LBL_ISSUE-WITH-INDIVIDUAL-PRODUCTS</key>
+    <string>مشكلة مع بعض المنتجات</string>
+    <key>IDS_LBL_ITEM-PRICE</key>
+    <string>سعر المنتج</string>
+    <key>IDS_LBL_ITEMS-COUNT</key>
+    <string>المنتجات {0}</string>
+    <key>IDS_LBL_KIDS-AND-BABIES</key>
+    <string>الأطفال</string>
+    <key>IDS_LBL_LANGUAGE-CURRENCY</key>
+    <string>اللغة / العملة</string>
+    <key>IDS_LBL_LANGUAGE_A</key>
+    <string>اللغة</string>
+    <key>IDS_LBL_LARGE-ICON_A</key>
+    <string>رمز كبير</string>
+    <key>IDS_LBL_LEAVE</key>
+    <string>المغادرة</string>
+    <key>IDS_LBL_LESS</key>
+    <string>أقل</string>
+    <key>IDS_LBL_LIGHTEST-TO-HEAVIEST_A</key>
+    <string>من الاخف إلى الأثقل وزنًا</string>
+    <key>IDS_LBL_LOW-TO-HIGH</key>
+    <string>من الأقل إلى الأعلى</string>
+    <key>IDS_LBL_LOWEST-PRICE</key>
+    <string>السعر الأدنى</string>
+    <key>IDS_LBL_LOYALTY-CREDIT</key>
+    <string>برنامج ولاء العملاء</string>
+    <key>IDS_LBL_MAKE-SELECTION</key>
+    <string>الإختيار</string>
+    <key>IDS_LBL_MAX</key>
+    <string>أقصى</string>
+    <key>IDS_LBL_METHOD</key>
+    <string>الطريقة</string>
+    <key>IDS_LBL_MINIMUM-CUSTOMER-RATING_A</key>
+    <string>الحد الأدنى لتقييمات الزبائن</string>
+    <key>IDS_LBL_MODIFY-ORDER-INFO_A</key>
+    <string>تعديل معلومات الطلب</string>
+    <key>IDS_LBL_MODIFY-ORDER-ITEM-QUANTITY_A</key>
+    <string>تعديل كمية المنتج في الطلب</string>
+    <key>IDS_LBL_MORE</key>
+    <string>المزيد</string>
+    <key>IDS_LBL_MOST-HELPFUL</key>
+    <string>الأكثر مساعدة</string>
+    <key>IDS_LBL_MY-FOLDERS</key>
+    <string>ملفي</string>
+    <key>IDS_LBL_MY-REVIEWS</key>
+    <string>تقييماتي</string>
+    <key>IDS_LBL_MY-SAVED-SEARCHES_A</key>
+    <string>عمليات البحث المحفوظة الخاصة بي</string>
+    <key>IDS_LBL_NEW</key>
+    <string>جديد</string>
+    <key>IDS_LBL_NEW-PASSWORD</key>
+    <string>كلمة مرور جديدة</string>
+    <key>IDS_LBL_NEWEST</key>
+    <string>الأحدث</string>
+    <key>IDS_LBL_NOTIFICATIONS_A</key>
+    <string>الإشعارات</string>
+    <key>IDS_LBL_OLD-PASSWORD</key>
+    <string>كلمة المرور القديمة</string>
+    <key>IDS_LBL_OPTIONAL</key>
+    <string>اختياري</string>
+    <key>IDS_LBL_ORDER-CANCELLATION</key>
+    <string>إلغاء الطلب</string>
+    <key>IDS_LBL_ORDER-CONFIRMATION</key>
+    <string>تأكيد الطلب</string>
+    <key>IDS_LBL_ORDER-INFORMATION</key>
+    <string>معلومات عن الطلب</string>
+    <key>IDS_LBL_ORDER-ITEMS_A</key>
+    <string>عناصر الطلب</string>
+    <key>IDS_LBL_ORDER-MODIFICATION</key>
+    <string>تعديل الطلب</string>
+    <key>IDS_LBL_ORDER-NOTIFICATIONS</key>
+    <string>إشعارات الطلبات</string>
+    <key>IDS_LBL_ORDER-NUMBER</key>
+    <string>رقم الطلب</string>
+    <key>IDS_LBL_ORDER-NUMBER-COLON</key>
+    <string>رقم الطلب:</string>
+    <key>IDS_LBL_ORDER-SHIPPING</key>
+    <string>شحن الطلب</string>
+    <key>IDS_LBL_ORDER-STATUS</key>
+    <string>حالة الطلب</string>
+    <key>IDS_LBL_ORDER-TOTAL-COLON_A</key>
+    <string>مجموع الطلب</string>
+    <key>IDS_LBL_ORDER-TOTALS</key>
+    <string>المجموع الكلي للطلب:</string>
+    <key>IDS_LBL_OTHER-INFORMATION</key>
+    <string>معلومات أخرى</string>
+    <key>IDS_LBL_OTHER-INGREDIENTS</key>
+    <string>المكونات</string>
+    <key>IDS_LBL_PACKAGE-NUMBER-OF-TOTAL</key>
+    <string>{0} من {1}</string>
+    <key>IDS_LBL_PACKAGE-QUANTITY</key>
+    <string>عدد الحبات</string>
+    <key>IDS_LBL_PACKAGES</key>
+    <string>الطرد/ الطرود</string>
+    <key>IDS_LBL_PAID-WITH-EXTERNAL-PAYMENT</key>
+    <string>تم الدفع من خلال {0}</string>
+    <key>IDS_LBL_PASSWORD</key>
+    <string>كلمة المرور</string>
+    <key>IDS_LBL_PAYMENT-METHOD</key>
+    <string>وسيلة الدفع</string>
+    <key>IDS_LBL_PENDING-COLON</key>
+    <string>معلق:</string>
+    <key>IDS_LBL_PETS</key>
+    <string>الحيوانات الأليفة</string>
+    <key>IDS_LBL_PHONE-NUMBER</key>
+    <string>رقم الهاتف</string>
+    <key>IDS_LBL_POSTAL-CODE</key>
+    <string>الرمز البريدي</string>
+    <key>IDS_LBL_PREVIOUS-CART</key>
+    <string>سلة التسوق السابقة</string>
+    <key>IDS_LBL_PRICE</key>
+    <string>الثمن</string>
+    <key>IDS_LBL_PRICE-COLON</key>
+    <string>الثمن:</string>
+    <key>IDS_LBL_PRICE-TOGETHER</key>
+    <string>مسعران معا:</string>
+    <key>IDS_LBL_PRODUCT</key>
+    <string>المنتج</string>
+    <key>IDS_LBL_PRODUCT-CATEGORIES</key>
+    <string>فئات المنتجات</string>
+    <key>IDS_LBL_PRODUCT-CODE</key>
+    <string>رمز المنتج</string>
+    <key>IDS_LBL_PRODUCTS</key>
+    <string>المنتجات</string>
+    <key>IDS_LBL_QTY-COLON</key>
+    <string>الكمية:</string>
+    <key>IDS_LBL_RATING</key>
+    <string>التقييم</string>
+    <key>IDS_LBL_RECOMMENDATIONS</key>
+    <string>التوصيات</string>
+    <key>IDS_LBL_RELEVANCE</key>
+    <string>ذات صلة</string>
+    <key>IDS_LBL_REMOVED_A</key>
+    <string>تم إزالته</string>
+    <key>IDS_LBL_RESHIP-OF-ORDER</key>
+    <string>إعادة شحن الطلب رقم</string>
+    <key>IDS_LBL_RESHIPPED-UNDER-ORD</key>
+    <string>تم إعادة شحن المنتج تحت طلب رقم</string>
+    <key>IDS_LBL_REVIEW</key>
+    <string>تقييم</string>
+    <key>IDS_LBL_REVIEW-APP_A</key>
+    <string>تقييم التطبيق</string>
+    <key>IDS_LBL_REVIEW-TITLE</key>
+    <string>عنوان التقييم</string>
+    <key>IDS_LBL_REVIEWS</key>
+    <string>التقييمات</string>
+    <key>IDS_LBL_REWARDS-ADDRESS</key>
+    <string>عنوان المكافآت</string>
+    <key>IDS_LBL_REWARDS-CODE</key>
+    <string>كود المكافآت</string>
+    <key>IDS_LBL_REWARDS-CREDIT</key>
+    <string>رصيد المكافآت</string>
+    <key>IDS_LBL_SAME-AS-SHIPPING-ADDRESS</key>
+    <string>نفس عنوان الشحن</string>
+    <key>IDS_LBL_SAVED-SEARCHES_A</key>
+    <string>عمليات البحث المحفوظة</string>
+    <key>IDS_LBL_SAVINGS</key>
+    <string>مقدار الخصم</string>
+    <key>IDS_LBL_SAVINGS-COLON</key>
+    <string>مقدار الخصم:</string>
+    <key>IDS_LBL_SEARCH-HISTORY</key>
+    <string>سجل محفوظات البحث</string>
+    <key>IDS_LBL_SELECT-CURRENCY</key>
+    <string>اختر عملتك</string>
+    <key>IDS_LBL_SELECT-FROM-SAVED-ADDRESSES_M</key>
+    <string>اختر من العناوين المحفوظة</string>
+    <key>IDS_LBL_SELECT-LANGUAGE</key>
+    <string>اختر لغتك</string>
+    <key>IDS_LBL_SELECT-PREFERENCES</key>
+    <string>قم بتحديد وجهة الشحن والعملة واللغة.</string>
+    <key>IDS_LBL_SELECT-PRODUCT</key>
+    <string>اختيار المنتج</string>
+    <key>IDS_LBL_SELECT-REASON</key>
+    <string>اختيار السبب</string>
+    <key>IDS_LBL_SELECT-SHIPPING-METHOD</key>
+    <string>اختر وسيلة شحن</string>
+    <key>IDS_LBL_SELECT-YOUR-COUNTRY</key>
+    <string>اختر بلدك</string>
+    <key>IDS_LBL_SHIPPING</key>
+    <string>الشحن</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS</key>
+    <string>عنوان الشحن</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS-COLON</key>
+    <string>عنوان الشحن:</string>
+    <key>IDS_LBL_SHIPPING-METHOD</key>
+    <string>وسيلة الشحن</string>
+    <key>IDS_LBL_SHOW</key>
+    <string>عرض</string>
+    <key>IDS_LBL_SIGNIN_WITH_EMAIL</key>
+    <string>تسجيل الدخول بعنوان البريد الإلكتروني.</string>
+    <key>IDS_LBL_SMALL-ICON_A</key>
+    <string>رمز صغير</string>
+    <key>IDS_LBL_SORT-BY</key>
+    <string>تصنيف حسب</string>
+    <key>IDS_LBL_SORT_A</key>
+    <string>الصنف</string>
+    <key>IDS_LBL_SPECIALS</key>
+    <string>العروض الخاصة</string>
+    <key>IDS_LBL_SPORTS</key>
+    <string>الرياضات</string>
+    <key>IDS_LBL_STATE-REGION</key>
+    <string>الولاية/ المحافظة</string>
+    <key>IDS_LBL_STATE-TERRITORY</key>
+    <string>الولاية/ المنطقة</string>
+    <key>IDS_LBL_STATUS-COLON</key>
+    <string>الحالة:</string>
+    <key>IDS_LBL_SUBCATEGORIES_A</key>
+    <string>الأصناف الفرعية</string>
+    <key>IDS_LBL_SUBMIT</key>
+    <string>تقديم</string>
+    <key>IDS_LBL_SUBTOTAL-COLON</key>
+    <string>مجموع جزئي:</string>
+    <key>IDS_LBL_SUBURB</key>
+    <string>الضاحية</string>
+    <key>IDS_LBL_SUGGESTED-USE</key>
+    <string>طريقة الاستخدام</string>
+    <key>IDS_LBL_SUPERFOODS</key>
+    <string>الأطعمة الصحية</string>
+    <key>IDS_LBL_SUPPLEMENTS</key>
+    <string>المكملات الغذائية</string>
+    <key>IDS_LBL_TAX</key>
+    <string>الضريبة</string>
+    <key>IDS_LBL_TOTAL-CANCELLED</key>
+    <string>تم إلغاء المبلغ الإجمالي</string>
+    <key>IDS_LBL_TOTAL-COLON</key>
+    <string>الإجمالي:</string>
+    <key>IDS_LBL_TOTAL-ORDERS</key>
+    <string>مجموع الطلبات {0}</string>
+    <key>IDS_LBL_TOTAL-WEIGHT-COLON</key>
+    <string>الوزن الإجمالي</string>
+    <key>IDS_LBL_TRACKING-COLON</key>
+    <string>تتبع الطلب:</string>
+    <key>IDS_LBL_TRACKING-NUMBER</key>
+    <string>رقم التتبع:</string>
+    <key>IDS_LBL_TRIALS</key>
+    <string>منتجات تجريبية</string>
+    <key>IDS_LBL_UNITED-STATES</key>
+    <string>الولايات المتحدة</string>
+    <key>IDS_LBL_UPC-CODE</key>
+    <string>رمز المنتج العالمي UPC</string>
+    <key>IDS_LBL_UPDATE-SELECTION-SETTINGS</key>
+    <string>يمكنك تحديث ما قمت باختياره من الضبط</string>
+    <key>IDS_LBL_WARNINGS</key>
+    <string>تحذيرات</string>
+    <key>IDS_LBL_WEIGHT</key>
+    <string>الوزن</string>
+    <key>IDS_LBL_WEIGHT-COLON</key>
+    <string>الوزن:</string>
+    <key>IDS_LBL_ZIP-POSTAL</key>
+    <string>الرمز البريدي</string>
+    <key>IDS_LBL_ZIP-POSTAL-CODE-COLON_A</key>
+    <string>الرمز البريدي:</string>
+    <key>IDS_LNK_ACNE</key>
+    <string>حب الشباب</string>
+    <key>IDS_LNK_ALLERGIES</key>
+    <string>الحساسية</string>
+    <key>IDS_LNK_ANXIETY</key>
+    <string>القلق</string>
+    <key>IDS_LNK_CLOSE</key>
+    <string>إغلاق</string>
+    <key>IDS_LNK_COLD-FLU-VIRAL</key>
+    <string>البرد, الإنفلونزا&amp;amp; فيروسي</string>
+    <key>IDS_LNK_DELETE</key>
+    <string>حذف</string>
+    <key>IDS_LNK_DIET-WEIGHT-LOSS</key>
+    <string>خسارة الوزن</string>
+    <key>IDS_LNK_HAIR-ALOPECIA</key>
+    <string>الشعر, داء الثعلبة</string>
+    <key>IDS_LNK_HEADACHE</key>
+    <string>الصداع</string>
+    <key>IDS_LNK_INFLAMMATION</key>
+    <string>إلتهاب</string>
+    <key>IDS_LNK_JOINTS-LIGAMENTS</key>
+    <string>المفاصل، الأربطة</string>
+    <key>IDS_LNK_KIDNEY-BLADDER</key>
+    <string>الكلى، المثانة</string>
+    <key>IDS_LNK_LEARN-MORE-LOYALTY-CREDIT</key>
+    <string>معرفة المزيد حول برنامج ولاء العملاء في iHerb</string>
+    <key>IDS_LNK_LEARN-MORE-REWARDS-PROGRAM</key>
+    <string>معرفة المزيد حول برنامج المكافآت في iHerb</string>
+    <key>IDS_LNK_MY-ACCOUNT</key>
+    <string>حسابي</string>
+    <key>IDS_LNK_SIGN-OUT</key>
+    <string>تسجيل الخروج</string>
+    <key>IDS_LNK_SKIN-HEALTH</key>
+    <string>صحة الجلد</string>
+    <key>IDS_LNK_WOMEN-HEALTH</key>
+    <string>صحة النساء</string>
+    <key>IDS_MSG_ADDRESS-ADDED</key>
+    <string>تم إضافة العنوان</string>
+    <key>IDS_MSG_ADDRESS-DELETED</key>
+    <string>تم حذف العنوان</string>
+    <key>IDS_MSG_ALREADY-IN-WISH-LIST</key>
+    <string>يوجد هذا العنصر مسبقا في قائمة الرغبات</string>
+    <key>IDS_MSG_CANCEL-ENTIRE-ORDER</key>
+    <string>هل أنت متأكد أنك تريد إلغاء الطلب بأكمله؟</string>
+    <key>IDS_MSG_CART-MAY-NOT-CONTAIN-ALL-ITEMS</key>
+    <string>قد لا تحتوي سلة التسوق الخاصة بك على جميع العناصر التي قمت بإضافتها مسبقًا.</string>
+    <key>IDS_MSG_CHECK-INTERNET-CONNECTION</key>
+    <string>يرجى التحقق من اتصال الانترنت لديك.</string>
+    <key>IDS_MSG_CONFIRM-CLEAR-SEARCH-HISTORY_T</key>
+    <string>هل أنت متأكد أنك تريد مسح محفوظات البحث؟</string>
+    <key>IDS_MSG_CONFIRMATION-EMAIL-SENT</key>
+    <string>تم إرسال بريد التحقق الإلكتروني</string>
+    <key>IDS_MSG_CONNECTION-ISSUES-ACCESSING-CART</key>
+    <string>هناك مشاكل في الاتصال تمنع الوصول إلى سلة التسوق.</string>
+    <key>IDS_MSG_COUPON-APPLIED_A</key>
+    <string>تم تطبيق كوبون الخصم</string>
+    <key>IDS_MSG_COUPON-REMOVED</key>
+    <string>تم إزالة كوبون الخصم</string>
+    <key>IDS_MSG_DELETE-ADDRESS-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إزالة هذا العنوان؟</string>
+    <key>IDS_MSG_DELETE-CREDIT-CARD-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إزالة بطاقة الإئتمان هذه؟</string>
+    <key>IDS_MSG_DELETE-FOLDER-CONFIRMATION</key>
+    <string>هل أنت متأكد أنك تريد حذف هذا المجلد؟</string>
+    <key>IDS_MSG_DELETE-ICON-CONFRIMATION</key>
+    <string>هل تريد بالتأكيد إزالة هذا الرمز؟</string>
+    <key>IDS_MSG_DELETE-ITEM-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إزالة هذا العنصر؟</string>
+    <key>IDS_MSG_DID-YOU-MEAN</key>
+    <string>هل تقصد {0}؟</string>
+    <key>IDS_MSG_EDIT-BILLING-ADDRESS_A</key>
+    <string>تعديل عنوان الدفع الخاص بك أدناه</string>
+    <key>IDS_MSG_EDIT-FOLDER-NAME-AND-SAVE_A</key>
+    <string>قم بتعديل اسم المجلد الخاص بك أدناه ثم أنقر على حفظ</string>
+    <key>IDS_MSG_EDIT-SHIPPING-ADDRESS_A</key>
+    <string>تعديل عنوان الشحن الخاص بك أدناه</string>
+    <key>IDS_MSG_EMAIL-SENT</key>
+    <string>تم إرسال البريد الإلكتروني</string>
+    <key>IDS_MSG_FOLDER-ADDED-TO-CART_A</key>
+    <string>تم إضافة المجلد إلى سلة التسوق</string>
+    <key>IDS_MSG_HERE-ARE-SOME-SIMILAR-PRODUCTS</key>
+    <string>إليكم بعض المنتجات المماثلة:</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-CART_A</key>
+    <string>تم إضافة المنتج إلى سلة التسوق</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-WISHLIST</key>
+    <string>تم إضافة المنتج إلى قائمة الرغبات</string>
+    <key>IDS_MSG_ITEM-DELETED_A</key>
+    <string>تم حذف المنتج</string>
+    <key>IDS_MSG_ITEM-REMOVED</key>
+    <string>تم إزالة المنتج</string>
+    <key>IDS_MSG_ITEMS-ADDED</key>
+    <string>تم إضافة المنتج/ المنتجات إلى سلة التسوق.</string>
+    <key>IDS_MSG_ITEMS-COPIED_A</key>
+    <string>تم نسخ المنتج/المنتجات</string>
+    <key>IDS_MSG_ITEMS-MOVED</key>
+    <string>تم نقل المنتج/ المنتجات.</string>
+    <key>IDS_MSG_LEAVE-APP-AND-OPEN-BROWSER</key>
+    <string>هل أنت متأكدٌ بأنك تريد مغادرة تطبيق iHerb وفتح رابط في متصفحٍ خارجي؟</string>
+    <key>IDS_MSG_LEAVE-CHECKOUT-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد مغادرة عملية الدفع؟</string>
+    <key>IDS_MSG_LEAVE-ORDER-ISSUES-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد ترك عملية مشكلات الطلب؟</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S00</key>
+    <string>تم إرسال الرابط الذي سيسمح لك بإعادة تعيين كلمة المرور إلى عنوان بريدك الإلكتروني.</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S01</key>
+    <string>ينبغي أن تتوصل به خلال الدقائق الخمسة المقبلة.</string>
+    <key>IDS_MSG_LOG-OUT-CONFIRMATION</key>
+    <string>هل أنت متأكد أنك تريد تسجيل الخروج.</string>
+    <key>IDS_MSG_NO-ITEMS-IN-WISHLIST</key>
+    <string>لا يوجد هناك منتجاتٌ في قائمة الرغبات.</string>
+    <key>IDS_MSG_NOT-AVAILABLE</key>
+    <string>غير متوفر</string>
+    <key>IDS_MSG_NOT-RECOGNIZE-ADDRESS</key>
+    <string>نظام التحقق من العنوان الداخلي لدينا لا يعترف بالعنوان الذي أدخلته.</string>
+    <key>IDS_MSG_NOTHING-TO-REMOVE</key>
+    <string>لا يوجد شي ليتم إزالته</string>
+    <key>IDS_MSG_NOTIFY-LIST-IN-LIST</key>
+    <string>يوجد هذا المنتج مسبقا في  قائمة التنبيهات الخاصة بك.</string>
+    <key>IDS_MSG_OPTION-UNAVAILABLE-FOR-ORDER_A</key>
+    <string>هذا الخيار غير متاح لهذا الطلب</string>
+    <key>IDS_MSG_ORDER-HISTORY-EMPTY</key>
+    <string>إن سجل الطلبات فارغ حاليًا.</string>
+    <key>IDS_MSG_PASSWORD-WAS-SAVED</key>
+    <string>تم حفظ كلمة المرور</string>
+    <key>IDS_MSG_PAYMENT-FAILED</key>
+    <string>فشلت عملية الدفع</string>
+    <key>IDS_MSG_PAYMENT-PENDING</key>
+    <string>عملية الدفع معلقة</string>
+    <key>IDS_MSG_PAYMENT-SUCCESSFUL</key>
+    <string>نجحت عملية الدفع</string>
+    <key>IDS_MSG_PLEASE-BROWSE-ADD-PRODUCTS_A</key>
+    <string>يرجى القيام بالبحث أو التصفح حول المنتج من أجل إضافته إلى سلة التسوق الخاصة بك.</string>
+    <key>IDS_MSG_PRODUCT-NOT-AVAILABLE</key>
+    <string>هذا المنتج غير متوفر.</string>
+    <key>IDS_MSG_QUANTITY-UPDATED</key>
+    <string>تم تحديث الكمية</string>
+    <key>IDS_MSG_REACHED-LIMIT-HOMEPAGE-ICONS_A</key>
+    <string>لقد بلغت الحد الأقصى.</string>
+    <key>IDS_MSG_REMOVE-ALL-ITEMS-CONFIRMATION</key>
+    <string>هل أنت متأكد من أنك تريد إزالة جميع العناصر؟</string>
+    <key>IDS_MSG_REMOVE-PHOTO-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إزالة هذه الصورة؟</string>
+    <key>IDS_MSG_REMOVE-REVIEW-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد بحذف هذا التقييم؟</string>
+    <key>IDS_MSG_REMOVE-THIS-ITEM-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إزالة هذا العنصر؟</string>
+    <key>IDS_MSG_REORDER-CONFIRMATION_A</key>
+    <string>هل تريد بالتأكيد القيام بإعادة الطلب؟</string>
+    <key>IDS_MSG_REWARDS-ADDRESS-NOT-APPROVED</key>
+    <string>لم تتم الموافقة بعد على عنوان المكافآت الخاص بك. سيتم التواصل معك عبر خدمة عملاء iHerb من أجل الموافقة على العنوان.</string>
+    <key>IDS_MSG_SAVE-CHANGES-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد حفظ هذه التغييرات؟</string>
+    <key>IDS_MSG_SAVED-SUCCESSIVELY_A</key>
+    <string>تم الحفظ بنجاح</string>
+    <key>IDS_MSG_SEARCH-RESULTS-FOR-COLON_A</key>
+    <string>: {0} نتائج البحث حول</string>
+    <key>IDS_MSG_SEARCH-RESULTS-REVIEWS-COLON_A</key>
+    <string>:نتائج البحث حول {0} في التقييمات</string>
+    <key>IDS_MSG_SELECT-ICON-SIZE_A</key>
+    <string>هل ترغب في إضافة رمز كبير أو صغير؟</string>
+    <key>IDS_MSG_SELECT-ICON-TYPE_A</key>
+    <string>قم بتحديد نوع الرمز الذي تود إنشاءه</string>
+    <key>IDS_MSG_SHARE-YOUR-CART</key>
+    <string>.iHerb.com تَفَقَّدْ سلة التسوق الخاصة بي على</string>
+    <key>IDS_MSG_SUBMIT-FORM-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد إرسال هذا النموذج؟</string>
+    <key>IDS_MSG_THANKS-FOR-FEEDBACK</key>
+    <string>شكرًا على ملاحظاتك !</string>
+    <key>IDS_MSG_THERE-ARE-NO-SEARCH-RESULTS-FOR</key>
+    <string>لا توجد نتائج بحث حول {0}.</string>
+    <key>IDS_MSG_TOUCH-ID-ENABLED-AFTER-LOGIN</key>
+    <string>سيتم تفعيل بصمة الأصبع بعد قيامك بتسجيل الدخول وذلك للسماح لك بالدخول إلى حساب iHerb الخاصة بك</string>
+    <key>IDS_MSG_TRY-AGAIN_A</key>
+    <string>حاول مجددًا</string>
+    <key>IDS_MSG_WE-DO-NOT-CARRY</key>
+    <string>لا يتوفر لدينا {0}</string>
+    <key>IDS_MSG_WISH-LIST-COPY-SUBTITLE</key>
+    <string>إلى أي مجلد تود القيام بنسخ المنتج/ المنتجات إليه؟</string>
+    <key>IDS_MSG_WISH-LIST-EMPTY</key>
+    <string>إن قائمة الرغبات فارغة حاليًا.</string>
+    <key>IDS_MSG_WISH-LIST-MOVE-SUBTITLE</key>
+    <string>إلى أي مجلد تود القيام بنقل المنتج/ المنتجات إليه؟</string>
+    <key>IDS_MSG_WRITE-REVIEW-MUST-SHIPPED-ORDER</key>
+    <string>من أجل إضافة تقييم، يجب عليك أولًا القيام بشحن الطلب.</string>
+    <key>IDS_MSG_WRITE-YOUR-REVIEW-HERE_A</key>
+    <string>أكتب تقييمك هنا</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-DELETED</key>
+    <string>تم مسح تقييمك.</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-SAVED</key>
+    <string>تم حفظ تقييمك.</string>
+    <key>IDS_TTL_APPLIED-CODES</key>
+    <string>الأكواد المطبّقة</string>
+    <key>IDS_TTL_APPLY-REWARDS-OR-PROMO-CODE</key>
+    <string>تطبيق نظام المكافآت أو كود الخصم</string>
+    <key>IDS_TTL_CHECKOUT</key>
+    <string>الدفع</string>
+    <key>IDS_TTL_CUSTOMIZE-ICON_A</key>
+    <string>أيقونة التخصيص</string>
+    <key>IDS_TTL_EDIT-FOLDER-NAME_A</key>
+    <string>تعديل اسم المجلد</string>
+    <key>IDS_TTL_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>تعديل اسم البحث المحفوظ</string>
+    <key>IDS_TTL_ERROR_A</key>
+    <string>خطأ</string>
+    <key>IDS_TTL_KOREAN-PCC</key>
+    <string>Korean PCC</string>
+    <key>IDS_TTL_LOGIN</key>
+    <string>تسجيل الدخول</string>
+    <key>IDS_TTL_NEW-BILLING-ADDRESS_A</key>
+    <string>عنوان دفع جديد</string>
+    <key>IDS_TTL_NEW-FEATURE-DEMO_A</key>
+    <string>الخاصية التجريبية الجديدة</string>
+    <key>IDS_TTL_NEW-REWARDS-ADDRESS_A</key>
+    <string>عنوان المكافآت الجديد</string>
+    <key>IDS_TTL_NEW-SHIPPING-ADDRESS_A</key>
+    <string>عنوان شحن جديد</string>
+    <key>IDS_TTL_ORDER-ISSUES</key>
+    <string>مشكلات الطلب</string>
+    <key>IDS_TTL_PROFILE</key>
+    <string>الملف الشخصي</string>
+    <key>IDS_TTL_SEARCH-TITLE_A</key>
+    <string>عنوان البحث</string>
+    <key>IDS_TTL_SELECT-FOLDER_A</key>
+    <string>اختيار مجلد</string>
+    <key>IDS_TTL_SELECT-HEALTH-TOPIC</key>
+    <string>اختيار موضوع صحي</string>
+    <key>IDS_TTL_SELECT-ICON-IMAGE_A</key>
+    <string>اختيار الصورة الرمزية</string>
+    <key>IDS_TTL_SELECT-ORDER-NUMBER</key>
+    <string>اختيار رقم الطلب</string>
+    <key>IDS_TTL_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>اختيار فئة المنتج</string>
+    <key>IDS_TTL_SELECT-SAVED-SEARCH_A</key>
+    <string>اختيار البحث المحفوظ</string>
+    <key>IDS_TTL_SHOPPING-CART</key>
+    <string>سلة التسوق</string>
+    <key>IDS_TXT_ACCESS-YOUR-SAVED-SEARCHES-MORE</key>
+    <string>الدخول إلى عمليات البحث المحفوظة وأكثر</string>
+    <key>IDS_TXT_AGREE_TERMS_POLICY_STATEMENT</key>
+    <string>بإنشاء حساب، فإنك توافق على &lt;a href="{0}" target="_blank"&gt;سياسة الخصوصية&lt;/a&gt; و&lt;a href="{1}" target="_blank"&gt;شروط الاستخدام&lt;/a&gt; الخاصة بنا</string>
+    <key>IDS_TXT_AUTOENROLL_EARN-BACK</key>
+    <string>احصل عل  10% استرداد</string>
+    <key>IDS_TXT_AUTOENROLL_GET_PAID</key>
+    <string>احصل على 5 دولار  5%</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-LOYALTY-CREDIT</key>
+    <string>مع برنامج ولاء العملاء الخاص بنا عند كل طلب.</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-OUR-REFERRAL</key>
+    <string>مع برنامج المكافآت الخاص بنا عند إحالتكم لكل عميل جديد إلينا.</string>
+    <key>IDS_TXT_BUY-THESE-TOGETHER</key>
+    <string>اشتري هذه المنتجات معا</string>
+    <key>IDS_TXT_CACHING-NOTES</key>
+    <string>عند قيامك بتشغيل ذاكرة التخزين المؤقت، فستكون قادرًا على تصفح الصفحات التي قمت بزيارتها مؤخرًا مع اتصال إنترنت محدود أو مع عدم وجود اتصال. ويرجى الملاحظة أن السعر والمعلومات الأخرى قد تكون قديمة عند عرض الصفحات المخزّنة مؤقتًا.</string>
+    <key>IDS_TXT_CART-IS-EMPTY</key>
+    <string>سلة التسوق الخاصة بك فارغة</string>
+    <key>IDS_TXT_CASH-ON-DELIVERY</key>
+    <string>تسديد المبلغ نقدا عند استلام الطلب</string>
+    <key>IDS_TXT_CLEAR-CACHE-CONFIRM</key>
+    <string>هل تريد بالتأكيد مسح ذاكرة التخزين المؤقت؟</string>
+    <key>IDS_TXT_DELETE-COUPON-CODE-CONFIRMATION</key>
+    <string>هل تريد بالتأكيد حذف كوبون الخصم هذا؟</string>
+    <key>IDS_TXT_DIGIT-CODE</key>
+    <string>الرمز مكون من 6 أرقام</string>
+    <key>IDS_TXT_DIGIT-CODE-REQUIERED</key>
+    <string>مطلوب إدخال الرمز المكون من 6 أرقام</string>
+    <key>IDS_TXT_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>قم بتعديل اسم البحث المحفوظ هذا، واضغط على حفظ.</string>
+    <key>IDS_TXT_ENTER-FOLDER-NAME</key>
+    <string>أدخل اسم مجلد جديد</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S00</key>
+    <string>يعتمد طول الفترة الزمنية لتاريخ انتهاء الصلاحية أو "تاريخ أفضل استخدام" على نوعية المنتج، فضلًا عن العلامة التجارية.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S01</key>
+    <string>عادةً ما تكون تواريخ انتهاء الصلاحية للمواد القابلة للتلف (مثل زيوت الكتان أو بعض المعززات الحيوية) أقصر من غيرها. فعلى الرغم من أن مستودعاتنا مكيفة بالكامل، إلى أن هذه المنتجات سريعة العطب، ويتم وضعها في مخازن باردة (وحدة التبريد أو التجميد) للحصول على أقصى فعالية لها.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S02</key>
+    <string>تقوم دائرة الاستلام ببذل قصارى جهودها للتحقق ومن ثم إدخال تواريخ انتهاء الصلاحية الصحيحة لجميع المنتجات الواردة. ومع ذلك، فقد تحدث بعض التفاوتات من وقتٍ إلى آخر. مع ذلك, فان المبيعات الكلية الاستثنائية في شركة iHerb تضمن بأن مخزوننا من بين أكثر المخزونات الطازجة في هذه الصناعة.</string>
+    <key>IDS_TXT_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>نأسف، لم نتلقى المبلغ الذي قمت بدفعه عبر {0} بعد. إذا كنت قد أكملت عملية الدفع عبر {1} يرجى إمهالنا ساعتين على الأقل حتى يتم تحديث البيانات في النظام لدينا. إذا استمرت المشكلة المتعلقة بالدفع بعد انقضاء الساعتين، يرجى إما المحاولة مجددًا أو التواصل مع خدمة العملاء للحصول على المساعدة.  
+&lt;br /&gt;
+&lt;br /&gt;
+
+إذا لم تكتمل عملية الدفع الخاصة بك عبر {2} يمكنك محاولة الضغط على الزر أدناه، لإكمال عملية الدفع.</string>
+    <key>IDS_TXT_FIND-OR-TRACK-YOUR-ORDERS</key>
+    <string>إيجاد أو تتبع طلباتك</string>
+    <key>IDS_TXT_IMPORTANT-NOTE</key>
+    <string>ملاحظة هامة</string>
+    <key>IDS_TXT_ITEMS-FROM-PREVIOUS-SESSION</key>
+    <string>يوجد لديك عناصر في سلة التسوق الخاصة بك من جلسة تسوق سابقة</string>
+    <key>IDS_TXT_LANGUAGE-SETTINGS-ALERT</key>
+    <string>يرجى تحديد اللغة المطلوبة من إعدادات iOS</string>
+    <key>IDS_TXT_LOGIN-TO-YOUR-ACCOUNT-TO</key>
+    <string>تسجيل الدخول إلى الحساب الخاص حتى:</string>
+    <key>IDS_TXT_LOGIN-USING-TOUCH-ID</key>
+    <string>يمكنك تسجيل الدخول باستخدام بصمة الإصبع</string>
+    <key>IDS_TXT_LOGIN_SHOP_TOP_BRANDS</key>
+    <string>تسوق بين أكثر من 35.000 منتج صحي لأفضل العلامات التجارية واحصل على تخفيض في قيمة الشحن الدولي للطلبات التي تتعدى قيمتها 40 دولار أمريكي.</string>
+    <key>IDS_TXT_MANAGE-REWARDS-ADDRESS</key>
+    <string>يمكنك إدارة عنوان المكافآت عن طريق تسجيل الدخول إلى &lt;a class="{0}" href="{1}"&gt;موقع المكافآت&lt;/a&gt;.</string>
+    <key>IDS_TXT_MANAGE-YOUR-WISH-LIST</key>
+    <string>إدارة قائمة الرغبات الخاصة بك</string>
+    <key>IDS_TXT_MODIFY-ORDER-ITEMS_A</key>
+    <string>تغيير كمية المنتجات في طلبك أو إزالة بعض المنتجات</string>
+    <key>IDS_TXT_MODIFY-ORDER-NOTE</key>
+    <string>يرجى الملاحظة بأن تعديل الطلب الخاص بك قد يتسبب في تأخير التسليم وذلك تبعًا لعملية فحص التزوير.</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-ADDRESS_A</key>
+    <string>قم باختيار أحد العناوين أدناه أو قم بإضافة عنوان جديد</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-METHOD_A</key>
+    <string>قم باختيار أحد خيارات التوصيل  أدناه</string>
+    <key>IDS_TXT_NEW-BILLING-ADDRESS_A</key>
+    <string>إضافة عنوان دفع جديد أدناه</string>
+    <key>IDS_TXT_NEW-FEATURE-DEMO_A</key>
+    <string>يتضمن تطبيق iHerb الجديد العديد من المميزات الجديدة والتي نرغب في أن نريك إياها.</string>
+    <key>IDS_TXT_NEW-SHIPPING-ADDRESS_A</key>
+    <string>إضافة عنوان شحن جديد أدناه</string>
+    <key>IDS_TXT_NO-ITEMS-IN-NOTIFY-LIST</key>
+    <string>لا يوجد هناك أي منتجات في قائمة الإشعارات الخاصة بك. إذا طلبت أن يتم إشعارك عند توفر أحد المنتجات التي نفذت من المخزون، فسيظهر ذلك المنتج هنا.</string>
+    <key>IDS_TXT_NOTIFIED-WHEN-PRODUCT-AVAILABLE</key>
+    <string>سيتم إشعارك عندما يصبح هذا المنتج متاحًا.</string>
+    <key>IDS_TXT_NUMBER-DAYS</key>
+    <string>{0} يوم/أيام</string>
+    <key>IDS_TXT_NUMBER-OF-REVIEWS</key>
+    <string>{0} تقييمات</string>
+    <key>IDS_TXT_OR</key>
+    <string>أو</string>
+    <key>IDS_TXT_ORDER-ISSUE</key>
+    <string>لمساعدتك بشكلٍ أفضل في حل أي مشكلة تواجه طلبك، يرجى تعبئة النموذج أدناه.</string>
+    <key>IDS_TXT_OTHER-DEVICE-EMAIL-MODIFIED</key>
+    <string>تم تحديث البريد الإلكتروني الخاص بك</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CANCELLED</key>
+    <string>Your order, {0}, has been cancelled</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CONFIRMATION</key>
+    <string>Your order, {0}, has been placed</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-MODIFIED</key>
+    <string>Your order, {0}, has been modified</string>
+    <key>IDS_TXT_OTHER-DEVICE-PASSWORD-RESET</key>
+    <string>تم إعادة تعيين كلمة المرور الخاصة بك</string>
+    <key>IDS_TXT_PAYMENT-METHOD-SUBTITLE_A</key>
+    <string>عرض أو تعديل وسائل الدفع المحفوظة مسبقًا</string>
+    <key>IDS_TXT_PEOPLE-FOUND-REVIEW-HELFUL</key>
+    <string>{0} من الأشخاص قد وجدوا  التقييم التالي مفيدًا</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-KG</key>
+    <string>{0} كغم</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-LBS</key>
+    <string>{0} رطل</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-EMAIL-UPDATE</key>
+    <string>ستتلقى التنبيهات عند تحديث البريد الإلكتروني الخاص بك على جهاز آخر</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-IN-STOCK_A</key>
+    <string>ستتلقى التنبيهات عند عودة المنتجات التي نفذت من المخزون والمهتم بها إلى المخزون مجددًا</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CANCEL</key>
+    <string>ستتلقى التنبيهات عند إلغاء الطلبات على جهازٍ آخر</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CONFIRM</key>
+    <string>ستتلقى التنبيهات عند وضع الطلبات على جهازٍ آخر</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-MODIF</key>
+    <string>ستتلقى التنبيهات عند تعديل الطلبات على جهازٍ آخر</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-PASS-RESET</key>
+    <string>ستتلقى التنبيهات عند إعادة تعيين كلمة المرور الخاصة بك على جهاز آخر</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-SHIPPED-OUT_A</key>
+    <string>ستتلقى التنبيهات عند القيام بشحن طلباتك</string>
+    <key>IDS_TXT_PUSH-NOTIFICATION_I</key>
+    <string>Please go to your phone's Settings &gt; Notifications &gt; iHerb, and enable "Allow Notifications"</string>
+    <key>IDS_TXT_RESET-PASSWORD</key>
+    <string>.أدخال عنوان بريدك الإلكتروني وسنرسل لك رابط لإنشاء كلمة مرور جديدة. لأسباب أمنية، ستُحذف جميع بيانات البطاقة الائتمانية من حسابك عند إعادة ضبط كلمة مرورك</string>
+    <key>IDS_TXT_RESET-PASSWORD-NOTE1</key>
+    <string>نظرًا لأن رابط إعادة تعيين كلمة المرور الخاصة بك قد تم إرساله عبر البريد الإلكتروني الآلي، ولأن بعض مقدمي خدمة البريد الإلكتروني قد يقوموا بوضع البريد الإلكتروني في المجلد غير المرغوب به أو المجلد المهمل. فيرجى التأكد من التحقق من تلك المجلدات، إذا كنت غير قادر على إيجاد البريد الإلكتروني الذي أرسلناه.</string>
+    <key>IDS_TXT_RESET-PASSWORD-SECURITY-HTML_A</key>
+    <string>تبعًا لأسبابٍ أمنية،&lt;font color="#FF0000"&gt; سيتم إزالة كافة معلومات بطاقة الائتمان من حسابك&lt;/font&gt; بمجرد إعادة ضبط كلمة المرور الخاصة بك.</string>
+    <key>IDS_TXT_RESULTS-FOR_A</key>
+    <string>النتائج حول {0}</string>
+    <key>IDS_TXT_REVIEWED-ON-DATE_A</key>
+    <string>Reviewed on {0}</string>
+    <key>IDS_TXT_REWARDS-ADDRESS-SUBTITLE_A</key>
+    <string>قم بإضافة أو تغيير عنوانك لتلقي الشيكات من المكافآت التي تصل إلى 300 دولارا أو أكثر.</string>
+    <key>IDS_TXT_SAVE</key>
+    <string>وفر</string>
+    <key>IDS_TXT_SAVE-WHEN-BUY-TOGETHER</key>
+    <string>وفّر {0} عند قيامك أيضًا بشراء {1} اليوم.</string>
+    <key>IDS_TXT_SEARCH-TITLE_A</key>
+    <string>قم بمنح البحث الخاص بك اسمًا، حيث يمكنك إضافته على صفحة iHerb الرئيسية لديك.</string>
+    <key>IDS_TXT_SEE-PRICE-IN-CART</key>
+    <string>رؤية السعر في سلة التسوق!</string>
+    <key>IDS_TXT_SELECT-AND-CONTINUE-BELOW</key>
+    <string>إذا كنت تشعر أنك قد أدخلت عنوانك بشكلٍ صحيح، يمكنك "الاختيار &amp;amp; المتابعة" أدناه:</string>
+    <key>IDS_TXT_SELECT-CACHE-SETTINGS_LENGTH</key>
+    <string>قم باختيار طول ذاكرة التخزين المؤقت أدناه.</string>
+    <key>IDS_TXT_SELECT-HEALTH-TOPIC</key>
+    <string>قم باختيار الموضوع الصحي الذي ترغب في الاستفادة منه</string>
+    <key>IDS_TXT_SELECT-ICON-IMAGE_A</key>
+    <string>قم باختيار الصورة التي ترغب في استخدامها</string>
+    <key>IDS_TXT_SELECT-ORDER-NUMBER</key>
+    <string>قم باختيار طلب من القائمة أدناه</string>
+    <key>IDS_TXT_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>قم باختيار فئة المنتج التي ترغب باستخدامها</string>
+    <key>IDS_TXT_SELECT-PRODUCT-FROM-YOUR-ORDER</key>
+    <string>قم باخيتار منتج من الطلب الخاص بك</string>
+    <key>IDS_TXT_SELECT-SAVED-SEARCH_A</key>
+    <string>قم باختيار البحث المحفوظ الذي ترغب في استخدامه</string>
+    <key>IDS_TXT_SEND-CODE</key>
+    <string>أرسل الرمز</string>
+    <key>IDS_TXT_SHARE-PRODUCT</key>
+    <string>اكتشف هذا المنتج الذي وجدته على iHerb.com</string>
+    <key>IDS_TXT_SHARED-CART</key>
+    <string>اضغط على زر "أضف إلى سلة التسوق" لإضافة المنتجات المشتركة أدناه إلى سلة التسوق الخاصة بك. سيظل بإمكانك إجراء تغييرات على سلة التسوق الخاصة بك لاحقا.</string>
+    <key>IDS_TXT_SHIPPING-WEIGHT</key>
+    <string>يتضمن وزن الشحن، المنتج ومواد التعبئة ومواد التغليف الواقية وصندوق الشحن الفعلي. بالإضافة إلى ذلك، فقد يتم تعديل وزن الشحن وفق الوزن الحجمي (مثل طول وعرض &amp;amp; وارتفاع) الطرد. ومن الهام الإشارة إلى أن هناك أنواع معينة من المنتجات (مثل العبوات الزجاجية أو السوائل أو المنتجات القابلة للكسر أو تلك المبردة أو المجمدة) التي غالبًا ما تستوجب استخدام مواد تغليف واقية. وبناءً عليه، فستعكس هذه المنتجات وزن شحن أكبر مقارنةً بالمنتجات غير المحمية.</string>
+    <key>IDS_TXT_SIGN-IN-WITH-EMAIL</key>
+    <string>إذا كنت لا تتذكر كلمة مرورك، يمكنك تسجيل الدخول بالبريد الإلكتروني. سنرسل لك رمز يمكنك إدخاله في الشاشة التالية لتسجيل الدخول دون كلمة مرور.</string>
+    <key>IDS_TXT_UPDATE-YOUR-PROFILE-INFO</key>
+    <string>تحديث معلومات الملف الشخصي الخاص بك</string>
+    <key>IDS_TXT_VERIFICATION-EMAIL-NOTICE</key>
+    <string>سيصلك بريد تحقق إلكتروني من iHerb بعد تغيير البريد الإلكتروني. يرجى اتباع الإرشادات لإتمام عملية التحديث.</string>
+    <key>IDS_TXT_VIEW-YOUR-CUSTOMIZED-HOMEPAGE</key>
+    <string>عرض الصفحة الرئيسية المخصصة الخاصة بك</string>
+    <key>IDS_TXT_XE-CONVERSION-RATES_A</key>
+    <string>يتم تحديث أسعار تحويل العملات بشكلٍ تقريبي و يومي وفقًا لموقع XE.com. ستتم معالجة طلبك بالدولار الأمريكي.</string>
+  </dict>
+</plist>

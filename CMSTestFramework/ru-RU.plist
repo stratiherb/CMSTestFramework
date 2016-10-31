@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>IDS_BTN_ADD-ANOTHER-ITEM</key>
+    <string>Добавить другой товар</string>
+    <key>IDS_BTN_ADD-BILLING-ADDRESS_A</key>
+    <string>Добавить Платежный Адрес</string>
+    <key>IDS_BTN_ADD-BOTH-TO-CART</key>
+    <string>Добавить Обе Позиции в Корзину</string>
+    <key>IDS_BTN_ADD-FOLDER-TO-CART</key>
+    <string>Добавить Папку в Корзину</string>
+    <key>IDS_BTN_ADD-NEW-FOLDER_A</key>
+    <string>Добавить Новую Папку</string>
+    <key>IDS_BTN_ADD-PAYMENT-METHOD_A</key>
+    <string>Добавить Способ Оплаты</string>
+    <key>IDS_BTN_ADD-PERSONAL-INFORMATION_A</key>
+    <string>Добавить Персональную Информацию</string>
+    <key>IDS_BTN_ADD-PHOTO</key>
+    <string>Добавить фотографию</string>
+    <key>IDS_BTN_ADD-REWARDS-ADDRESS_A</key>
+    <string>Добавить адрес для получения вознаграждений</string>
+    <key>IDS_BTN_ADD-SHIPPING-ADDRESS_A</key>
+    <string>Добавить Адрес Доставки</string>
+    <key>IDS_BTN_ADD-TO-CART</key>
+    <string>Добавить в Корзину</string>
+    <key>IDS_BTN_ADD-TO-WISH-LIST</key>
+    <string>Добавить в Лист Желаний</string>
+    <key>IDS_BTN_APP-DEMO_A</key>
+    <string>Демо-версия Приложения</string>
+    <key>IDS_BTN_APPLY</key>
+    <string>Применить</string>
+    <key>IDS_BTN_APPLY-CODE</key>
+    <string>Применить код</string>
+    <key>IDS_BTN_CALCULATE</key>
+    <string>Рассчитать</string>
+    <key>IDS_BTN_CANCEL</key>
+    <string>Отменить</string>
+    <key>IDS_BTN_CHOOSE-EXISTING-PHOTO</key>
+    <string>Выбрать фотографию</string>
+    <key>IDS_BTN_CLEAR-CACHE</key>
+    <string>Очистить кэш</string>
+    <key>IDS_BTN_CLEAR_A</key>
+    <string>Очистить</string>
+    <key>IDS_BTN_COMBINE-BOTH-CARTS</key>
+    <string>Обьединить Обе Корзины</string>
+    <key>IDS_BTN_COMPLETE-PAYMENT</key>
+    <string>Завершить Оплату</string>
+    <key>IDS_BTN_CONTINUE</key>
+    <string>Продолжить</string>
+    <key>IDS_BTN_CONTINUE-TO-APP</key>
+    <string>Продолжить в приложении</string>
+    <key>IDS_BTN_COPY-TO-WISH-LIST_A</key>
+    <string>Сохранить в Листе Желаний</string>
+    <key>IDS_BTN_CREATE-ACCOUNT</key>
+    <string>Создать Аккаунт </string>
+    <key>IDS_BTN_CREATE-NEW-SAVED-SEARCH_A</key>
+    <string>Создать Новый Сохраненный Поиск</string>
+    <key>IDS_BTN_CUSTOMIZABLE-HOMEPAGE_A</key>
+    <string>Возможность персонализации домашней страницы</string>
+    <key>IDS_BTN_DELETE-REVIEW</key>
+    <string>Удалить отзыв</string>
+    <key>IDS_BTN_DISMISS</key>
+    <string>Отклонить</string>
+    <key>IDS_BTN_DONE</key>
+    <string>Закрыть</string>
+    <key>IDS_BTN_EDIT</key>
+    <string>Изменить</string>
+    <key>IDS_BTN_ENTER-CODES</key>
+    <string>Ввести код</string>
+    <key>IDS_BTN_FORGOT-PASSWORD</key>
+    <string>Забыли Пароль</string>
+    <key>IDS_BTN_HELPFUL_A</key>
+    <string>Полезный</string>
+    <key>IDS_BTN_MAKE-DEFAULT</key>
+    <string>Сделать по умолчанию</string>
+    <key>IDS_BTN_NO</key>
+    <string>Нет</string>
+    <key>IDS_BTN_OK</key>
+    <string>ОК</string>
+    <key>IDS_BTN_REFINE_A</key>
+    <string>Фильтр</string>
+    <key>IDS_BTN_REMOVE</key>
+    <string>Удалить</string>
+    <key>IDS_BTN_REMOVE-ALL-ITEMS</key>
+    <string>Удалить все позиции</string>
+    <key>IDS_BTN_REPORT-ABUSE</key>
+    <string>Пожаловаться</string>
+    <key>IDS_BTN_RESET_A</key>
+    <string>Сбросить</string>
+    <key>IDS_BTN_SAVE</key>
+    <string>Сохранить</string>
+    <key>IDS_BTN_SAVE-AND-CONTINUE</key>
+    <string>Сохранить и Продолжить</string>
+    <key>IDS_BTN_SAVE-CART-TO-WISHLIST</key>
+    <string>Сохранить в Листе Желаний</string>
+    <key>IDS_BTN_SAVE-CHANGES_A</key>
+    <string>Сохранить Изменения</string>
+    <key>IDS_BTN_SAVE-SEARCH_A</key>
+    <string>Сохранить Поиск</string>
+    <key>IDS_BTN_SEE-ALL-REVIEWS</key>
+    <string>Просмотреть Все Отзывы</string>
+    <key>IDS_BTN_SKIP-SIGN-IN</key>
+    <string>Пропустить вход в аккаунт</string>
+    <key>IDS_BTN_SKIP-VERIFICATION</key>
+    <string>Пропустить Проверку</string>
+    <key>IDS_BTN_SUBMIT-REVIEW</key>
+    <string>Добавить отзыв</string>
+    <key>IDS_BTN_TAKE-PHOTO</key>
+    <string>Сделать снимок</string>
+    <key>IDS_BTN_TAP-TO-EXIT-HOMEPAGE-EDIT-MODE</key>
+    <string>Нажмите здесь, чтобы выйти из режима редактирования страницы</string>
+    <key>IDS_BTN_USE-CURRENT-CART</key>
+    <string>Текущая Корзина</string>
+    <key>IDS_BTN_USE-PREVIOUS-CART</key>
+    <string>Предыдущая Корзина</string>
+    <key>IDS_BTN_YES</key>
+    <string>Да</string>
+    <key>IDS_ERR_ADD-A-CREDIT-CARD</key>
+    <string>Пожалуйста, перейдите к оформлению заказа для внесения данных кредитной карты.</string>
+    <key>IDS_ERR_ADDRESS-LINE1-REQUIRED</key>
+    <string>Адресная Строка 1 обязательна.</string>
+    <key>IDS_ERR_ADDRESS-LINE2-REQUIRED</key>
+    <string>Адресная Строка 2 обязательна.</string>
+    <key>IDS_ERR_BAD-REQUEST</key>
+    <string>Возникла проблема при выполнении этого запроса.</string>
+    <key>IDS_ERR_CITY-REQUIRED</key>
+    <string>Указание города oбязательно.</string>
+    <key>IDS_ERR_CONFIRM-PASSWORD-REQUIRED</key>
+    <string>Подтверждение пароля обязательно.</string>
+    <key>IDS_ERR_CONSIGNEE-NAME-REQUIRED</key>
+    <string>Имя Получателя обязательно.</string>
+    <key>IDS_ERR_COUNTRY-REQUIRED</key>
+    <string>Страна обязательна.</string>
+    <key>IDS_ERR_EMAIL-ADDRESS-REQUIRED</key>
+    <string>Адрес эл. почты обязателен.</string>
+    <key>IDS_ERR_FIELDS-MISSING-IN-FORM</key>
+    <string>Одно или более из обязательных для заполнения полей отсутствует. Пожалуйста, проверьте и попробуйте снова.</string>
+    <key>IDS_ERR_FOLDER-ALREADY-EXISTS</key>
+    <string>Папка уже существует.</string>
+    <key>IDS_ERR_FULL-NAME-REQUIRED</key>
+    <string>Полное имя необходимо.</string>
+    <key>IDS_ERR_IMAGE-ATTACHMENTS-TOO-BIG</key>
+    <string>Общий размер прикрепленного изображения(ий) слишком большой.</string>
+    <key>IDS_ERR_ISSUE-TYPE-REQUIRED</key>
+    <string>Требуется указать тип проблемы.</string>
+    <key>IDS_ERR_LOGIN-FAILED</key>
+    <string>При входе в систему произошла ошибка. Пожалуйста, обратитесь в службу поддержки.</string>
+    <key>IDS_ERR_LOGIN-TO-CUSTOMIZE-HOMEPAGE_A</key>
+    <string>Пожалуйста, войдите в Ваш аккаунт, чтобы настроить домашнюю страницу.</string>
+    <key>IDS_ERR_NEW-PASSWORD-REQUIRED</key>
+    <string>Требуется новый пароль.</string>
+    <key>IDS_ERR_OLD-PASSWORD-REQUIRED</key>
+    <string>Требуется прежний пароль.</string>
+    <key>IDS_ERR_ORDER-NUMBER-REQUIRED</key>
+    <string>Требуется ввести один номер.</string>
+    <key>IDS_ERR_PASSWORD-REQUIRED</key>
+    <string>Пароль обязателен.</string>
+    <key>IDS_ERR_PHONE-NUMBER-REQUIRED</key>
+    <string>Правильный номер телефона обязателен.</string>
+    <key>IDS_ERR_POSTAL-REQUIRED</key>
+    <string>Почтовый индекс обязателен.</string>
+    <key>IDS_ERR_PRODUCT-REQUIRED</key>
+    <string>Требуется указать товар.</string>
+    <key>IDS_ERR_REASON-REQUIRED</key>
+    <string>Требуется указать причину</string>
+    <key>IDS_ERR_REVIEW-IS-REQUIRED</key>
+    <string>Отзыв обязателен.</string>
+    <key>IDS_ERR_REVIEW-TITLE-REQUIRED</key>
+    <string>Заголовок отзыва обязателен.</string>
+    <key>IDS_ERR_REWARDS-CODE-IS-REQUIRED</key>
+    <string>Реферальный код обязателен.</string>
+    <key>IDS_ERR_STATE-PROVINCE-REGION-REQUIRED</key>
+    <string>Указание региона обязательно.</string>
+    <key>IDS_ERR_STATE-REQUIRED</key>
+    <string>Указание региона обязательно.</string>
+    <key>IDS_ERR_SUBURB-REQUIRED</key>
+    <string>Указание пригорода обязательно.</string>
+    <key>IDS_ERR_TRY-AGAIN-LATER</key>
+    <string>Пожалуйста, повторите попытку позже. Если проблема не устранена, обратитесь в службу поддержки</string>
+    <key>IDS_ERR_ZIP-POSTAL-REQUIRED</key>
+    <string>Указание почтового индекса обязательно.</string>
+    <key>IDS_GEN_CART</key>
+    <string>Корзина</string>
+    <key>IDS_GEN_CHANGE-PASSWORD</key>
+    <string>Изменить Пароль</string>
+    <key>IDS_GEN_DISCLAIMER</key>
+    <string>Отказ от ответственности</string>
+    <key>IDS_GEN_EXPIRATION-DATE</key>
+    <string>Срок действия</string>
+    <key>IDS_GEN_HEALTH-TOPICS</key>
+    <string>Темы Здоровья </string>
+    <key>IDS_GEN_HOME</key>
+    <string>Главная</string>
+    <key>IDS_GEN_INTERNATIONAL</key>
+    <string>Международная доставка</string>
+    <key>IDS_GEN_MODIFY-ORDER</key>
+    <string>Изменить Заказ</string>
+    <key>IDS_GEN_MODIFY-ORDER-ITEMS</key>
+    <string>Изменить Позиции Заказа</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-ADDRESS</key>
+    <string>Изменить Адрес Доставки</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-METHOD_A</key>
+    <string>Изменить Способ Доставки</string>
+    <key>IDS_GEN_MY-IHERB-PAGE</key>
+    <string>Моя страница в iHerb</string>
+    <key>IDS_GEN_NOTIFICATION-LIST</key>
+    <string>Лист Уведомлений</string>
+    <key>IDS_GEN_NOTIFY-ME</key>
+    <string>Уведомите меня</string>
+    <key>IDS_GEN_ORDER-HISTORY</key>
+    <string>История Заказов</string>
+    <key>IDS_GEN_ORDER-SUMMARY</key>
+    <string>Сводка по Заказу</string>
+    <key>IDS_GEN_PERSONAL-INFORMATION</key>
+    <string>Личная Информация</string>
+    <key>IDS_GEN_PRIVACY-POLICY</key>
+    <string>Политика Конфиденциальности</string>
+    <key>IDS_GEN_RELATED-PRODUCTS</key>
+    <string>Похожие Товары</string>
+    <key>IDS_GEN_REORDER</key>
+    <string>Перезаказать</string>
+    <key>IDS_GEN_RESET-PASSWORD</key>
+    <string>Восстановить Пароль</string>
+    <key>IDS_GEN_REWARDS</key>
+    <string>Вознаграждения</string>
+    <key>IDS_GEN_SEARCH</key>
+    <string>Поиск</string>
+    <key>IDS_GEN_SETTINGS_A</key>
+    <string>Настройки</string>
+    <key>IDS_GEN_SHARE-YOUR-CART</key>
+    <string>Поделитесь Вашей Корзиной</string>
+    <key>IDS_GEN_SHIPPING-CALCULATOR</key>
+    <string>Калькулятор по Доставке</string>
+    <key>IDS_GEN_SHIPPING-INFORMATION</key>
+    <string>Информация по Доставке</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT-COLON</key>
+    <string>Вес Отправления:</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT_A</key>
+    <string>Вес Отправления</string>
+    <key>IDS_GEN_SIGN-IN</key>
+    <string>Войдите</string>
+    <key>IDS_GEN_TERMS-AND-CONDITIONS</key>
+    <string>Постановления и Условия</string>
+    <key>IDS_GEN_WISHLIST</key>
+    <string>Лист Желаний</string>
+    <key>IDS_GEN_WRITE-A-REVIEW</key>
+    <string>Написать Отзыв</string>
+    <key>IDS_HDR_ALL-CATEGORIES</key>
+    <string>Все Категории </string>
+    <key>IDS_HDR_BENEFITS-SHOPPING-WITH-IHERB</key>
+    <string>Преимущества покупок в iHerb</string>
+    <key>IDS_HDR_PASSWORD-RESET</key>
+    <string>Восстановление Пароля</string>
+    <key>IDS_HDR_PRODUCT-OVERVIEW</key>
+    <string>Описание</string>
+    <key>IDS_LBL-MENU</key>
+    <string>Меню</string>
+    <key>IDS_LBL_ABOUT-IHERB</key>
+    <string>Об iHerb</string>
+    <key>IDS_LBL_ACCOUNT-NOTIFICATIONS</key>
+    <string>Уведомления аккаунта</string>
+    <key>IDS_LBL_ACCOUNT-NUMBER_A</key>
+    <string>Номер Аккаунта</string>
+    <key>IDS_LBL_ADD-NEW-BILLING-ADDRESS_A</key>
+    <string>Добавить Новый Платежный Адрес</string>
+    <key>IDS_LBL_ADD-NEW-SHIPPING-ADDRESS_A</key>
+    <string>Добавить Новый Адрес Доставки</string>
+    <key>IDS_LBL_ADDRESS-1-AUSTRALIA</key>
+    <string>Название улицы; название компании</string>
+    <key>IDS_LBL_ADDRESS-2-AUSTRALIA</key>
+    <string>Номер квартиры, этаж и т.д.</string>
+    <key>IDS_LBL_ADDRESS-LINE1</key>
+    <string>Адресная Строка 1</string>
+    <key>IDS_LBL_ADDRESS-LINE2</key>
+    <string>Адресная Строка 2</string>
+    <key>IDS_LBL_ADDRESS-VERIFICATION</key>
+    <string>Проверка Адреса</string>
+    <key>IDS_LBL_ALSO-CREATE-BILLING-ADDRESS_A</key>
+    <string>Так же создать Платежный Адрес</string>
+    <key>IDS_LBL_ALSO-CREATE-SHIPPING-ADDRESS_A</key>
+    <string>Так же создать Адрес Доставки</string>
+    <key>IDS_LBL_AROMATHERAPY</key>
+    <string>Ароматерапия</string>
+    <key>IDS_LBL_AVAILABLE-COLON</key>
+    <string>Доступно:</string>
+    <key>IDS_LBL_BATH-AND-BEAUTY</key>
+    <string>Для душа</string>
+    <key>IDS_LBL_BEST-RATING</key>
+    <string>Лучший Рейтинг</string>
+    <key>IDS_LBL_BEST-SELLERS</key>
+    <string>Лучшее</string>
+    <key>IDS_LBL_BEST-SELLING</key>
+    <string>Лучшее</string>
+    <key>IDS_LBL_BILLING-ADDRESS</key>
+    <string>Платежный Адрес</string>
+    <key>IDS_LBL_BRANDS</key>
+    <string>Бренды</string>
+    <key>IDS_LBL_CACHE-CLEARED</key>
+    <string>Кэш очищены</string>
+    <key>IDS_LBL_CACHING</key>
+    <string>Кэширование</string>
+    <key>IDS_LBL_CACHING-LENGTH</key>
+    <string>Длина кэширования</string>
+    <key>IDS_LBL_CALCULATE-SHIPPING-COSTS_A</key>
+    <string>Рассчитать стоимость доставки:</string>
+    <key>IDS_LBL_CANCEL-ORDER</key>
+    <string>Отменить Заказ</string>
+    <key>IDS_LBL_CASH-ON-DELIVERY</key>
+    <string>Оплата при получении</string>
+    <key>IDS_LBL_CATEGORIES</key>
+    <string>Категории</string>
+    <key>IDS_LBL_CITY</key>
+    <string>Город</string>
+    <key>IDS_LBL_CLEARANCE_ITEMS</key>
+    <string>Распродажа</string>
+    <key>IDS_LBL_CONFIRM-PASSWORD</key>
+    <string>Подтвердите пароль</string>
+    <key>IDS_LBL_CONSIGNEE-NAME</key>
+    <string>Имя Получателя</string>
+    <key>IDS_LBL_COPY-ME-IN-EMAIL</key>
+    <string>Включите меня в письмо</string>
+    <key>IDS_LBL_COUNTRY</key>
+    <string>Страна</string>
+    <key>IDS_LBL_CREAMS-LOTIONS</key>
+    <string>Крема, Лосьоны</string>
+    <key>IDS_LBL_CURRENCY_A</key>
+    <string>Валюта</string>
+    <key>IDS_LBL_CURRENT-CART</key>
+    <string>Текущая Корзина</string>
+    <key>IDS_LBL_CUSTOMER-INFORMATION</key>
+    <string>Информация о покупателе</string>
+    <key>IDS_LBL_CUSTOMER-SERVICE</key>
+    <string>Служба Поддержки</string>
+    <key>IDS_LBL_DATE-COLON</key>
+    <string>Дата:</string>
+    <key>IDS_LBL_DEALS</key>
+    <string>Предложения</string>
+    <key>IDS_LBL_DELIVERED-ON</key>
+    <string>Доставлен:</string>
+    <key>IDS_LBL_DESCRIPTION</key>
+    <string>Описание</string>
+    <key>IDS_LBL_DESCRIPTION-OF-ISSUE</key>
+    <string>Описание проблемы</string>
+    <key>IDS_LBL_DIET-AND-WEIGHT-LOSS</key>
+    <string>Диета и Похудение </string>
+    <key>IDS_LBL_DIMENSIONS</key>
+    <string>Размеры</string>
+    <key>IDS_LBL_DISCOUNT-COLON</key>
+    <string>Скидка:</string>
+    <key>IDS_LBL_DISCOUNT-S-COLON</key>
+    <string>Скидка(и):</string>
+    <key>IDS_LBL_EDIT-BILLING-ADDRESS</key>
+    <string>Изменить Платежный Адрес</string>
+    <key>IDS_LBL_EDIT-REVIEW</key>
+    <string>Изменить Отзыв</string>
+    <key>IDS_LBL_EDIT-SHIPPING-ADDRESS</key>
+    <string>Изменить Адрес Доставки</string>
+    <key>IDS_LBL_EMAIL-ADDRESS</key>
+    <string>Адрес эл. почты</string>
+    <key>IDS_LBL_EMAIL-UPDATE</key>
+    <string>Обновление электронной почты</string>
+    <key>IDS_LBL_ENABLE-TOUCH-ID</key>
+    <string>Включить сенсорный ID</string>
+    <key>IDS_LBL_ENTER-CODE</key>
+    <string>Введите код</string>
+    <key>IDS_LBL_ESTIMATED-DELIVERY</key>
+    <string>Приблизительная Доставка:</string>
+    <key>IDS_LBL_ESTIMATED-ORDER-TOTAL-COLON</key>
+    <string>Предварительный Итог:</string>
+    <key>IDS_LBL_ESTIMATED-TOTAL-IN-LOCALIZED_A</key>
+    <string>Предварительный Итог в Вашей валюте</string>
+    <key>IDS_LBL_EXP</key>
+    <string>Срок Действия</string>
+    <key>IDS_LBL_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>Ваша оплата через {0} не была завершена!</string>
+    <key>IDS_LBL_FILL-PASSPORT-NUMBER</key>
+    <string>Номер паспорта</string>
+    <key>IDS_LBL_FOLDER-NAME_A</key>
+    <string>Название Папки</string>
+    <key>IDS_LBL_FROM_A</key>
+    <string>из</string>
+    <key>IDS_LBL_FULL-NAME</key>
+    <string>Полные имя и фамилия</string>
+    <key>IDS_LBL_GROCERY</key>
+    <string>Продукты</string>
+    <key>IDS_LBL_HEALTHY-HOME</key>
+    <string>Здоровый Дом</string>
+    <key>IDS_LBL_HEAVIEST-TO-LIGHTEST_A</key>
+    <string>Самые Тяжелые</string>
+    <key>IDS_LBL_HERBS</key>
+    <string>Травы</string>
+    <key>IDS_LBL_HIDE</key>
+    <string>Спрятать</string>
+    <key>IDS_LBL_HIGH-TO-LOW</key>
+    <string>по Убыванию</string>
+    <key>IDS_LBL_HIGHEST-PRICE</key>
+    <string>Высокая Стоимость</string>
+    <key>IDS_LBL_IMPORTANT-NOTE</key>
+    <string>Важное Примечание:</string>
+    <key>IDS_LBL_IN-STOCK-COLON</key>
+    <string>В наличии:</string>
+    <key>IDS_LBL_IN-STOCK-NOTIFICATIONS_A</key>
+    <string>Уведомления о наличии</string>
+    <key>IDS_LBL_INFORMATION</key>
+    <string>Информация</string>
+    <key>IDS_LBL_ISSUE-INFORMATION</key>
+    <string>Информация о проблеме</string>
+    <key>IDS_LBL_ISSUE-WITH-ENTIRE-ORDER</key>
+    <string>Проблема со всеми товарами заказа</string>
+    <key>IDS_LBL_ISSUE-WITH-INDIVIDUAL-PRODUCTS</key>
+    <string>Проблема с отдельными товарами заказа</string>
+    <key>IDS_LBL_ITEM-PRICE</key>
+    <string>Цена товара</string>
+    <key>IDS_LBL_ITEMS-COUNT</key>
+    <string>{0} позиции</string>
+    <key>IDS_LBL_KIDS-AND-BABIES</key>
+    <string>Дети</string>
+    <key>IDS_LBL_LANGUAGE-CURRENCY</key>
+    <string>Язык/Валюта</string>
+    <key>IDS_LBL_LANGUAGE_A</key>
+    <string>Язык</string>
+    <key>IDS_LBL_LARGE-ICON_A</key>
+    <string>Большая иконка</string>
+    <key>IDS_LBL_LEAVE</key>
+    <string>Прекратить</string>
+    <key>IDS_LBL_LESS</key>
+    <string>Свернуть</string>
+    <key>IDS_LBL_LIGHTEST-TO-HEAVIEST_A</key>
+    <string>Самые Легкие</string>
+    <key>IDS_LBL_LOW-TO-HIGH</key>
+    <string>по Возрастанию </string>
+    <key>IDS_LBL_LOWEST-PRICE</key>
+    <string>Низкая Стоимость</string>
+    <key>IDS_LBL_LOYALTY-CREDIT</key>
+    <string>Бонус лояльности</string>
+    <key>IDS_LBL_MAKE-SELECTION</key>
+    <string>Выбрать</string>
+    <key>IDS_LBL_MAX</key>
+    <string>Максимум</string>
+    <key>IDS_LBL_METHOD</key>
+    <string>Способ</string>
+    <key>IDS_LBL_MINIMUM-CUSTOMER-RATING_A</key>
+    <string>Минимальная Оценка Покупателей</string>
+    <key>IDS_LBL_MODIFY-ORDER-INFO_A</key>
+    <string>Изменить Заказ</string>
+    <key>IDS_LBL_MODIFY-ORDER-ITEM-QUANTITY_A</key>
+    <string>Изменить Позиции Заказа</string>
+    <key>IDS_LBL_MORE</key>
+    <string>Другие</string>
+    <key>IDS_LBL_MOST-HELPFUL</key>
+    <string>Наиболее Полезные</string>
+    <key>IDS_LBL_MY-FOLDERS</key>
+    <string>Мои Папки</string>
+    <key>IDS_LBL_MY-REVIEWS</key>
+    <string>Мои Отзывы</string>
+    <key>IDS_LBL_MY-SAVED-SEARCHES_A</key>
+    <string>Мои Сохраненные Поиски</string>
+    <key>IDS_LBL_NEW</key>
+    <string>Новинки</string>
+    <key>IDS_LBL_NEW-PASSWORD</key>
+    <string>Новый Пароль</string>
+    <key>IDS_LBL_NEWEST</key>
+    <string>Новые</string>
+    <key>IDS_LBL_NOTIFICATIONS_A</key>
+    <string>Уведомления</string>
+    <key>IDS_LBL_OLD-PASSWORD</key>
+    <string>Прежний Пароль</string>
+    <key>IDS_LBL_OPTIONAL</key>
+    <string>опционально</string>
+    <key>IDS_LBL_ORDER-CANCELLATION</key>
+    <string>Отмена заказа</string>
+    <key>IDS_LBL_ORDER-CONFIRMATION</key>
+    <string>Подтверждение заказа</string>
+    <key>IDS_LBL_ORDER-INFORMATION</key>
+    <string>Информация о заказе</string>
+    <key>IDS_LBL_ORDER-ITEMS_A</key>
+    <string>Позиции</string>
+    <key>IDS_LBL_ORDER-MODIFICATION</key>
+    <string>Изменение заказа</string>
+    <key>IDS_LBL_ORDER-NOTIFICATIONS</key>
+    <string>Уведомления о заказах</string>
+    <key>IDS_LBL_ORDER-NUMBER</key>
+    <string>Номер заказа</string>
+    <key>IDS_LBL_ORDER-NUMBER-COLON</key>
+    <string>Номер Заказа:</string>
+    <key>IDS_LBL_ORDER-SHIPPING</key>
+    <string>Отправление заказа</string>
+    <key>IDS_LBL_ORDER-STATUS</key>
+    <string>Статус Заказа</string>
+    <key>IDS_LBL_ORDER-TOTAL-COLON_A</key>
+    <string>Общая Сумма:</string>
+    <key>IDS_LBL_ORDER-TOTALS</key>
+    <string>Общая Сумма:</string>
+    <key>IDS_LBL_OTHER-INFORMATION</key>
+    <string>Другая информация</string>
+    <key>IDS_LBL_OTHER-INGREDIENTS</key>
+    <string>Другие Ингредиенты</string>
+    <key>IDS_LBL_PACKAGE-NUMBER-OF-TOTAL</key>
+    <string>{0} из {1}</string>
+    <key>IDS_LBL_PACKAGE-QUANTITY</key>
+    <string>Количество в Упаковке</string>
+    <key>IDS_LBL_PACKAGES</key>
+    <string>Заказ(ы)</string>
+    <key>IDS_LBL_PAID-WITH-EXTERNAL-PAYMENT</key>
+    <string>Оплачено через {0}</string>
+    <key>IDS_LBL_PASSWORD</key>
+    <string>Пароль</string>
+    <key>IDS_LBL_PAYMENT-METHOD</key>
+    <string>Способ Оплаты</string>
+    <key>IDS_LBL_PENDING-COLON</key>
+    <string>В ожидании:</string>
+    <key>IDS_LBL_PETS</key>
+    <string>Животные</string>
+    <key>IDS_LBL_PHONE-NUMBER</key>
+    <string>Номер Телефона</string>
+    <key>IDS_LBL_POSTAL-CODE</key>
+    <string>Почтовый индекс</string>
+    <key>IDS_LBL_PREVIOUS-CART</key>
+    <string>Предыдущая Корзина</string>
+    <key>IDS_LBL_PRICE</key>
+    <string>Цена</string>
+    <key>IDS_LBL_PRICE-COLON</key>
+    <string>Стоимость:</string>
+    <key>IDS_LBL_PRICE-TOGETHER</key>
+    <string>Цена за оба товара:</string>
+    <key>IDS_LBL_PRODUCT</key>
+    <string>Товар</string>
+    <key>IDS_LBL_PRODUCT-CATEGORIES</key>
+    <string>Категории Товаров</string>
+    <key>IDS_LBL_PRODUCT-CODE</key>
+    <string>Код Товара</string>
+    <key>IDS_LBL_PRODUCTS</key>
+    <string>Товары</string>
+    <key>IDS_LBL_QTY-COLON</key>
+    <string>Кол-во:</string>
+    <key>IDS_LBL_RATING</key>
+    <string>Рейтинг</string>
+    <key>IDS_LBL_RECOMMENDATIONS</key>
+    <string>Рекомендации</string>
+    <key>IDS_LBL_RELEVANCE</key>
+    <string>Актуальность</string>
+    <key>IDS_LBL_REMOVED_A</key>
+    <string>Удалено</string>
+    <key>IDS_LBL_RESHIP-OF-ORDER</key>
+    <string>Повторное отправление заказа</string>
+    <key>IDS_LBL_RESHIPPED-UNDER-ORD</key>
+    <string>Повторное отправление заказа</string>
+    <key>IDS_LBL_REVIEW</key>
+    <string>Отзыв</string>
+    <key>IDS_LBL_REVIEW-APP_A</key>
+    <string>Оценить Мобильное Приложение</string>
+    <key>IDS_LBL_REVIEW-TITLE</key>
+    <string>Заголовок Отзыва</string>
+    <key>IDS_LBL_REVIEWS</key>
+    <string>Отзывы</string>
+    <key>IDS_LBL_REWARDS-ADDRESS</key>
+    <string>Адрес для вознаграждений</string>
+    <key>IDS_LBL_REWARDS-CODE</key>
+    <string>Реферальный код</string>
+    <key>IDS_LBL_REWARDS-CREDIT</key>
+    <string>Вознаграждения</string>
+    <key>IDS_LBL_SAME-AS-SHIPPING-ADDRESS</key>
+    <string>Такой же как и Адрес Доставки</string>
+    <key>IDS_LBL_SAVED-SEARCHES_A</key>
+    <string>Сохраненные Поиски</string>
+    <key>IDS_LBL_SAVINGS</key>
+    <string>Экономия</string>
+    <key>IDS_LBL_SAVINGS-COLON</key>
+    <string>Экономия:</string>
+    <key>IDS_LBL_SEARCH-HISTORY</key>
+    <string>История Поиска</string>
+    <key>IDS_LBL_SELECT-CURRENCY</key>
+    <string>Выберите Вашу валюту</string>
+    <key>IDS_LBL_SELECT-FROM-SAVED-ADDRESSES_M</key>
+    <string>Пожалуйста, выберите из сохраненных ранее адресов</string>
+    <key>IDS_LBL_SELECT-LANGUAGE</key>
+    <string>Выберите Ваш язык</string>
+    <key>IDS_LBL_SELECT-PREFERENCES</key>
+    <string>Выберите страну назначения, валюту и язык.</string>
+    <key>IDS_LBL_SELECT-PRODUCT</key>
+    <string>Выбрать товар</string>
+    <key>IDS_LBL_SELECT-REASON</key>
+    <string>Выберите Причину</string>
+    <key>IDS_LBL_SELECT-SHIPPING-METHOD</key>
+    <string>Выберите Способ Доставки</string>
+    <key>IDS_LBL_SELECT-YOUR-COUNTRY</key>
+    <string>Выберите Вашу страну</string>
+    <key>IDS_LBL_SHIPPING</key>
+    <string>Доставка</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS</key>
+    <string>Адрес Доставки</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS-COLON</key>
+    <string>Адрес Доставки:</string>
+    <key>IDS_LBL_SHIPPING-METHOD</key>
+    <string>Способ Доставки</string>
+    <key>IDS_LBL_SHOW</key>
+    <string>Показать</string>
+    <key>IDS_LBL_SIGNIN_WITH_EMAIL</key>
+    <string>Войдите, используя эл.почту</string>
+    <key>IDS_LBL_SMALL-ICON_A</key>
+    <string>Маленькая иконка</string>
+    <key>IDS_LBL_SORT-BY</key>
+    <string>Сортировать по</string>
+    <key>IDS_LBL_SORT_A</key>
+    <string>Сортировать</string>
+    <key>IDS_LBL_SPECIALS</key>
+    <string>Скидки</string>
+    <key>IDS_LBL_SPORTS</key>
+    <string>Спорт</string>
+    <key>IDS_LBL_STATE-REGION</key>
+    <string>Штат/Регион</string>
+    <key>IDS_LBL_STATE-TERRITORY</key>
+    <string>Область/Край</string>
+    <key>IDS_LBL_STATUS-COLON</key>
+    <string>Статус:</string>
+    <key>IDS_LBL_SUBCATEGORIES_A</key>
+    <string>Подкатегории</string>
+    <key>IDS_LBL_SUBMIT</key>
+    <string>Отправить</string>
+    <key>IDS_LBL_SUBTOTAL-COLON</key>
+    <string>Подсумма:</string>
+    <key>IDS_LBL_SUBURB</key>
+    <string>Пригород</string>
+    <key>IDS_LBL_SUGGESTED-USE</key>
+    <string>Рекомендации по Применению</string>
+    <key>IDS_LBL_SUPERFOODS</key>
+    <string>Суперфудс</string>
+    <key>IDS_LBL_SUPPLEMENTS</key>
+    <string>Добавки</string>
+    <key>IDS_LBL_TAX</key>
+    <string>Налог</string>
+    <key>IDS_LBL_TOTAL-CANCELLED</key>
+    <string>Всего Отменено</string>
+    <key>IDS_LBL_TOTAL-COLON</key>
+    <string>Всего:</string>
+    <key>IDS_LBL_TOTAL-ORDERS</key>
+    <string>Всего {0} Заказов</string>
+    <key>IDS_LBL_TOTAL-WEIGHT-COLON</key>
+    <string>Общий Вес:</string>
+    <key>IDS_LBL_TRACKING-COLON</key>
+    <string>Отслеживание:</string>
+    <key>IDS_LBL_TRACKING-NUMBER</key>
+    <string>Номер Отслеживания:</string>
+    <key>IDS_LBL_TRIALS</key>
+    <string>Пробники</string>
+    <key>IDS_LBL_UNITED-STATES</key>
+    <string>США</string>
+    <key>IDS_LBL_UPC-CODE</key>
+    <string>UPC Код</string>
+    <key>IDS_LBL_UPDATE-SELECTION-SETTINGS</key>
+    <string>Вы можете обновить выбор в настройках</string>
+    <key>IDS_LBL_WARNINGS</key>
+    <string>Предупреждения</string>
+    <key>IDS_LBL_WEIGHT</key>
+    <string>Вес</string>
+    <key>IDS_LBL_WEIGHT-COLON</key>
+    <string>Вес:</string>
+    <key>IDS_LBL_ZIP-POSTAL</key>
+    <string>Почтовый Индекс</string>
+    <key>IDS_LBL_ZIP-POSTAL-CODE-COLON_A</key>
+    <string>Почтовый Индекс:</string>
+    <key>IDS_LNK_ACNE</key>
+    <string>Акне</string>
+    <key>IDS_LNK_ALLERGIES</key>
+    <string>Аллергия</string>
+    <key>IDS_LNK_ANXIETY</key>
+    <string>Тревога, Беспокойство</string>
+    <key>IDS_LNK_CLOSE</key>
+    <string>Закрыть</string>
+    <key>IDS_LNK_COLD-FLU-VIRAL</key>
+    <string>Простуды, Грипп и ОРВИ</string>
+    <key>IDS_LNK_DELETE</key>
+    <string>Удалить</string>
+    <key>IDS_LNK_DIET-WEIGHT-LOSS</key>
+    <string>Похудение</string>
+    <key>IDS_LNK_HAIR-ALOPECIA</key>
+    <string>Волосы, Аллопеция</string>
+    <key>IDS_LNK_HEADACHE</key>
+    <string>Головная Боль</string>
+    <key>IDS_LNK_INFLAMMATION</key>
+    <string>Воспаление, Раздражение</string>
+    <key>IDS_LNK_JOINTS-LIGAMENTS</key>
+    <string>Суставы, Связки</string>
+    <key>IDS_LNK_KIDNEY-BLADDER</key>
+    <string>Почки, Мочевой Пузырь</string>
+    <key>IDS_LNK_LEARN-MORE-LOYALTY-CREDIT</key>
+    <string>Узнайте подробнее о программе лояльности в iHerb</string>
+    <key>IDS_LNK_LEARN-MORE-REWARDS-PROGRAM</key>
+    <string>Узнайте подробнее о программе iHerb Rewards</string>
+    <key>IDS_LNK_MY-ACCOUNT</key>
+    <string>Аккаунт</string>
+    <key>IDS_LNK_SIGN-OUT</key>
+    <string>Выйти</string>
+    <key>IDS_LNK_SKIN-HEALTH</key>
+    <string>Здоровая Кожа</string>
+    <key>IDS_LNK_WOMEN-HEALTH</key>
+    <string>Женское Здоровье  </string>
+    <key>IDS_MSG_ADDRESS-ADDED</key>
+    <string>Адрес добавлен.</string>
+    <key>IDS_MSG_ADDRESS-DELETED</key>
+    <string>Адрес удалён</string>
+    <key>IDS_MSG_ALREADY-IN-WISH-LIST</key>
+    <string>Товар уже находится в Листе Желаний</string>
+    <key>IDS_MSG_CANCEL-ENTIRE-ORDER</key>
+    <string>Вы уверены, что хотите отменить весь заказ?</string>
+    <key>IDS_MSG_CART-MAY-NOT-CONTAIN-ALL-ITEMS</key>
+    <string>Ваша корзина может не содержать всех добавленных ранее товаров.</string>
+    <key>IDS_MSG_CHECK-INTERNET-CONNECTION</key>
+    <string>Пожалуйста, проверьте подключение к Интернету.</string>
+    <key>IDS_MSG_CONFIRM-CLEAR-SEARCH-HISTORY_T</key>
+    <string>Вы уверены, что хотите очистить историю поиска?</string>
+    <key>IDS_MSG_CONFIRMATION-EMAIL-SENT</key>
+    <string>Подтверждающее письмо было отправлено</string>
+    <key>IDS_MSG_CONNECTION-ISSUES-ACCESSING-CART</key>
+    <string>Есть проблемы подключения с доступом в корзину.</string>
+    <key>IDS_MSG_COUPON-APPLIED_A</key>
+    <string>Купон применен</string>
+    <key>IDS_MSG_COUPON-REMOVED</key>
+    <string>Код удалён</string>
+    <key>IDS_MSG_DELETE-ADDRESS-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить этот адрес?</string>
+    <key>IDS_MSG_DELETE-CREDIT-CARD-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить эту карту оплаты?</string>
+    <key>IDS_MSG_DELETE-FOLDER-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить выбранную папку?</string>
+    <key>IDS_MSG_DELETE-ICON-CONFRIMATION</key>
+    <string>Вы уверены, что хотите удалить эту иконку?</string>
+    <key>IDS_MSG_DELETE-ITEM-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить этот товар?</string>
+    <key>IDS_MSG_DID-YOU-MEAN</key>
+    <string>Вы имели в виду {0}?</string>
+    <key>IDS_MSG_EDIT-BILLING-ADDRESS_A</key>
+    <string>Измените Платежный Адрес ниже</string>
+    <key>IDS_MSG_EDIT-FOLDER-NAME-AND-SAVE_A</key>
+    <string>Измените название Вашей папки ниже и нажмите "Сохранить".</string>
+    <key>IDS_MSG_EDIT-SHIPPING-ADDRESS_A</key>
+    <string>Измените Адрес Доставки ниже</string>
+    <key>IDS_MSG_EMAIL-SENT</key>
+    <string>Письмо отправлено</string>
+    <key>IDS_MSG_FOLDER-ADDED-TO-CART_A</key>
+    <string>Содержимое папки добавлено в корзину</string>
+    <key>IDS_MSG_HERE-ARE-SOME-SIMILAR-PRODUCTS</key>
+    <string>Вот некоторые аналогичные товары:</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-CART_A</key>
+    <string>Позиция добавлена в корзину</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-WISHLIST</key>
+    <string>Позиция добавлена в Лист Желаний</string>
+    <key>IDS_MSG_ITEM-DELETED_A</key>
+    <string>Позиция удалена</string>
+    <key>IDS_MSG_ITEM-REMOVED</key>
+    <string>Позиция удалена</string>
+    <key>IDS_MSG_ITEMS-ADDED</key>
+    <string>Позиция(и) добавлена(ы) в корзину.</string>
+    <key>IDS_MSG_ITEMS-COPIED_A</key>
+    <string>Позиция(и) Скопирована(ы)</string>
+    <key>IDS_MSG_ITEMS-MOVED</key>
+    <string>Позиция(и) перемещена(ы)</string>
+    <key>IDS_MSG_LEAVE-APP-AND-OPEN-BROWSER</key>
+    <string>Вы уверены, что хотите покинуть приложение iHerb и открыть ссылку в браузере?</string>
+    <key>IDS_MSG_LEAVE-CHECKOUT-CONFIRMATION</key>
+    <string>Вы уверены, что хотите прекратить оформление заказа?</string>
+    <key>IDS_MSG_LEAVE-ORDER-ISSUES-CONFIRMATION</key>
+    <string>Вы уверены, что хотите завершить процесс работы над Проблемами Заказа?</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S00</key>
+    <string>Ссылка для восстановления пароля была отправлена на Вашу электронную почту.</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S01</key>
+    <string>Вы должны получить ссылку в течение следующих 5 минут</string>
+    <key>IDS_MSG_LOG-OUT-CONFIRMATION</key>
+    <string>Вы уверены, что хотите выйти?</string>
+    <key>IDS_MSG_NO-ITEMS-IN-WISHLIST</key>
+    <string>У Вас нет позиций в Листе Желаний.</string>
+    <key>IDS_MSG_NOT-AVAILABLE</key>
+    <string>Не Доступен.</string>
+    <key>IDS_MSG_NOT-RECOGNIZE-ADDRESS</key>
+    <string>К сожалению, наша внутренняя система проверки адреса не распознала введенный Вами адрес.</string>
+    <key>IDS_MSG_NOTHING-TO-REMOVE</key>
+    <string>Файлов для удаления нет</string>
+    <key>IDS_MSG_NOTIFY-LIST-IN-LIST</key>
+    <string>Этот товар уже находится в Вашем Листе Уведомлений.</string>
+    <key>IDS_MSG_OPTION-UNAVAILABLE-FOR-ORDER_A</key>
+    <string>Эта опция недоступна для данного заказа</string>
+    <key>IDS_MSG_ORDER-HISTORY-EMPTY</key>
+    <string>История заказов отсутствует</string>
+    <key>IDS_MSG_PASSWORD-WAS-SAVED</key>
+    <string>Пароль сохранен.</string>
+    <key>IDS_MSG_PAYMENT-FAILED</key>
+    <string>Ошибка оплаты</string>
+    <key>IDS_MSG_PAYMENT-PENDING</key>
+    <string>Оплата на рассмотрении</string>
+    <key>IDS_MSG_PAYMENT-SUCCESSFUL</key>
+    <string>Успешная оплата</string>
+    <key>IDS_MSG_PLEASE-BROWSE-ADD-PRODUCTS_A</key>
+    <string>Поиск товаров.</string>
+    <key>IDS_MSG_PRODUCT-NOT-AVAILABLE</key>
+    <string>Данного продукта нет в наличии.</string>
+    <key>IDS_MSG_QUANTITY-UPDATED</key>
+    <string>Количество обновлено</string>
+    <key>IDS_MSG_REACHED-LIMIT-HOMEPAGE-ICONS_A</key>
+    <string>Вы достигли лимита.</string>
+    <key>IDS_MSG_REMOVE-ALL-ITEMS-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить все позиции?</string>
+    <key>IDS_MSG_REMOVE-PHOTO-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить данную фотографию?</string>
+    <key>IDS_MSG_REMOVE-REVIEW-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить этот отзыв?</string>
+    <key>IDS_MSG_REMOVE-THIS-ITEM-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить эту позицию?</string>
+    <key>IDS_MSG_REORDER-CONFIRMATION_A</key>
+    <string>Вы уверены, что хотите перезаказать?</string>
+    <key>IDS_MSG_REWARDS-ADDRESS-NOT-APPROVED</key>
+    <string>Ваш Адрес для Вознаграждений еще не был подтвержден. Служба поддержки свяжется с Вами, чтобы подтвердить Ваш Адрес для Вознаграждений.</string>
+    <key>IDS_MSG_SAVE-CHANGES-CONFIRMATION</key>
+    <string>Вы уверены, что хотите сохранить эти изменения?</string>
+    <key>IDS_MSG_SAVED-SUCCESSIVELY_A</key>
+    <string>Успешно Сохранено</string>
+    <key>IDS_MSG_SEARCH-RESULTS-FOR-COLON_A</key>
+    <string>Результаты Поиска для {0}:</string>
+    <key>IDS_MSG_SEARCH-RESULTS-REVIEWS-COLON_A</key>
+    <string>Результаты Поиска для {0} в отзывах:</string>
+    <key>IDS_MSG_SELECT-ICON-SIZE_A</key>
+    <string>Вы хотите добавить большую или маленькую иконку?</string>
+    <key>IDS_MSG_SELECT-ICON-TYPE_A</key>
+    <string>Выберите тип иконки, которую Вы хотите создать.</string>
+    <key>IDS_MSG_SHARE-YOUR-CART</key>
+    <string>Ознакомьтесь с моей корзиной покупок на iHerb.com.</string>
+    <key>IDS_MSG_SUBMIT-FORM-CONFIRMATION</key>
+    <string>Вы уверены, что хотите отправить данную форму?</string>
+    <key>IDS_MSG_THANKS-FOR-FEEDBACK</key>
+    <string>Спасибо за Ваш отзыв!</string>
+    <key>IDS_MSG_THERE-ARE-NO-SEARCH-RESULTS-FOR</key>
+    <string>Нет результатов для {0}.</string>
+    <key>IDS_MSG_TOUCH-ID-ENABLED-AFTER-LOGIN</key>
+    <string>Сенсорный ID будет включен после входа для разрешения доступа к вашему iHerb аккаунту</string>
+    <key>IDS_MSG_TRY-AGAIN_A</key>
+    <string>Повторите попытку</string>
+    <key>IDS_MSG_WE-DO-NOT-CARRY</key>
+    <string>К сожалению, мы не продаем {0}</string>
+    <key>IDS_MSG_WISH-LIST-COPY-SUBTITLE</key>
+    <string>В какую папку Вы хотели бы скопировать товар(ы)?</string>
+    <key>IDS_MSG_WISH-LIST-EMPTY</key>
+    <string>Лист Желаний пуст</string>
+    <key>IDS_MSG_WISH-LIST-MOVE-SUBTITLE</key>
+    <string>В какую папку Вы бы хотели переместить товар(ы)?</string>
+    <key>IDS_MSG_WRITE-REVIEW-MUST-SHIPPED-ORDER</key>
+    <string>Вы не можете написать отзыв до тех пор, пока Ваш заказ не был отправлен.</string>
+    <key>IDS_MSG_WRITE-YOUR-REVIEW-HERE_A</key>
+    <string>Оставьте свой отзыв здесь</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-DELETED</key>
+    <string>Ваш отзыв удален</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-SAVED</key>
+    <string>Ваш отзыв сохранен.</string>
+    <key>IDS_TTL_APPLIED-CODES</key>
+    <string>Применённый код(ы)</string>
+    <key>IDS_TTL_APPLY-REWARDS-OR-PROMO-CODE</key>
+    <string>Применить реферальный или промо-код</string>
+    <key>IDS_TTL_CHECKOUT</key>
+    <string>Оформить Заказ</string>
+    <key>IDS_TTL_CUSTOMIZE-ICON_A</key>
+    <string>Настроить иконку</string>
+    <key>IDS_TTL_EDIT-FOLDER-NAME_A</key>
+    <string>Изменить Название Папки</string>
+    <key>IDS_TTL_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>Изменить Название Сохраненного Поиска</string>
+    <key>IDS_TTL_ERROR_A</key>
+    <string>Ошибка</string>
+    <key>IDS_TTL_KOREAN-PCC</key>
+    <string>Корейский PCC</string>
+    <key>IDS_TTL_LOGIN</key>
+    <string>Войти</string>
+    <key>IDS_TTL_NEW-BILLING-ADDRESS_A</key>
+    <string>Новый Платежный Адрес</string>
+    <key>IDS_TTL_NEW-FEATURE-DEMO_A</key>
+    <string>Демо-версия Новой Функции</string>
+    <key>IDS_TTL_NEW-REWARDS-ADDRESS_A</key>
+    <string>Новый адрес для получения вознаграждений</string>
+    <key>IDS_TTL_NEW-SHIPPING-ADDRESS_A</key>
+    <string>Новый Адрес Доставки</string>
+    <key>IDS_TTL_ORDER-ISSUES</key>
+    <string>Проблемы с заказами</string>
+    <key>IDS_TTL_PROFILE</key>
+    <string>Профиль</string>
+    <key>IDS_TTL_SEARCH-TITLE_A</key>
+    <string>Название Сохраненного Поиска</string>
+    <key>IDS_TTL_SELECT-FOLDER_A</key>
+    <string>Выберите Папку</string>
+    <key>IDS_TTL_SELECT-HEALTH-TOPIC</key>
+    <string>Выберите тему здоровья</string>
+    <key>IDS_TTL_SELECT-ICON-IMAGE_A</key>
+    <string>Выберите изображение</string>
+    <key>IDS_TTL_SELECT-ORDER-NUMBER</key>
+    <string>Выберите номер заказа</string>
+    <key>IDS_TTL_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>Выбрать Категорию Товара</string>
+    <key>IDS_TTL_SELECT-SAVED-SEARCH_A</key>
+    <string>Выбрать Сохраненный Поиск</string>
+    <key>IDS_TTL_SHOPPING-CART</key>
+    <string>Корзина</string>
+    <key>IDS_TXT_ACCESS-YOUR-SAVED-SEARCHES-MORE</key>
+    <string>Получить доступ к сохраненным поискам и другому</string>
+    <key>IDS_TXT_AGREE_TERMS_POLICY_STATEMENT</key>
+    <string>Создавая аккаунт, вы соглашаетесь с нашими &lt;a href="{0}" target="_blank"&gt;политикой конфиденциальности&lt;/a&gt; и &lt;a href="{1}" target="_blank"&gt;условиями использования&lt;/a&gt;</string>
+    <key>IDS_TXT_AUTOENROLL_EARN-BACK</key>
+    <string>Заработайте 10%</string>
+    <key>IDS_TXT_AUTOENROLL_GET_PAID</key>
+    <string>Заработайте $5 + 5%</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-LOYALTY-CREDIT</key>
+    <string>с нашими бонусами лояльности с каждого заказа.</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-OUR-REFERRAL</key>
+    <string>с нашей реферальной программой Вознаграждений при рекомендации iHerb новым покупателям.</string>
+    <key>IDS_TXT_BUY-THESE-TOGETHER</key>
+    <string>Купить Вместе</string>
+    <key>IDS_TXT_CACHING-NOTES</key>
+    <string>При включении кэширования, вы будете иметь возможность просматривать страницы, которые вы недавно посетили с ограниченным соединением к Интернету или без соединения к Интернету. Пожалуйста, обратите внимание, что стоимость и другая информация могут быть устаревшими при просмотре кешированных страниц.</string>
+    <key>IDS_TXT_CART-IS-EMPTY</key>
+    <string>Ваша корзина пуста</string>
+    <key>IDS_TXT_CASH-ON-DELIVERY</key>
+    <string>Оплата должна быть произведена наличными при получении заказа</string>
+    <key>IDS_TXT_CLEAR-CACHE-CONFIRM</key>
+    <string>Вы уверены, что хотите очистить кэш?</string>
+    <key>IDS_TXT_DELETE-COUPON-CODE-CONFIRMATION</key>
+    <string>Вы уверены, что хотите удалить этот код?</string>
+    <key>IDS_TXT_DIGIT-CODE</key>
+    <string>6-значный код</string>
+    <key>IDS_TXT_DIGIT-CODE-REQUIERED</key>
+    <string>Требуется 6-ти значный код.</string>
+    <key>IDS_TXT_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>Измените название Сохраненного Поиска и нажмите на "Сохранить".</string>
+    <key>IDS_TXT_ENTER-FOLDER-NAME</key>
+    <string>Введите Название Новой Папки</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S00</key>
+    <string>Дата истечения срока годности или "лучше всего использовать до даты" зависят от типа продукции и бренда.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S01</key>
+    <string>Скоропортящиеся продукты (такие, как масло льна или некоторые пробиотики) обычно имеют более короткие сроки годности. Несмотря на то, что наш склад полностью оснащен оборудованием для кондиционирования воздуха, эти наболее скоропортящиеся продукты храняться в холодильнике (морозильной камере или холодильнои установке) для сохранения максимальной свежести.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S02</key>
+    <string>Наш отдел приема делает все возможное, чтобы убедиться в правильности сроков годности для всех поступающих продуктов и ввести их в систему. Однако, иногда возможны расхождения. Как уже было сказано, исключительно высокая скорость продаж iHerb гарантирует, что наш запас товаров является одним из самых свежих в отрасли.</string>
+    <key>IDS_TXT_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>К сожалению, оплата через {0} не была получена. Если Вы уже завершили процесс оплаты через {1}, пожалуйста, подождите как минимум 2 часа для обновлений в системе. Если по истечении 2 часов проблема с оплатой не устранена, пожалуйста, попробуйте еще раз или обратитесь в Службу поддержки за помощью. 
+&lt;br /&gt;
+&lt;br /&gt;
+Если Ваш процесс оплаты через {2} не был завершен, нажмите на кнопку ниже, чтобы оплатить.</string>
+    <key>IDS_TXT_FIND-OR-TRACK-YOUR-ORDERS</key>
+    <string>Найти или отследить ваши заказы</string>
+    <key>IDS_TXT_IMPORTANT-NOTE</key>
+    <string>Важное примечание</string>
+    <key>IDS_TXT_ITEMS-FROM-PREVIOUS-SESSION</key>
+    <string>В Вашей корзине содержатся продукты из предыдущего сеанса покупок</string>
+    <key>IDS_TXT_LANGUAGE-SETTINGS-ALERT</key>
+    <string>Пожалуйста, выберите желаемый язык в настройках iOS</string>
+    <key>IDS_TXT_LOGIN-TO-YOUR-ACCOUNT-TO</key>
+    <string>Войдите в ваш аккаунт, чтобы:</string>
+    <key>IDS_TXT_LOGIN-USING-TOUCH-ID</key>
+    <string>Вы можете войти, используя сенсорный ID</string>
+    <key>IDS_TXT_LOGIN_SHOP_TOP_BRANDS</key>
+    <string>Выбирайте из более чем 35 000 полезных для здоровья товаров и используйте БЕСПЛАТНУЮ международную доставку для заказов от $40.</string>
+    <key>IDS_TXT_MANAGE-REWARDS-ADDRESS</key>
+    <string>Вы можете изменить Ваш Адрес для Вознаграждений &lt;a class="{0}" href="{1}"&gt;на сайте Rewards&lt;/a&gt;.</string>
+    <key>IDS_TXT_MANAGE-YOUR-WISH-LIST</key>
+    <string>Настроить лист желаний</string>
+    <key>IDS_TXT_MODIFY-ORDER-ITEMS_A</key>
+    <string>Измените количество товаров в Вашем заказе или удалите определенные позиции</string>
+    <key>IDS_TXT_MODIFY-ORDER-NOTE</key>
+    <string>Обратите внимание, что изменение Вашего заказа может вызвать задержку в отправке из-за проверки заказа на предмет мошенничества.</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-ADDRESS_A</key>
+    <string>Выберите один из приведенных ниже адресов или добавьте новый</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-METHOD_A</key>
+    <string>Выберите один из приведенных ниже способов доставки</string>
+    <key>IDS_TXT_NEW-BILLING-ADDRESS_A</key>
+    <string>Добавьте Новый Платежный Адрес ниже</string>
+    <key>IDS_TXT_NEW-FEATURE-DEMO_A</key>
+    <string>Новое Мобильное Приложение включает в себя пару новых функций, с которыми мы бы хотели Вас ознакомить.</string>
+    <key>IDS_TXT_NEW-SHIPPING-ADDRESS_A</key>
+    <string>Добавьте Новый Адрес Доставки ниже</string>
+    <key>IDS_TXT_NO-ITEMS-IN-NOTIFY-LIST</key>
+    <string>У Вас нет позиций в листе уведомлений. Если Вы запрашивали получение уведомления о поступлении отсутствующего на складе товара, то данная позиция будет отображена здесь.</string>
+    <key>IDS_TXT_NOTIFIED-WHEN-PRODUCT-AVAILABLE</key>
+    <string>Вы будете уведомлены при поступлении данного продукта.</string>
+    <key>IDS_TXT_NUMBER-DAYS</key>
+    <string>{0} дней</string>
+    <key>IDS_TXT_NUMBER-OF-REVIEWS</key>
+    <string>{0} отзывов</string>
+    <key>IDS_TXT_OR</key>
+    <string>ИЛИ</string>
+    <key>IDS_TXT_ORDER-ISSUE</key>
+    <string>Чтобы помочь разрешить вопрос по заказу, пожалуйста, заполните форму ниже.</string>
+    <key>IDS_TXT_OTHER-DEVICE-EMAIL-MODIFIED</key>
+    <string>Ваша почта была обновлена</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CANCELLED</key>
+    <string>Ваш заказ, {0}, был отменен</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CONFIRMATION</key>
+    <string>Ваш заказ, {0}, был размещен</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-MODIFIED</key>
+    <string>Ваш заказ, {0}, был изменен</string>
+    <key>IDS_TXT_OTHER-DEVICE-PASSWORD-RESET</key>
+    <string>Ваш пароль был изменен</string>
+    <key>IDS_TXT_PAYMENT-METHOD-SUBTITLE_A</key>
+    <string>Посмотреть или изменить ранее сохраненные Способы Оплаты</string>
+    <key>IDS_TXT_PEOPLE-FOUND-REVIEW-HELFUL</key>
+    <string>{0} людей считают этот отзыв полезным</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-KG</key>
+    <string>{0} кг</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-LBS</key>
+    <string>{0} фунты</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-EMAIL-UPDATE</key>
+    <string>Вы получите уведомление при обновлении электронной почты на другом устройстве</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-IN-STOCK_A</key>
+    <string>Вы получите уведомление о поступлении интересующего Вас товара на склад</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CANCEL</key>
+    <string>Вы получите уведомлении при отмене вашего заказа на другом устройстве</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CONFIRM</key>
+    <string>Вы получите уведомление при размещении заказа на другом устройстве</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-MODIF</key>
+    <string>Вы получите уведомление при изменении заказа на другом устройстве</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-PASS-RESET</key>
+    <string>Вы получите уведомление при изменении пароля на другом устройстве</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-SHIPPED-OUT_A</key>
+    <string>Вы получите уведомление, когда Ваш заказ будет отправлен</string>
+    <key>IDS_TXT_PUSH-NOTIFICATION_I</key>
+    <string>Пожалуйста, перейдите в меню Настройки вашего телефона &gt; Уведомления &gt; iHerb, и затем "Разрешить уведомления"</string>
+    <key>IDS_TXT_RESET-PASSWORD</key>
+    <string>Введите ваш электронный адрес, и мы отправим вам ссылку для создания нового пароля. В целях безопасности, вся данные о картах оплаты будут удалены с вашего аккаунта при смене пароля.</string>
+    <key>IDS_TXT_RESET-PASSWORD-NOTE1</key>
+    <string>Так как ссылка для восстановления пароля отправляется автоматическим электронным письмом, оно может попасть в папку со спамом. Пожалуйста, не забудьте проверить эту папку, если Вы не получите от нас письмо.</string>
+    <key>IDS_TXT_RESET-PASSWORD-SECURITY-HTML_A</key>
+    <string>В целях безопасности &lt;font color="#FF0000"&gt;все данные кредитной карты будут удалены с Вашего аккаунта&lt;/font&gt; при смене пароля.</string>
+    <key>IDS_TXT_RESULTS-FOR_A</key>
+    <string>Результаты Поиска для {0}</string>
+    <key>IDS_TXT_REVIEWED-ON-DATE_A</key>
+    <string>Отзыв написан {0}</string>
+    <key>IDS_TXT_REWARDS-ADDRESS-SUBTITLE_A</key>
+    <string>Добавьте или измените Ваш адрес для получения чека или перевода при наличии в аккаунте $300 и более</string>
+    <key>IDS_TXT_SAVE</key>
+    <string>Сэкономьте</string>
+    <key>IDS_TXT_SAVE-WHEN-BUY-TOGETHER</key>
+    <string>Сэкономьте {0} при покупке {1}.</string>
+    <key>IDS_TXT_SEARCH-TITLE_A</key>
+    <string>Дайте название Вашему Сохраненному Поиску и Вы сможете добавить его на Вашу домашнюю страницу iHerb.</string>
+    <key>IDS_TXT_SEE-PRICE-IN-CART</key>
+    <string>Посмотреть цену в корзине.</string>
+    <key>IDS_TXT_SELECT-AND-CONTINUE-BELOW</key>
+    <string>Если Вы считаете, что ввели верный адрес, Вы можете "Выбрать и Продолжить":</string>
+    <key>IDS_TXT_SELECT-CACHE-SETTINGS_LENGTH</key>
+    <string>Выберите длину кэширования ниже.</string>
+    <key>IDS_TXT_SELECT-HEALTH-TOPIC</key>
+    <string>Выберите тему здоровья, которую бы Вы хотели использовать</string>
+    <key>IDS_TXT_SELECT-ICON-IMAGE_A</key>
+    <string>Выберите изображение, которое Вы бы хотели использовать</string>
+    <key>IDS_TXT_SELECT-ORDER-NUMBER</key>
+    <string>Выберите заказ из списка ниже</string>
+    <key>IDS_TXT_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>Выберите категорию товара, которую Вы бы хотели использовать</string>
+    <key>IDS_TXT_SELECT-PRODUCT-FROM-YOUR-ORDER</key>
+    <string>Выберите товар с вашего заказа</string>
+    <key>IDS_TXT_SELECT-SAVED-SEARCH_A</key>
+    <string>Выберите Сохраненный Поиск, который бы Вы хотели использовать</string>
+    <key>IDS_TXT_SEND-CODE</key>
+    <string>Отправить код</string>
+    <key>IDS_TXT_SHARE-PRODUCT</key>
+    <string>Мне понравился этот товар с iHerb.com</string>
+    <key>IDS_TXT_SHARED-CART</key>
+    <string>Для добавления товаров, представленных ниже, в корзину, нажмите на кнопку "Добавить в корзину". Вы сможете внести изменения позже при необходимости.</string>
+    <key>IDS_TXT_SHIPPING-WEIGHT</key>
+    <string>Вес отправления включает в себя товар, защитный материал и упаковочную коробку. Кроме того, вес отправления может быть отрегулирован по габаритному весу (длина, ширина и высота) коробки. Важно отметить, что некоторые виды продуктов (например, стеклянные контейнеры, жидкости, хрупкие товары, охлажденные или поставляемые со льдом) часто требует больше защитного упаковочного материала. Таким образом, эти товары будут иметь больший вес отправления по сравнению с товарами, не требующими тщательной упаковки.</string>
+    <key>IDS_TXT_SIGN-IN-WITH-EMAIL</key>
+    <string>Если вы не помните ваш пароль, вы можете войти, используя адрес электронной почты. Мы отправим вам код, который вы сможете ввести на следующей странице для входа в аккаунт без пароля.</string>
+    <key>IDS_TXT_UPDATE-YOUR-PROFILE-INFO</key>
+    <string>Обновить информацию профиля</string>
+    <key>IDS_TXT_VERIFICATION-EMAIL-NOTICE</key>
+    <string>После изменения электронной почты, мы отправим Вам письмо для подтверждения эл адреса. Пожалуйста, следуйте инструкциям для завершения процесса обновления.</string>
+    <key>IDS_TXT_VIEW-YOUR-CUSTOMIZED-HOMEPAGE</key>
+    <string>Посмотреть настроенную главную страницу</string>
+    <key>IDS_TXT_XE-CONVERSION-RATES_A</key>
+    <string>Приблизительный обменный курс в соответствии с XE.com обновляется ежедневно. Ваш заказ будет обработан в долларах США.</string>
+  </dict>
+</plist>

@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.name         = "CMSTestFramework"
-  s.version      = "0.1.10"
+  s.version      = "0.1.11"
   s.summary      = "Testing importing the CMSTestFramework with plists."
   s.requires_arc = true
 
@@ -106,8 +106,8 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  # s.resource  = "icon.png"
-    s.resources = "CMSTestFramework/**/TestingPList.{plist}"
+  s.resource  = "CMSTestFramework/**/ar-SA.plist", "CMSTestFramework/**/de-DE.plist", "CMSTestFramework/**/en-US.plist", "CMSTestFramework/**/es-MX.plist", "CMSTestFramework/**/fr-FR.plist", "CMSTestFramework/**/ja-JP.plist", "CMSTestFramework/**/ko-KR.plist", "CMSTestFramework/**/pt-BR.plist", "CMSTestFramework/**/ru-RU.plist", "CMSTestFramework/**/zh-CN.plist"
+  #s.resources = "CMSTestFramework/**/TestingPList.{plist}"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 

@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>IDS_BTN_ADD-ANOTHER-ITEM</key>
+    <string>Añadir otros artículos</string>
+    <key>IDS_BTN_ADD-BILLING-ADDRESS_A</key>
+    <string>Añadir Dirección de Facturación</string>
+    <key>IDS_BTN_ADD-BOTH-TO-CART</key>
+    <string>Añadir Ambos A La Cesta</string>
+    <key>IDS_BTN_ADD-FOLDER-TO-CART</key>
+    <string>Añadir Carpeta A La Cesta</string>
+    <key>IDS_BTN_ADD-NEW-FOLDER_A</key>
+    <string>Agregar Carpeta Nueva</string>
+    <key>IDS_BTN_ADD-PAYMENT-METHOD_A</key>
+    <string>Añadir Forma de Pago</string>
+    <key>IDS_BTN_ADD-PERSONAL-INFORMATION_A</key>
+    <string>Añadir Información Personal</string>
+    <key>IDS_BTN_ADD-PHOTO</key>
+    <string>Agregar Foto</string>
+    <key>IDS_BTN_ADD-REWARDS-ADDRESS_A</key>
+    <string>Agregar Domicilio de Recompensas</string>
+    <key>IDS_BTN_ADD-SHIPPING-ADDRESS_A</key>
+    <string>Añadir Dirección de Envío</string>
+    <key>IDS_BTN_ADD-TO-CART</key>
+    <string>Añadir A La Cesta</string>
+    <key>IDS_BTN_ADD-TO-WISH-LIST</key>
+    <string>Añadir a la Lista de Favoritos</string>
+    <key>IDS_BTN_APP-DEMO_A</key>
+    <string>App Demo</string>
+    <key>IDS_BTN_APPLY</key>
+    <string>Aplicar</string>
+    <key>IDS_BTN_APPLY-CODE</key>
+    <string>Aplicar Código</string>
+    <key>IDS_BTN_CALCULATE</key>
+    <string>Calcular</string>
+    <key>IDS_BTN_CANCEL</key>
+    <string>Cancelar</string>
+    <key>IDS_BTN_CHOOSE-EXISTING-PHOTO</key>
+    <string>Escoga Foto Existente</string>
+    <key>IDS_BTN_CLEAR-CACHE</key>
+    <string>Despejar  Antememoria</string>
+    <key>IDS_BTN_CLEAR_A</key>
+    <string>Borrar</string>
+    <key>IDS_BTN_COMBINE-BOTH-CARTS</key>
+    <string>Combinar Ambas Cestas</string>
+    <key>IDS_BTN_COMPLETE-PAYMENT</key>
+    <string>Completar Pago</string>
+    <key>IDS_BTN_CONTINUE</key>
+    <string>Continuar</string>
+    <key>IDS_BTN_CONTINUE-TO-APP</key>
+    <string>Continuar hacia la Aplicación</string>
+    <key>IDS_BTN_COPY-TO-WISH-LIST_A</key>
+    <string>Copiar a Lista de Deseos</string>
+    <key>IDS_BTN_CREATE-ACCOUNT</key>
+    <string>Crear Una Cuenta</string>
+    <key>IDS_BTN_CREATE-NEW-SAVED-SEARCH_A</key>
+    <string>Crear una Nueva Búsqueda Guardada</string>
+    <key>IDS_BTN_CUSTOMIZABLE-HOMEPAGE_A</key>
+    <string>Página de Inicio Personalizable</string>
+    <key>IDS_BTN_DELETE-REVIEW</key>
+    <string>Eliminar Comentario</string>
+    <key>IDS_BTN_DISMISS</key>
+    <string>Descartar</string>
+    <key>IDS_BTN_DONE</key>
+    <string>Terminado</string>
+    <key>IDS_BTN_EDIT</key>
+    <string>Editar</string>
+    <key>IDS_BTN_ENTER-CODES</key>
+    <string>Proporcionar los Códigos</string>
+    <key>IDS_BTN_FORGOT-PASSWORD</key>
+    <string>Olvidó Su Contraseña</string>
+    <key>IDS_BTN_HELPFUL_A</key>
+    <string>Servicial</string>
+    <key>IDS_BTN_MAKE-DEFAULT</key>
+    <string>Establecer Como Defecto</string>
+    <key>IDS_BTN_NO</key>
+    <string>No</string>
+    <key>IDS_BTN_OK</key>
+    <string>OK</string>
+    <key>IDS_BTN_REFINE_A</key>
+    <string>Refinar</string>
+    <key>IDS_BTN_REMOVE</key>
+    <string>Eliminar</string>
+    <key>IDS_BTN_REMOVE-ALL-ITEMS</key>
+    <string>Eliminar todos los artículos</string>
+    <key>IDS_BTN_REPORT-ABUSE</key>
+    <string>Reporte Abuso</string>
+    <key>IDS_BTN_RESET_A</key>
+    <string>Reinicializar</string>
+    <key>IDS_BTN_SAVE</key>
+    <string>Guardar</string>
+    <key>IDS_BTN_SAVE-AND-CONTINUE</key>
+    <string>Guardar y Continuar</string>
+    <key>IDS_BTN_SAVE-CART-TO-WISHLIST</key>
+    <string>Guardar Cesta En la Lista de Deseos</string>
+    <key>IDS_BTN_SAVE-CHANGES_A</key>
+    <string>Guardar Cambios</string>
+    <key>IDS_BTN_SAVE-SEARCH_A</key>
+    <string>Guardar Búsqueda</string>
+    <key>IDS_BTN_SEE-ALL-REVIEWS</key>
+    <string>Ver Todas las Críticas</string>
+    <key>IDS_BTN_SKIP-SIGN-IN</key>
+    <string>Omita el ingreso a la cuenta</string>
+    <key>IDS_BTN_SKIP-VERIFICATION</key>
+    <string>Omite La Verificación</string>
+    <key>IDS_BTN_SUBMIT-REVIEW</key>
+    <string>Enviar Reseña</string>
+    <key>IDS_BTN_TAKE-PHOTO</key>
+    <string>Tomar Foto</string>
+    <key>IDS_BTN_TAP-TO-EXIT-HOMEPAGE-EDIT-MODE</key>
+    <string>Toque aquí para abandonar edición de la página de Inicio</string>
+    <key>IDS_BTN_USE-CURRENT-CART</key>
+    <string>Utilizar La Cesta Actual</string>
+    <key>IDS_BTN_USE-PREVIOUS-CART</key>
+    <string>Utilizar Cesta Anterior</string>
+    <key>IDS_BTN_YES</key>
+    <string>Sí</string>
+    <key>IDS_ERR_ADD-A-CREDIT-CARD</key>
+    <string>Por favor, proceda a la caja para añadir una tarjeta de crédito.</string>
+    <key>IDS_ERR_ADDRESS-LINE1-REQUIRED</key>
+    <string>Línea de Dirección 1 se requiere.</string>
+    <key>IDS_ERR_ADDRESS-LINE2-REQUIRED</key>
+    <string>Domicilio Linea2 requerida.</string>
+    <key>IDS_ERR_BAD-REQUEST</key>
+    <string>Hubo un problema para completar este requerimiento.</string>
+    <key>IDS_ERR_CITY-REQUIRED</key>
+    <string>Se requiere ciudad.</string>
+    <key>IDS_ERR_CONFIRM-PASSWORD-REQUIRED</key>
+    <string>Confirmar contraseña es necesaria.</string>
+    <key>IDS_ERR_CONSIGNEE-NAME-REQUIRED</key>
+    <string>Es necesario el nombre del consignatario.</string>
+    <key>IDS_ERR_COUNTRY-REQUIRED</key>
+    <string>Se Requiere el País.</string>
+    <key>IDS_ERR_EMAIL-ADDRESS-REQUIRED</key>
+    <string>Dirección de correo electrónico es requerida.</string>
+    <key>IDS_ERR_FIELDS-MISSING-IN-FORM</key>
+    <string>Uno o mas de los campos hace falta. Por favor revise su informacion e intente de nuevo.</string>
+    <key>IDS_ERR_FOLDER-ALREADY-EXISTS</key>
+    <string>Ya existe la carpeta.</string>
+    <key>IDS_ERR_FULL-NAME-REQUIRED</key>
+    <string>Se requiere nombre completo.</string>
+    <key>IDS_ERR_IMAGE-ATTACHMENTS-TOO-BIG</key>
+    <string>El tamaño total de las imágenes adjuntas es muy grande.</string>
+    <key>IDS_ERR_ISSUE-TYPE-REQUIRED</key>
+    <string>Se requiere tipo de cuestión.</string>
+    <key>IDS_ERR_LOGIN-FAILED</key>
+    <string>Por alguna razón la conexión falló. Por favor, póngase en contacto con el servicio al cliente o inténtelo de nuevo más tarde.</string>
+    <key>IDS_ERR_LOGIN-TO-CUSTOMIZE-HOMEPAGE_A</key>
+    <string>Inicie sesión para personalizar su página de inicio.</string>
+    <key>IDS_ERR_NEW-PASSWORD-REQUIRED</key>
+    <string>Se requiere nueva contraseña.</string>
+    <key>IDS_ERR_OLD-PASSWORD-REQUIRED</key>
+    <string>Contraseña antigua es requerida.</string>
+    <key>IDS_ERR_ORDER-NUMBER-REQUIRED</key>
+    <string>Se requiere número de órden.</string>
+    <key>IDS_ERR_PASSWORD-REQUIRED</key>
+    <string>Se requiere contraseña.</string>
+    <key>IDS_ERR_PHONE-NUMBER-REQUIRED</key>
+    <string>Se requiere número de teléfono válido.</string>
+    <key>IDS_ERR_POSTAL-REQUIRED</key>
+    <string>Se requiere Código Postal.</string>
+    <key>IDS_ERR_PRODUCT-REQUIRED</key>
+    <string>Se requiere producto.</string>
+    <key>IDS_ERR_REASON-REQUIRED</key>
+    <string>Se requiere razón.</string>
+    <key>IDS_ERR_REVIEW-IS-REQUIRED</key>
+    <string>Se requiere un comentario.</string>
+    <key>IDS_ERR_REVIEW-TITLE-REQUIRED</key>
+    <string>Se requiere el título de su comentario.</string>
+    <key>IDS_ERR_REWARDS-CODE-IS-REQUIRED</key>
+    <string>Se requiere Código de Recompensas.</string>
+    <key>IDS_ERR_STATE-PROVINCE-REGION-REQUIRED</key>
+    <string>Estado / Provincia / Región son requeridos.</string>
+    <key>IDS_ERR_STATE-REQUIRED</key>
+    <string>Se requiere Estado.</string>
+    <key>IDS_ERR_SUBURB-REQUIRED</key>
+    <string>Suburbio es Requerido.</string>
+    <key>IDS_ERR_TRY-AGAIN-LATER</key>
+    <string>Por favor, inténtelo de nuevo más tarde. Si el problema persiste, póngase en contacto con el servicio al cliente.</string>
+    <key>IDS_ERR_ZIP-POSTAL-REQUIRED</key>
+    <string>Se requiere ZIP / Código Postal.</string>
+    <key>IDS_GEN_CART</key>
+    <string>Cesta</string>
+    <key>IDS_GEN_CHANGE-PASSWORD</key>
+    <string>Cambiar la Contraseña</string>
+    <key>IDS_GEN_DISCLAIMER</key>
+    <string>Exoneración de responsabilidad</string>
+    <key>IDS_GEN_EXPIRATION-DATE</key>
+    <string>Fecha de Expiración</string>
+    <key>IDS_GEN_HEALTH-TOPICS</key>
+    <string>Temas de Salud</string>
+    <key>IDS_GEN_HOME</key>
+    <string>Inicio</string>
+    <key>IDS_GEN_INTERNATIONAL</key>
+    <string>Internacional</string>
+    <key>IDS_GEN_MODIFY-ORDER</key>
+    <string>Modificar la Orden</string>
+    <key>IDS_GEN_MODIFY-ORDER-ITEMS</key>
+    <string>Modificar la Order de Productos</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-ADDRESS</key>
+    <string>Modificar la Dirección de Envío</string>
+    <key>IDS_GEN_MODIFY-SHIPPING-METHOD_A</key>
+    <string>Modificar Método de Envío</string>
+    <key>IDS_GEN_MY-IHERB-PAGE</key>
+    <string>Mi Página iHerb</string>
+    <key>IDS_GEN_NOTIFICATION-LIST</key>
+    <string>Lista de Notificaciones</string>
+    <key>IDS_GEN_NOTIFY-ME</key>
+    <string>Notificarme</string>
+    <key>IDS_GEN_ORDER-HISTORY</key>
+    <string>Historial de Pedidos</string>
+    <key>IDS_GEN_ORDER-SUMMARY</key>
+    <string>Resumen de Pedido</string>
+    <key>IDS_GEN_PERSONAL-INFORMATION</key>
+    <string>Información Personal</string>
+    <key>IDS_GEN_PRIVACY-POLICY</key>
+    <string>Póliza de Privacidad</string>
+    <key>IDS_GEN_RELATED-PRODUCTS</key>
+    <string>Productos Relacionados</string>
+    <key>IDS_GEN_REORDER</key>
+    <string>Reordenar</string>
+    <key>IDS_GEN_RESET-PASSWORD</key>
+    <string>Restablecer Contraseña</string>
+    <key>IDS_GEN_REWARDS</key>
+    <string>Recompensas</string>
+    <key>IDS_GEN_SEARCH</key>
+    <string>Buscar</string>
+    <key>IDS_GEN_SETTINGS_A</key>
+    <string>Ajustes</string>
+    <key>IDS_GEN_SHARE-YOUR-CART</key>
+    <string>Compartir Su Cesta</string>
+    <key>IDS_GEN_SHIPPING-CALCULATOR</key>
+    <string>Calculadora de Envíos</string>
+    <key>IDS_GEN_SHIPPING-INFORMATION</key>
+    <string>Información de Envios</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT-COLON</key>
+    <string>Peso de Envío:</string>
+    <key>IDS_GEN_SHIPPING-WEIGHT_A</key>
+    <string>Peso de Envío</string>
+    <key>IDS_GEN_SIGN-IN</key>
+    <string>Registrarse</string>
+    <key>IDS_GEN_TERMS-AND-CONDITIONS</key>
+    <string>Términos y Condiciones</string>
+    <key>IDS_GEN_WISHLIST</key>
+    <string>Lista de Deseos</string>
+    <key>IDS_GEN_WRITE-A-REVIEW</key>
+    <string>Escriba una Crítica</string>
+    <key>IDS_HDR_ALL-CATEGORIES</key>
+    <string>Todas las Categorías</string>
+    <key>IDS_HDR_BENEFITS-SHOPPING-WITH-IHERB</key>
+    <string>Beneficios de comprar con iHerb</string>
+    <key>IDS_HDR_PASSWORD-RESET</key>
+    <string>Restablecer Contraseña</string>
+    <key>IDS_HDR_PRODUCT-OVERVIEW</key>
+    <string>Descripción del Producto</string>
+    <key>IDS_LBL-MENU</key>
+    <string>Menu</string>
+    <key>IDS_LBL_ABOUT-IHERB</key>
+    <string>Conozca iHerb</string>
+    <key>IDS_LBL_ACCOUNT-NOTIFICATIONS</key>
+    <string>Notificaciones de Cuentas</string>
+    <key>IDS_LBL_ACCOUNT-NUMBER_A</key>
+    <string>Número de Cuenta</string>
+    <key>IDS_LBL_ADD-NEW-BILLING-ADDRESS_A</key>
+    <string>Añadir Nueva Dirección de Facturación</string>
+    <key>IDS_LBL_ADD-NEW-SHIPPING-ADDRESS_A</key>
+    <string>Añadir Nueva Dirección de Envío</string>
+    <key>IDS_LBL_ADDRESS-1-AUSTRALIA</key>
+    <string>Domicilio, Apartado Postal, empresa, a cargo</string>
+    <key>IDS_LBL_ADDRESS-2-AUSTRALIA</key>
+    <string>Departamento, mobiliario, unidad, edificio, piso, etc.</string>
+    <key>IDS_LBL_ADDRESS-LINE1</key>
+    <string>Dirección Línea 1</string>
+    <key>IDS_LBL_ADDRESS-LINE2</key>
+    <string>Dirección Línea 2</string>
+    <key>IDS_LBL_ADDRESS-VERIFICATION</key>
+    <string>Verificación de Dirección</string>
+    <key>IDS_LBL_ALSO-CREATE-BILLING-ADDRESS_A</key>
+    <string>También crear la dirección de facturación</string>
+    <key>IDS_LBL_ALSO-CREATE-SHIPPING-ADDRESS_A</key>
+    <string>También crear dirección de envío</string>
+    <key>IDS_LBL_AROMATHERAPY</key>
+    <string>Aromaterapia</string>
+    <key>IDS_LBL_AVAILABLE-COLON</key>
+    <string>Disponible:</string>
+    <key>IDS_LBL_BATH-AND-BEAUTY</key>
+    <string>Baño</string>
+    <key>IDS_LBL_BEST-RATING</key>
+    <string>Mejor Clasificación</string>
+    <key>IDS_LBL_BEST-SELLERS</key>
+    <string>Lo Mejor</string>
+    <key>IDS_LBL_BEST-SELLING</key>
+    <string>Los Más Vendidos</string>
+    <key>IDS_LBL_BILLING-ADDRESS</key>
+    <string>Dirección de Cobros</string>
+    <key>IDS_LBL_BRANDS</key>
+    <string>Marcas</string>
+    <key>IDS_LBL_CACHE-CLEARED</key>
+    <string>Antememoria Re-Iniciada</string>
+    <key>IDS_LBL_CACHING</key>
+    <string>Almacenaje en Antememoria</string>
+    <key>IDS_LBL_CACHING-LENGTH</key>
+    <string>Duración de  Antememoria</string>
+    <key>IDS_LBL_CALCULATE-SHIPPING-COSTS_A</key>
+    <string>Calcular gastos de envío:</string>
+    <key>IDS_LBL_CANCEL-ORDER</key>
+    <string>Cancelar Orden</string>
+    <key>IDS_LBL_CASH-ON-DELIVERY</key>
+    <string>Efectivo al Momento de Entrega</string>
+    <key>IDS_LBL_CATEGORIES</key>
+    <string>Categorías</string>
+    <key>IDS_LBL_CITY</key>
+    <string>Ciudad</string>
+    <key>IDS_LBL_CLEARANCE_ITEMS</key>
+    <string>Liquidación</string>
+    <key>IDS_LBL_CONFIRM-PASSWORD</key>
+    <string>Confirme su contraseña</string>
+    <key>IDS_LBL_CONSIGNEE-NAME</key>
+    <string>Nombre del Destinatario</string>
+    <key>IDS_LBL_COPY-ME-IN-EMAIL</key>
+    <string>Copia me en Email</string>
+    <key>IDS_LBL_COUNTRY</key>
+    <string>País</string>
+    <key>IDS_LBL_CREAMS-LOTIONS</key>
+    <string>Cremas, Lociones</string>
+    <key>IDS_LBL_CURRENCY_A</key>
+    <string>Moneda</string>
+    <key>IDS_LBL_CURRENT-CART</key>
+    <string>Cesta Actual</string>
+    <key>IDS_LBL_CUSTOMER-INFORMATION</key>
+    <string>Información del Cliente</string>
+    <key>IDS_LBL_CUSTOMER-SERVICE</key>
+    <string>Servicio al Cliente</string>
+    <key>IDS_LBL_DATE-COLON</key>
+    <string>Fecha:</string>
+    <key>IDS_LBL_DEALS</key>
+    <string>Ofertas</string>
+    <key>IDS_LBL_DELIVERED-ON</key>
+    <string>Entregado en:</string>
+    <key>IDS_LBL_DESCRIPTION</key>
+    <string>Descripción</string>
+    <key>IDS_LBL_DESCRIPTION-OF-ISSUE</key>
+    <string>Descripcion del Asunto</string>
+    <key>IDS_LBL_DIET-AND-WEIGHT-LOSS</key>
+    <string>Dieta Y Perdida de Peso</string>
+    <key>IDS_LBL_DIMENSIONS</key>
+    <string>Dimensiones</string>
+    <key>IDS_LBL_DISCOUNT-COLON</key>
+    <string>Descuento:</string>
+    <key>IDS_LBL_DISCOUNT-S-COLON</key>
+    <string>Descuento(s):</string>
+    <key>IDS_LBL_EDIT-BILLING-ADDRESS</key>
+    <string>Modificar Dirección de Facturación</string>
+    <key>IDS_LBL_EDIT-REVIEW</key>
+    <string>Modificar Comentario</string>
+    <key>IDS_LBL_EDIT-SHIPPING-ADDRESS</key>
+    <string>Editar Dirección de Envío</string>
+    <key>IDS_LBL_EMAIL-ADDRESS</key>
+    <string>Dirección de Correo Electrónico</string>
+    <key>IDS_LBL_EMAIL-UPDATE</key>
+    <string>Actualizacion de Email</string>
+    <key>IDS_LBL_ENABLE-TOUCH-ID</key>
+    <string>Activar Touch ID</string>
+    <key>IDS_LBL_ENTER-CODE</key>
+    <string>Proporcionar Codigo</string>
+    <key>IDS_LBL_ESTIMATED-DELIVERY</key>
+    <string>Entrega Estimada:</string>
+    <key>IDS_LBL_ESTIMATED-ORDER-TOTAL-COLON</key>
+    <string>Fecha:</string>
+    <key>IDS_LBL_ESTIMATED-TOTAL-IN-LOCALIZED_A</key>
+    <string>Estimado Total de Orden en su Moneda</string>
+    <key>IDS_LBL_EXP</key>
+    <string>Exp</string>
+    <key>IDS_LBL_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>¡Su pago con {0} aún no está finalizado!</string>
+    <key>IDS_LBL_FILL-PASSPORT-NUMBER</key>
+    <string>Número de Pasaporte</string>
+    <key>IDS_LBL_FOLDER-NAME_A</key>
+    <string>Nombre de Carpeta</string>
+    <key>IDS_LBL_FROM_A</key>
+    <string>de</string>
+    <key>IDS_LBL_FULL-NAME</key>
+    <string>Nombre Completo</string>
+    <key>IDS_LBL_GROCERY</key>
+    <string>Comestibles</string>
+    <key>IDS_LBL_HEALTHY-HOME</key>
+    <string>Hogar Saludable</string>
+    <key>IDS_LBL_HEAVIEST-TO-LIGHTEST_A</key>
+    <string>Pesado a más Ligero</string>
+    <key>IDS_LBL_HERBS</key>
+    <string>Hierbas</string>
+    <key>IDS_LBL_HIDE</key>
+    <string>Esconder</string>
+    <key>IDS_LBL_HIGH-TO-LOW</key>
+    <string>De Mayor a Menor</string>
+    <key>IDS_LBL_HIGHEST-PRICE</key>
+    <string>Precio Más Alto</string>
+    <key>IDS_LBL_IMPORTANT-NOTE</key>
+    <string>Nota Importante:</string>
+    <key>IDS_LBL_IN-STOCK-COLON</key>
+    <string>En Existencia:</string>
+    <key>IDS_LBL_IN-STOCK-NOTIFICATIONS_A</key>
+    <string>Notificaciones de Disponibilidad</string>
+    <key>IDS_LBL_INFORMATION</key>
+    <string>Información</string>
+    <key>IDS_LBL_ISSUE-INFORMATION</key>
+    <string>Información sobre el problema</string>
+    <key>IDS_LBL_ISSUE-WITH-ENTIRE-ORDER</key>
+    <string>Problema concerniente con todo el pedido</string>
+    <key>IDS_LBL_ISSUE-WITH-INDIVIDUAL-PRODUCTS</key>
+    <string>Problemas con productos individuales</string>
+    <key>IDS_LBL_ITEM-PRICE</key>
+    <string>Precio del Artículo</string>
+    <key>IDS_LBL_ITEMS-COUNT</key>
+    <string>{0} artículos</string>
+    <key>IDS_LBL_KIDS-AND-BABIES</key>
+    <string>Bebés</string>
+    <key>IDS_LBL_LANGUAGE-CURRENCY</key>
+    <string>Lenguaje/Moneda</string>
+    <key>IDS_LBL_LANGUAGE_A</key>
+    <string>Idioma</string>
+    <key>IDS_LBL_LARGE-ICON_A</key>
+    <string>Icono Grande</string>
+    <key>IDS_LBL_LEAVE</key>
+    <string>Terminar</string>
+    <key>IDS_LBL_LESS</key>
+    <string>Menos</string>
+    <key>IDS_LBL_LIGHTEST-TO-HEAVIEST_A</key>
+    <string>De Ligero a Más Pesado</string>
+    <key>IDS_LBL_LOW-TO-HIGH</key>
+    <string>De Menor a Mayor</string>
+    <key>IDS_LBL_LOWEST-PRICE</key>
+    <string>Precio Más Bajo</string>
+    <key>IDS_LBL_LOYALTY-CREDIT</key>
+    <string>Credito de Lealtad</string>
+    <key>IDS_LBL_MAKE-SELECTION</key>
+    <string>Hacer la Selección</string>
+    <key>IDS_LBL_MAX</key>
+    <string>Tope</string>
+    <key>IDS_LBL_METHOD</key>
+    <string>Method</string>
+    <key>IDS_LBL_MINIMUM-CUSTOMER-RATING_A</key>
+    <string>Clasificación Mínima al Cliente</string>
+    <key>IDS_LBL_MODIFY-ORDER-INFO_A</key>
+    <string>Modificar Información de Orden</string>
+    <key>IDS_LBL_MODIFY-ORDER-ITEM-QUANTITY_A</key>
+    <string>Modificar Cantidad de Artículo de Orden</string>
+    <key>IDS_LBL_MORE</key>
+    <string>Más</string>
+    <key>IDS_LBL_MOST-HELPFUL</key>
+    <string>Más Servicial</string>
+    <key>IDS_LBL_MY-FOLDERS</key>
+    <string>Mis Carpetas</string>
+    <key>IDS_LBL_MY-REVIEWS</key>
+    <string>Mis Comentarios</string>
+    <key>IDS_LBL_MY-SAVED-SEARCHES_A</key>
+    <string>Mis Búsquedas Guardadas</string>
+    <key>IDS_LBL_NEW</key>
+    <string>Nuevos</string>
+    <key>IDS_LBL_NEW-PASSWORD</key>
+    <string>Nueva Contraseña</string>
+    <key>IDS_LBL_NEWEST</key>
+    <string>Lo Más Nuevo</string>
+    <key>IDS_LBL_NOTIFICATIONS_A</key>
+    <string>Notificaciones</string>
+    <key>IDS_LBL_OLD-PASSWORD</key>
+    <string>Contraseña Anterior</string>
+    <key>IDS_LBL_OPTIONAL</key>
+    <string>Opcional</string>
+    <key>IDS_LBL_ORDER-CANCELLATION</key>
+    <string>Cancelacion de la Orden</string>
+    <key>IDS_LBL_ORDER-CONFIRMATION</key>
+    <string>Confirmacion del Pedido</string>
+    <key>IDS_LBL_ORDER-INFORMATION</key>
+    <string>información del pedido</string>
+    <key>IDS_LBL_ORDER-ITEMS_A</key>
+    <string>Ordene Articulos</string>
+    <key>IDS_LBL_ORDER-MODIFICATION</key>
+    <string>Modificacion de la Orden</string>
+    <key>IDS_LBL_ORDER-NOTIFICATIONS</key>
+    <string>Notificaciones de Ordenes</string>
+    <key>IDS_LBL_ORDER-NUMBER</key>
+    <string>Número de Orden</string>
+    <key>IDS_LBL_ORDER-NUMBER-COLON</key>
+    <string>Número de Orden:</string>
+    <key>IDS_LBL_ORDER-SHIPPING</key>
+    <string>Envio de la Orden</string>
+    <key>IDS_LBL_ORDER-STATUS</key>
+    <string>Estado del Pedido</string>
+    <key>IDS_LBL_ORDER-TOTAL-COLON_A</key>
+    <string>Total de Orden:</string>
+    <key>IDS_LBL_ORDER-TOTALS</key>
+    <string>Ordenes en Total:</string>
+    <key>IDS_LBL_OTHER-INFORMATION</key>
+    <string>Otra Informacion</string>
+    <key>IDS_LBL_OTHER-INGREDIENTS</key>
+    <string>Otros Ingredientes</string>
+    <key>IDS_LBL_PACKAGE-NUMBER-OF-TOTAL</key>
+    <string>{0} de {1}</string>
+    <key>IDS_LBL_PACKAGE-QUANTITY</key>
+    <string>Cantidad de Paquete</string>
+    <key>IDS_LBL_PACKAGES</key>
+    <string>Paquete(s)</string>
+    <key>IDS_LBL_PAID-WITH-EXTERNAL-PAYMENT</key>
+    <string>Pagado con {0}</string>
+    <key>IDS_LBL_PASSWORD</key>
+    <string>Contraseña</string>
+    <key>IDS_LBL_PAYMENT-METHOD</key>
+    <string>Método de Pago</string>
+    <key>IDS_LBL_PENDING-COLON</key>
+    <string>Pendientes:</string>
+    <key>IDS_LBL_PETS</key>
+    <string>Mascotas</string>
+    <key>IDS_LBL_PHONE-NUMBER</key>
+    <string>Número de Teléfono</string>
+    <key>IDS_LBL_POSTAL-CODE</key>
+    <string>Codigo Postal</string>
+    <key>IDS_LBL_PREVIOUS-CART</key>
+    <string>Cesta Anterior</string>
+    <key>IDS_LBL_PRICE</key>
+    <string>Precio</string>
+    <key>IDS_LBL_PRICE-COLON</key>
+    <string>Precio:</string>
+    <key>IDS_LBL_PRICE-TOGETHER</key>
+    <string>Precio Adjunto:</string>
+    <key>IDS_LBL_PRODUCT</key>
+    <string>Producto</string>
+    <key>IDS_LBL_PRODUCT-CATEGORIES</key>
+    <string>Categorías de Productos</string>
+    <key>IDS_LBL_PRODUCT-CODE</key>
+    <string>Código del Producto</string>
+    <key>IDS_LBL_PRODUCTS</key>
+    <string>Productos</string>
+    <key>IDS_LBL_QTY-COLON</key>
+    <string>Cantidad:</string>
+    <key>IDS_LBL_RATING</key>
+    <string>Clasificación</string>
+    <key>IDS_LBL_RECOMMENDATIONS</key>
+    <string>Recomendaciones</string>
+    <key>IDS_LBL_RELEVANCE</key>
+    <string>Relevancia</string>
+    <key>IDS_LBL_REMOVED_A</key>
+    <string>Eliminado</string>
+    <key>IDS_LBL_RESHIP-OF-ORDER</key>
+    <string>Re-envío del pedido</string>
+    <key>IDS_LBL_RESHIPPED-UNDER-ORD</key>
+    <string>Re-enviado bajo pedido</string>
+    <key>IDS_LBL_REVIEW</key>
+    <string>Opinión</string>
+    <key>IDS_LBL_REVIEW-APP_A</key>
+    <string>Revisar Aplicación</string>
+    <key>IDS_LBL_REVIEW-TITLE</key>
+    <string>Revise Título</string>
+    <key>IDS_LBL_REVIEWS</key>
+    <string>Comentarios</string>
+    <key>IDS_LBL_REWARDS-ADDRESS</key>
+    <string>Dirección Recompensas de Pago</string>
+    <key>IDS_LBL_REWARDS-CODE</key>
+    <string>Código de Recompensas</string>
+    <key>IDS_LBL_REWARDS-CREDIT</key>
+    <string>Crédito de Recompensas</string>
+    <key>IDS_LBL_SAME-AS-SHIPPING-ADDRESS</key>
+    <string>Igual que la Dirección de Envío</string>
+    <key>IDS_LBL_SAVED-SEARCHES_A</key>
+    <string>Búsquedas Guardadas</string>
+    <key>IDS_LBL_SAVINGS</key>
+    <string>Ahorros</string>
+    <key>IDS_LBL_SAVINGS-COLON</key>
+    <string>Ahorros:</string>
+    <key>IDS_LBL_SEARCH-HISTORY</key>
+    <string>Historial de Búsqueda</string>
+    <key>IDS_LBL_SELECT-CURRENCY</key>
+    <string>Seleccione su Moneda</string>
+    <key>IDS_LBL_SELECT-FROM-SAVED-ADDRESSES_M</key>
+    <string>Seleccione de Direcciones Guardadas</string>
+    <key>IDS_LBL_SELECT-LANGUAGE</key>
+    <string>Seleccione su Idioma</string>
+    <key>IDS_LBL_SELECT-PREFERENCES</key>
+    <string>Seleccione su destino de envio, moneda y lenguaje.</string>
+    <key>IDS_LBL_SELECT-PRODUCT</key>
+    <string>Seleccione Producto</string>
+    <key>IDS_LBL_SELECT-REASON</key>
+    <string>Seleccionar Razón</string>
+    <key>IDS_LBL_SELECT-SHIPPING-METHOD</key>
+    <string>Seleccione Método de Envío</string>
+    <key>IDS_LBL_SELECT-YOUR-COUNTRY</key>
+    <string>Seleccione su Pais</string>
+    <key>IDS_LBL_SHIPPING</key>
+    <string>Envío</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS</key>
+    <string>Dirección de Envío</string>
+    <key>IDS_LBL_SHIPPING-ADDRESS-COLON</key>
+    <string>Dirección de Envío:</string>
+    <key>IDS_LBL_SHIPPING-METHOD</key>
+    <string>Método de Envío</string>
+    <key>IDS_LBL_SHOW</key>
+    <string>Mostrar</string>
+    <key>IDS_LBL_SIGNIN_WITH_EMAIL</key>
+    <string>Entrar a la Cuenta con Email</string>
+    <key>IDS_LBL_SMALL-ICON_A</key>
+    <string>Icono Pequeño</string>
+    <key>IDS_LBL_SORT-BY</key>
+    <string>Clasificar Por</string>
+    <key>IDS_LBL_SORT_A</key>
+    <string>Clasificar</string>
+    <key>IDS_LBL_SPECIALS</key>
+    <string>Especiales</string>
+    <key>IDS_LBL_SPORTS</key>
+    <string>Deportes</string>
+    <key>IDS_LBL_STATE-REGION</key>
+    <string>Provincia/Región</string>
+    <key>IDS_LBL_STATE-TERRITORY</key>
+    <string>Estado/Territorio</string>
+    <key>IDS_LBL_STATUS-COLON</key>
+    <string>Estatus:</string>
+    <key>IDS_LBL_SUBCATEGORIES_A</key>
+    <string>Subcategorías</string>
+    <key>IDS_LBL_SUBMIT</key>
+    <string>Enviar</string>
+    <key>IDS_LBL_SUBTOTAL-COLON</key>
+    <string>Total Parcial:</string>
+    <key>IDS_LBL_SUBURB</key>
+    <string>Suburbio</string>
+    <key>IDS_LBL_SUGGESTED-USE</key>
+    <string>Uso Sugerido</string>
+    <key>IDS_LBL_SUPERFOODS</key>
+    <string>Superalimentos</string>
+    <key>IDS_LBL_SUPPLEMENTS</key>
+    <string>Suplementos</string>
+    <key>IDS_LBL_TAX</key>
+    <string>Impuestos</string>
+    <key>IDS_LBL_TOTAL-CANCELLED</key>
+    <string>Total Cancelado</string>
+    <key>IDS_LBL_TOTAL-COLON</key>
+    <string>Total:</string>
+    <key>IDS_LBL_TOTAL-ORDERS</key>
+    <string>{0} Total de Órdenes</string>
+    <key>IDS_LBL_TOTAL-WEIGHT-COLON</key>
+    <string>Peso Total:</string>
+    <key>IDS_LBL_TRACKING-COLON</key>
+    <string>Seguimiento:</string>
+    <key>IDS_LBL_TRACKING-NUMBER</key>
+    <string>Numero de Seguimiento:</string>
+    <key>IDS_LBL_TRIALS</key>
+    <string>A Prueba</string>
+    <key>IDS_LBL_UNITED-STATES</key>
+    <string>Estados Unidos</string>
+    <key>IDS_LBL_UPC-CODE</key>
+    <string>Código UPC</string>
+    <key>IDS_LBL_UPDATE-SELECTION-SETTINGS</key>
+    <string>Ud puede actualizar la seleccion en Seccion de Ajustes.</string>
+    <key>IDS_LBL_WARNINGS</key>
+    <string>Advertencias</string>
+    <key>IDS_LBL_WEIGHT</key>
+    <string>Peso</string>
+    <key>IDS_LBL_WEIGHT-COLON</key>
+    <string>Peso:</string>
+    <key>IDS_LBL_ZIP-POSTAL</key>
+    <string>Zip/Código Postal</string>
+    <key>IDS_LBL_ZIP-POSTAL-CODE-COLON_A</key>
+    <string>Código Postal:</string>
+    <key>IDS_LNK_ACNE</key>
+    <string>Acné</string>
+    <key>IDS_LNK_ALLERGIES</key>
+    <string>Alergias</string>
+    <key>IDS_LNK_ANXIETY</key>
+    <string>Ansiedad</string>
+    <key>IDS_LNK_CLOSE</key>
+    <string>Cerrar</string>
+    <key>IDS_LNK_COLD-FLU-VIRAL</key>
+    <string>Resfriados, Virales e Influenza</string>
+    <key>IDS_LNK_DELETE</key>
+    <string>Eliminar</string>
+    <key>IDS_LNK_DIET-WEIGHT-LOSS</key>
+    <string>Perdida de Peso</string>
+    <key>IDS_LNK_HAIR-ALOPECIA</key>
+    <string>Cabello, Alopecia</string>
+    <key>IDS_LNK_HEADACHE</key>
+    <string>Dolor de Cabeza</string>
+    <key>IDS_LNK_INFLAMMATION</key>
+    <string>Inflamación</string>
+    <key>IDS_LNK_JOINTS-LIGAMENTS</key>
+    <string>Articulaciones, Ligamentos</string>
+    <key>IDS_LNK_KIDNEY-BLADDER</key>
+    <string>Riñones, Ayuda de la Vejiga</string>
+    <key>IDS_LNK_LEARN-MORE-LOYALTY-CREDIT</key>
+    <string>Enterese mas acerca del Programa de Credito de Lealtad de iHerb</string>
+    <key>IDS_LNK_LEARN-MORE-REWARDS-PROGRAM</key>
+    <string>Enterese mas acerca del Programa de Recompensas iHerb</string>
+    <key>IDS_LNK_MY-ACCOUNT</key>
+    <string>Mi Cuenta</string>
+    <key>IDS_LNK_SIGN-OUT</key>
+    <string>Salir</string>
+    <key>IDS_LNK_SKIN-HEALTH</key>
+    <string>Cuidado de la Piel</string>
+    <key>IDS_LNK_WOMEN-HEALTH</key>
+    <string>Salud de la Mujer</string>
+    <key>IDS_MSG_ADDRESS-ADDED</key>
+    <string>Domicilio Agregado</string>
+    <key>IDS_MSG_ADDRESS-DELETED</key>
+    <string>Domicilio Borrado</string>
+    <key>IDS_MSG_ALREADY-IN-WISH-LIST</key>
+    <string>Articulo ya se encuentra en Lista de Deseos</string>
+    <key>IDS_MSG_CANCEL-ENTIRE-ORDER</key>
+    <string>¿Seguro que desea cancelar su pedido completamente?</string>
+    <key>IDS_MSG_CART-MAY-NOT-CONTAIN-ALL-ITEMS</key>
+    <string>El Carrito puede no contener todos los articulos previamente agregados.</string>
+    <key>IDS_MSG_CHECK-INTERNET-CONNECTION</key>
+    <string>Favor de checar su conección de Internet.</string>
+    <key>IDS_MSG_CONFIRM-CLEAR-SEARCH-HISTORY_T</key>
+    <string>¿Seguro que quiere borrar el historial de búsqueda?</string>
+    <key>IDS_MSG_CONFIRMATION-EMAIL-SENT</key>
+    <string>Correo de Confirmación Enviado</string>
+    <key>IDS_MSG_CONNECTION-ISSUES-ACCESSING-CART</key>
+    <string>Existen problemas de coneccion para acceso al Carrito.</string>
+    <key>IDS_MSG_COUPON-APPLIED_A</key>
+    <string>Cupón Aplicado</string>
+    <key>IDS_MSG_COUPON-REMOVED</key>
+    <string>Cupón Retirado</string>
+    <key>IDS_MSG_DELETE-ADDRESS-CONFIRMATION</key>
+    <string>¿Está ud. seguro(a) que desea borrar este domicilio?</string>
+    <key>IDS_MSG_DELETE-CREDIT-CARD-CONFIRMATION</key>
+    <string>¿Esta ud seguro(a) que desea borrar esta Tarjeta de Crédito?</string>
+    <key>IDS_MSG_DELETE-FOLDER-CONFIRMATION</key>
+    <string>¿Esta seguro que quiere elimina la carpeta?</string>
+    <key>IDS_MSG_DELETE-ICON-CONFRIMATION</key>
+    <string>¿Está ud seguro(a) que desea borrar éste ícono?</string>
+    <key>IDS_MSG_DELETE-ITEM-CONFIRMATION</key>
+    <string>¿Está Ud seguro que desea borrar este artículo?</string>
+    <key>IDS_MSG_DID-YOU-MEAN</key>
+    <string>¿Quizo decir {0}?</string>
+    <key>IDS_MSG_EDIT-BILLING-ADDRESS_A</key>
+    <string>Edite su dirección de facturación a continuación</string>
+    <key>IDS_MSG_EDIT-FOLDER-NAME-AND-SAVE_A</key>
+    <string>Edit your folder\'s name below and hit save. test</string>
+    <key>IDS_MSG_EDIT-SHIPPING-ADDRESS_A</key>
+    <string>Edite su dirección de envío abajo</string>
+    <key>IDS_MSG_EMAIL-SENT</key>
+    <string>Email Enviado</string>
+    <key>IDS_MSG_FOLDER-ADDED-TO-CART_A</key>
+    <string>Carpeta Añadida a la Cesta</string>
+    <key>IDS_MSG_HERE-ARE-SOME-SIMILAR-PRODUCTS</key>
+    <string>Aqui tenemos algunos productos similares:</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-CART_A</key>
+    <string>Artículo Añadido a la Cesta</string>
+    <key>IDS_MSG_ITEM-ADDED-TO-WISHLIST</key>
+    <string>Artículo Añadido a la Lista de Favoritos</string>
+    <key>IDS_MSG_ITEM-DELETED_A</key>
+    <string>Elemento Eliminado</string>
+    <key>IDS_MSG_ITEM-REMOVED</key>
+    <string>Artículo Retirado</string>
+    <key>IDS_MSG_ITEMS-ADDED</key>
+    <string>Artículo(s) añadido a la cesta.</string>
+    <key>IDS_MSG_ITEMS-COPIED_A</key>
+    <string>Artículo(s) Copiado</string>
+    <key>IDS_MSG_ITEMS-MOVED</key>
+    <string>Producto(s) transferido.</string>
+    <key>IDS_MSG_LEAVE-APP-AND-OPEN-BROWSER</key>
+    <string>¿Esta Ud seguro en querer dejar la aplicacion de iHerb y abrir un enlace en un navegador externo?</string>
+    <key>IDS_MSG_LEAVE-CHECKOUT-CONFIRMATION</key>
+    <string>¿Esta Ud. seguro en querer terminar el proceso de pago?</string>
+    <key>IDS_MSG_LEAVE-ORDER-ISSUES-CONFIRMATION</key>
+    <string>¿Está Ud. seguro(a) de que desea dejar el proceso de Problemas con la órden?</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S00</key>
+    <string>Un enlace que le permitirá restablecer su contraseña ha sido enviada a su dirección de Correo Electrónico.</string>
+    <key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S01</key>
+    <string>Debe recibirla en los próximos 5 minutos.</string>
+    <key>IDS_MSG_LOG-OUT-CONFIRMATION</key>
+    <string>¿Esta seguro que quiere cerrar sesión?</string>
+    <key>IDS_MSG_NO-ITEMS-IN-WISHLIST</key>
+    <string>No hay artículos en su Lista de Deseos.</string>
+    <key>IDS_MSG_NOT-AVAILABLE</key>
+    <string>No Esta Disponible</string>
+    <key>IDS_MSG_NOT-RECOGNIZE-ADDRESS</key>
+    <string>Nuestro sistema de verificación de direcciones interna no reconoce la dirección que ud. ha ingresado.</string>
+    <key>IDS_MSG_NOTHING-TO-REMOVE</key>
+    <string>Nada que Quitar</string>
+    <key>IDS_MSG_NOTIFY-LIST-IN-LIST</key>
+    <string>El articulo se encontraba ya en su Lista de Notificaciones.</string>
+    <key>IDS_MSG_OPTION-UNAVAILABLE-FOR-ORDER_A</key>
+    <string>Opción no Disponible para Esta Orden</string>
+    <key>IDS_MSG_ORDER-HISTORY-EMPTY</key>
+    <string>El Historial de Pedidos se encuentra vacio por el momento.</string>
+    <key>IDS_MSG_PASSWORD-WAS-SAVED</key>
+    <string>Contraseña fue guardada.</string>
+    <key>IDS_MSG_PAYMENT-FAILED</key>
+    <string>Pago Fallido</string>
+    <key>IDS_MSG_PAYMENT-PENDING</key>
+    <string>Pago Pendiente</string>
+    <key>IDS_MSG_PAYMENT-SUCCESSFUL</key>
+    <string>Pago Exitoso</string>
+    <key>IDS_MSG_PLEASE-BROWSE-ADD-PRODUCTS_A</key>
+    <string>Favor de navegar o buscar producto para agregar a su canasta.</string>
+    <key>IDS_MSG_PRODUCT-NOT-AVAILABLE</key>
+    <string>Este producto no está disponible.</string>
+    <key>IDS_MSG_QUANTITY-UPDATED</key>
+    <string>Cantidad Actualizada</string>
+    <key>IDS_MSG_REACHED-LIMIT-HOMEPAGE-ICONS_A</key>
+    <string>Usted ha llegado al límite.</string>
+    <key>IDS_MSG_REMOVE-ALL-ITEMS-CONFIRMATION</key>
+    <string>¿Seguro que quieres eliminar todos los elementos?</string>
+    <key>IDS_MSG_REMOVE-PHOTO-CONFIRMATION</key>
+    <string>¿Está Ud. Seguro que desea quitar ésta foto?</string>
+    <key>IDS_MSG_REMOVE-REVIEW-CONFIRMATION</key>
+    <string>¿Está Ud. Seguro(a) que quiere borrar esta evaluación?</string>
+    <key>IDS_MSG_REMOVE-THIS-ITEM-CONFIRMATION</key>
+    <string>¿Esta ud seguro(a) que desea retirar este articulo?</string>
+    <key>IDS_MSG_REORDER-CONFIRMATION_A</key>
+    <string>¿Seguro que desea reordenar?</string>
+    <key>IDS_MSG_REWARDS-ADDRESS-NOT-APPROVED</key>
+    <string>Su Dirección de Recompensas no ha sido aprobada todavía. Servicio al Cliente de iHerb se comunicará con usted con el fin de aprobar su Dirección de Recompensas.</string>
+    <key>IDS_MSG_SAVE-CHANGES-CONFIRMATION</key>
+    <string>¿Esta Ud. seguro(a) que desea guardar éstos cambios?</string>
+    <key>IDS_MSG_SAVED-SUCCESSIVELY_A</key>
+    <string>Guardado con Éxito</string>
+    <key>IDS_MSG_SEARCH-RESULTS-FOR-COLON_A</key>
+    <string>Resultados de búsqueda para {0}:</string>
+    <key>IDS_MSG_SEARCH-RESULTS-REVIEWS-COLON_A</key>
+    <string>Resultados de búsqueda para {0} en los comentarios:</string>
+    <key>IDS_MSG_SELECT-ICON-SIZE_A</key>
+    <string>¿Quieres añadir un icono grande o pequeño?</string>
+    <key>IDS_MSG_SELECT-ICON-TYPE_A</key>
+    <string>Seleccione el tipo de icono que desea crear</string>
+    <key>IDS_MSG_SHARE-YOUR-CART</key>
+    <string>Dale un Vistazo a mi Canasta en iHerb.com.</string>
+    <key>IDS_MSG_SUBMIT-FORM-CONFIRMATION</key>
+    <string>¿Está ud. seguro que desea enviar ésta forma?</string>
+    <key>IDS_MSG_THANKS-FOR-FEEDBACK</key>
+    <string>Gracias por su respuesta!</string>
+    <key>IDS_MSG_THERE-ARE-NO-SEARCH-RESULTS-FOR</key>
+    <string>No existen resultados de busqueda para {0}.</string>
+    <key>IDS_MSG_TOUCH-ID-ENABLED-AFTER-LOGIN</key>
+    <string>Touch ID será activado cuando usted inicie sesión para permitir acceso a su cuenta de iHerb</string>
+    <key>IDS_MSG_TRY-AGAIN_A</key>
+    <string>Intentar de Nuevo</string>
+    <key>IDS_MSG_WE-DO-NOT-CARRY</key>
+    <string>No llevamos {0}</string>
+    <key>IDS_MSG_WISH-LIST-COPY-SUBTITLE</key>
+    <string>A cual archivo le gustaria copiar el Producto?</string>
+    <key>IDS_MSG_WISH-LIST-EMPTY</key>
+    <string>Lista de Deseos se encuentra vacia por el momento.</string>
+    <key>IDS_MSG_WISH-LIST-MOVE-SUBTITLE</key>
+    <string>Hacia cual archivo le gustaria a ud. mover su(s) producto(s)?</string>
+    <key>IDS_MSG_WRITE-REVIEW-MUST-SHIPPED-ORDER</key>
+    <string>Para escribir un comentario, usted debe tener una orden enviada.</string>
+    <key>IDS_MSG_WRITE-YOUR-REVIEW-HERE_A</key>
+    <string>Escriba su opinión aquí</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-DELETED</key>
+    <string>Su opinión se ha eliminado.</string>
+    <key>IDS_MSG_YOUR-REVIEW-WAS-SAVED</key>
+    <string>Tu opinión se ha guardado.</string>
+    <key>IDS_TTL_APPLIED-CODES</key>
+    <string>Aplicar Código(s)</string>
+    <key>IDS_TTL_APPLY-REWARDS-OR-PROMO-CODE</key>
+    <string>Aplicar Código Promocional o de Recompensas</string>
+    <key>IDS_TTL_CHECKOUT</key>
+    <string>Proceder a Pagar</string>
+    <key>IDS_TTL_CUSTOMIZE-ICON_A</key>
+    <string>Personaliza Icono</string>
+    <key>IDS_TTL_EDIT-FOLDER-NAME_A</key>
+    <string>Editar Nombre de Carpeta</string>
+    <key>IDS_TTL_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>Editar Guardados de Búsqueda por Nombre</string>
+    <key>IDS_TTL_ERROR_A</key>
+    <string>Error</string>
+    <key>IDS_TTL_KOREAN-PCC</key>
+    <string>Korean PCC</string>
+    <key>IDS_TTL_LOGIN</key>
+    <string>Ingresar</string>
+    <key>IDS_TTL_NEW-BILLING-ADDRESS_A</key>
+    <string>Nueva Dirección de Facturación</string>
+    <key>IDS_TTL_NEW-FEATURE-DEMO_A</key>
+    <string>Nueva Función de Demostración</string>
+    <key>IDS_TTL_NEW-REWARDS-ADDRESS_A</key>
+    <string>Nuevo Domicilio para Recompensas</string>
+    <key>IDS_TTL_NEW-SHIPPING-ADDRESS_A</key>
+    <string>Nueva Dirección de Envío</string>
+    <key>IDS_TTL_ORDER-ISSUES</key>
+    <string>Problemas con su Pedido</string>
+    <key>IDS_TTL_PROFILE</key>
+    <string>Perfil</string>
+    <key>IDS_TTL_SEARCH-TITLE_A</key>
+    <string>Búsqueda de Títulos</string>
+    <key>IDS_TTL_SELECT-FOLDER_A</key>
+    <string>Seleccionar Carpeta</string>
+    <key>IDS_TTL_SELECT-HEALTH-TOPIC</key>
+    <string>Seleccione un Tema de Salud</string>
+    <key>IDS_TTL_SELECT-ICON-IMAGE_A</key>
+    <string>Seleccionar Icono de Imagen</string>
+    <key>IDS_TTL_SELECT-ORDER-NUMBER</key>
+    <string>Seleccione Número de Órden</string>
+    <key>IDS_TTL_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>Seleccione Categoría de Producto</string>
+    <key>IDS_TTL_SELECT-SAVED-SEARCH_A</key>
+    <string>Seleccione Guardar Búsqueda</string>
+    <key>IDS_TTL_SHOPPING-CART</key>
+    <string>Cesta de Compra</string>
+    <key>IDS_TXT_ACCESS-YOUR-SAVED-SEARCHES-MORE</key>
+    <string>Ingrese a sus Busquedas Guardadas, y mas</string>
+    <key>IDS_TXT_AGREE_TERMS_POLICY_STATEMENT</key>
+    <string>Al crear una cuenta ud. está de acuerdo con nuestra &lt;a href="{0}" target="_blank"&gt; política de privacidad&lt;/a&gt; y &lt;a href="{1}" target="_blank"&gt;términos de uso&lt;/a&gt;</string>
+    <key>IDS_TXT_AUTOENROLL_EARN-BACK</key>
+    <string>Gane 10% en Retorno</string>
+    <key>IDS_TXT_AUTOENROLL_GET_PAID</key>
+    <string>Reciba su pago de $5 + 5%</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-LOYALTY-CREDIT</key>
+    <string>con nuestro crédito de Lealtad en cada pedido.</string>
+    <key>IDS_TXT_AUTOENROLL_WITH-OUR-REFERRAL</key>
+    <string>con nuestro Programa de Recompensas cuando ud. recomienda un nuevo cliente.</string>
+    <key>IDS_TXT_BUY-THESE-TOGETHER</key>
+    <string>Compre Estos Juntos</string>
+    <key>IDS_TXT_CACHING-NOTES</key>
+    <string>Al activar la Antememoria de Datos en su ordenador(Cache), ud. será capaz de navegar páginas que ud. ha visitado recientemente con o sin conección a la internet. Por favor tenga en cuenta que precios u otra información pueden no estar actualizadas cuando ud. visite páginas en Caché.</string>
+    <key>IDS_TXT_CART-IS-EMPTY</key>
+    <string>Su Cesta Está Vacía</string>
+    <key>IDS_TXT_CASH-ON-DELIVERY</key>
+    <string>Dinero en efectivo se recogerá cuando el pedido sea entregado</string>
+    <key>IDS_TXT_CLEAR-CACHE-CONFIRM</key>
+    <string>¿Está ud. seguro que desea despejar el contenido de Antememoria(Cache)?</string>
+    <key>IDS_TXT_DELETE-COUPON-CODE-CONFIRMATION</key>
+    <string>¿Está Ud. seguro que desea borrar este código de cupón?</string>
+    <key>IDS_TXT_DIGIT-CODE</key>
+    <string>Código de 6 dígitos</string>
+    <key>IDS_TXT_DIGIT-CODE-REQUIERED</key>
+    <string>Se requiere un código de 6 dígitos.</string>
+    <key>IDS_TXT_EDIT-SAVED-SEARCH-NAME_A</key>
+    <string>Editar este nombre búsqueda guardado y pulse guardar.</string>
+    <key>IDS_TXT_ENTER-FOLDER-NAME</key>
+    <string>Introduzca un nombre nuevo de carpeta</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S00</key>
+    <string>El período de tiempo para la fecha de vencimiento o "Utilícese preferentemente antes" la fecha depende del tipo de producto, así como la marca.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S01</key>
+    <string>Los artículos perecederos (tales como aceites de lino o ciertos probióticos) generalmente tienen fechas de vencimiento más cortos. Aunque nuestro almacén dispone de aire acondicionado, estos elementos más frágiles se colocan en almacenamiento en frío (congelador o unidad de refrigeración) para lograr la máxima frescura.</string>
+    <key>IDS_TXT_EXPIRATION-DATE_S02</key>
+    <string>Nuestro departamento de recepción hace todo lo posible para verificar y luego ingrese las fechas de vencimiento correctas para todos los productos entrantes. Sin embargo, las discrepancias se producen de vez en cuando. Dicho esto, la excepcionalmente alta rotación en iHerb asegura que nuestro inventario es uno de los más frescos en la industria.</string>
+    <key>IDS_TXT_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+    <string>Desafortunadamente no hemos recibido su pago a traves de {0} todavía. Si Ud. ha completado el proceso de pago con {1} favor de darle por lo menos 2 horas para ser actualizado en nuestro sistema. Si después de dos horas Ud. todavía tiene problemas con el pago, por favor intente de nuevo o comuníquese con servicio al cliente para recibir mas ayuda.
+&lt;br /&gt;
+&lt;br /&gt;
+
+Si su pago no se ha completado con {2} Ud. podria intentar el botón a continuación para completar su pago.</string>
+    <key>IDS_TXT_FIND-OR-TRACK-YOUR-ORDERS</key>
+    <string>Encuentre y rastree sus pedidos</string>
+    <key>IDS_TXT_IMPORTANT-NOTE</key>
+    <string>Nota Importante</string>
+    <key>IDS_TXT_ITEMS-FROM-PREVIOUS-SESSION</key>
+    <string>Usted tiene artículos en su carrito de compras de una sesión anterior</string>
+    <key>IDS_TXT_LANGUAGE-SETTINGS-ALERT</key>
+    <string>Favor de seleccionar el lenguaje deseado de las Configuraciones iOS</string>
+    <key>IDS_TXT_LOGIN-TO-YOUR-ACCOUNT-TO</key>
+    <string>Entre a su cuenta para:</string>
+    <key>IDS_TXT_LOGIN-USING-TOUCH-ID</key>
+    <string>Ud puede ingresar a su cuenta usando Touch ID</string>
+    <key>IDS_TXT_LOGIN_SHOP_TOP_BRANDS</key>
+    <string>Compre de 35,000  Productos Saludables de Marca de Renombre con Envio Internacional con Descuento para Pedidos de mas de $40 USD.</string>
+    <key>IDS_TXT_MANAGE-REWARDS-ADDRESS</key>
+    <string>Ud puede administrar su Domicilio para las Recompensas cuando entre a la cuenta en el sitio de &lt;a class="{0}" href="{1}"&gt;Recompensas&lt;/a&gt;.</string>
+    <key>IDS_TXT_MANAGE-YOUR-WISH-LIST</key>
+    <string>Administre su Lista de Deseos</string>
+    <key>IDS_TXT_MODIFY-ORDER-ITEMS_A</key>
+    <string>Para cambiar la cantidad de artículos de su pedido o retirar ciertos artículos</string>
+    <key>IDS_TXT_MODIFY-ORDER-NOTE</key>
+    <string>Favor de notar que al modificar su pedido puede causar retrasos en su entrega debido al monitoreo para detectar fraude.</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-ADDRESS_A</key>
+    <string>Seleccione de uno de los domicilios mostrados o agregue uno nuevo</string>
+    <key>IDS_TXT_MODIFY-SHIPPING-METHOD_A</key>
+    <string>Seleccione de una de las opciones de entrega mostrados</string>
+    <key>IDS_TXT_NEW-BILLING-ADDRESS_A</key>
+    <string>Añadir una nueva dirección de facturación a continuación</string>
+    <key>IDS_TXT_NEW-FEATURE-DEMO_A</key>
+    <string>La nueva aplicación iHerb incluye un par de nuevas características que nos gustaría poderle ayudarle a caminar a través.</string>
+    <key>IDS_TXT_NEW-SHIPPING-ADDRESS_A</key>
+    <string>Añadir una nueva dirección de envío a continuación</string>
+    <key>IDS_TXT_NO-ITEMS-IN-NOTIFY-LIST</key>
+    <string>No tiene artículos en su lista de notificaciones. Si usted solicita que se le notifique cuando un artículo fuera de stock vuelve estar disponible, entonces ese artículo aparecerá aquí.</string>
+    <key>IDS_TXT_NOTIFIED-WHEN-PRODUCT-AVAILABLE</key>
+    <string>Usted será notificado cuando este producto esté disponible.</string>
+    <key>IDS_TXT_NUMBER-DAYS</key>
+    <string>{0} Día(s)</string>
+    <key>IDS_TXT_NUMBER-OF-REVIEWS</key>
+    <string>{0} Evaluaciones</string>
+    <key>IDS_TXT_OR</key>
+    <string>Ó</string>
+    <key>IDS_TXT_ORDER-ISSUE</key>
+    <string>Para ayudarle mejor a resolver cualquier problema con su pedido, haga favor de llenar el formulario a continuacion.</string>
+    <key>IDS_TXT_OTHER-DEVICE-EMAIL-MODIFIED</key>
+    <string>Su Email ha sido actualizado</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CANCELLED</key>
+    <string>Su orden, {0}, ha sido cancelada.</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-CONFIRMATION</key>
+    <string>Su orden, {0}, ha sido hecha</string>
+    <key>IDS_TXT_OTHER-DEVICE-ORDER-MODIFIED</key>
+    <string>Su orden, {0}, ha sido modificada</string>
+    <key>IDS_TXT_OTHER-DEVICE-PASSWORD-RESET</key>
+    <string>Su clave ha sido reactivada</string>
+    <key>IDS_TXT_PAYMENT-METHOD-SUBTITLE_A</key>
+    <string>Ver o Editar Formas de Pago Guardadas Anteriormente</string>
+    <key>IDS_TXT_PEOPLE-FOUND-REVIEW-HELFUL</key>
+    <string>{0} personas encontraron útil la siguiente opinión</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-KG</key>
+    <string>{0} kg</string>
+    <key>IDS_TXT_PRODUCT-WEIGHT-LBS</key>
+    <string>{0} lbs</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-EMAIL-UPDATE</key>
+    <string>Ud recibira las alertas cuando su Email se actualize en otro aparato</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-IN-STOCK_A</key>
+    <string>Usted recibirá alertas cuando productos fuera de stock que le interesan estén disponible.</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CANCEL</key>
+    <string>Ud recibira alertas cuando las ordenes se cancelen en otro aparato</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CONFIRM</key>
+    <string>Ud recibira alertas cuando las ordenes se hagan en otro aparato</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-MODIF</key>
+    <string>Ud. recibira alertas cuando sus ordenes se modifiquen en otro aparato</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-PASS-RESET</key>
+    <string>Ud. recibira alertas cuando su clave se actualize en otro aparato</string>
+    <key>IDS_TXT_PUSH-NOTIFICATIONS-SHIPPED-OUT_A</key>
+    <string>Usted recibirá alertas cuando sus órdenes se envíen</string>
+    <key>IDS_TXT_PUSH-NOTIFICATION_I</key>
+    <string>Por favor vaya a su telefono en Configuraciones &gt; Notificaciones &gt; iHerb, y active "Permitir Notificaciones"</string>
+    <key>IDS_TXT_RESET-PASSWORD</key>
+    <string>Ingrese su correo y nosotros le enviaremos un enlace para crear una nueva contraseña. Para razones de seguridad, toda la información de tarjetas de crédito será retirada de su cuenta al renovar su contraseña.</string>
+    <key>IDS_TXT_RESET-PASSWORD-NOTE1</key>
+    <string>Debido a que el enlace para restablecer la contraseña se envía a través de Correo Electrónico automatizado, algunos proveedores de servicios de Correo Electrónico pueden poner el correo electrónico en una Carpeta de Correo o como Spam a granel. Por favor, asegúrese de revisar esas carpetas si usted no puede localizar el correo electrónico mandado por nosotros.</string>
+    <key>IDS_TXT_RESET-PASSWORD-SECURITY-HTML_A</key>
+    <string>Por razones de seguridad, &lt;font color="#FF0000"&gt;toda la información de tarjetas de crédito será retirado de su cuenta&lt;/font&gt; al restablecer su contraseña.</string>
+    <key>IDS_TXT_RESULTS-FOR_A</key>
+    <string>{0} Resultados para</string>
+    <key>IDS_TXT_REVIEWED-ON-DATE_A</key>
+    <string>Revisado el {0}</string>
+    <key>IDS_TXT_REWARDS-ADDRESS-SUBTITLE_A</key>
+    <string>Agregue o edite su domicilio para recibir sus cheques para Recompensas que totalizen $300 o mas</string>
+    <key>IDS_TXT_SAVE</key>
+    <string>Ahorre</string>
+    <key>IDS_TXT_SAVE-WHEN-BUY-TOGETHER</key>
+    <string>Ahorre {0} cuando usd también compre  {1} ahora.</string>
+    <key>IDS_TXT_SEARCH-TITLE_A</key>
+    <string>Dé a su búsqueda un nombre y lo puede añadir a su página principal iHerb.</string>
+    <key>IDS_TXT_SEE-PRICE-IN-CART</key>
+    <string>Ver precio en el carrito.</string>
+    <key>IDS_TXT_SELECT-AND-CONTINUE-BELOW</key>
+    <string>Si usted siente que ha introducido correctamente su dirección, usted puede "Seleccionar  y Continuar" abajo:</string>
+    <key>IDS_TXT_SELECT-CACHE-SETTINGS_LENGTH</key>
+    <string>Seleccione la Duración de Antememoria(Cache) a continuación.</string>
+    <key>IDS_TXT_SELECT-HEALTH-TOPIC</key>
+    <string>Seleccione el tema de salud que le gustaría usar</string>
+    <key>IDS_TXT_SELECT-ICON-IMAGE_A</key>
+    <string>Seleccione la imagen que desea utilizar</string>
+    <key>IDS_TXT_SELECT-ORDER-NUMBER</key>
+    <string>Seleccione una órden de la lista a continuación</string>
+    <key>IDS_TXT_SELECT-PRODUCT-CATEGORY_A</key>
+    <string>Seleccione la categoría de producto que desea utilizar</string>
+    <key>IDS_TXT_SELECT-PRODUCT-FROM-YOUR-ORDER</key>
+    <string>Seleccione un producto de su pedido</string>
+    <key>IDS_TXT_SELECT-SAVED-SEARCH_A</key>
+    <string>Seleccione la búsqueda guardada que desea utilizar</string>
+    <key>IDS_TXT_SEND-CODE</key>
+    <string>Enviar Código</string>
+    <key>IDS_TXT_SHARE-PRODUCT</key>
+    <string>Dale un vistazo a este producto que encontre en iHerb.com.</string>
+    <key>IDS_TXT_SHARED-CART</key>
+    <string>Toque el botón "Añadir a la Canasta" para agregar los productos compartidos  a su Canasta. Ud. todavía puede hacer cambios en su Carrito más tarde.</string>
+    <key>IDS_TXT_SHIPPING-WEIGHT</key>
+    <string>El Peso para el envío incluye el producto, material de empaque de protección y la caja de envío real. Además, el peso del envío puede ser ajustado para el peso dimensional (por ejemplo, longitud, anchura y altura) de un paquete. Es importante tener en cuenta que ciertos tipos de productos (por ejemplo, envases de vidrio, líquidos, frágil, refrigerados o hielo empacado) posiblemente requiera de material de embalaje de protección. Como tal, estos productos reflejar un mayor peso del envío en comparación con el producto sin protección.</string>
+    <key>IDS_TXT_SIGN-IN-WITH-EMAIL</key>
+    <string>Si no recuerda su contraseña, ud. puede registrarse con su email. Nosotros le enviaremos un código que ud. puede ingresar en la siguiente pantalla para hacerlo sin contraseña.</string>
+    <key>IDS_TXT_UPDATE-YOUR-PROFILE-INFO</key>
+    <string>Actualize la Informacion de su Perfil</string>
+    <key>IDS_TXT_VERIFICATION-EMAIL-NOTICE</key>
+    <string>Usted recibirá un correo electrónico de verificación de iHerb después de un cambio  de direccion de correo electrónico. Por favor, siga las instrucciones para completar el proceso de actualización.</string>
+    <key>IDS_TXT_VIEW-YOUR-CUSTOMIZED-HOMEPAGE</key>
+    <string>Vea su Pagina de Inicio personalizada</string>
+    <key>IDS_TXT_XE-CONVERSION-RATES_A</key>
+    <string>Tasas de conversión aproximadas por XE.com - actualizado diariamente.  Su orden será procesada en dólares estadounidenses.</string>
+  </dict>
+</plist>

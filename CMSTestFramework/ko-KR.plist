@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDS_BTN_ADD-ANOTHER-ITEM</key>
+	<string>제품 추가하기</string>
+	<key>IDS_BTN_ADD-BILLING-ADDRESS_A</key>
+	<string>청구지 주소 추가하기</string>
+	<key>IDS_BTN_ADD-BOTH-TO-CART</key>
+	<string>모두 장바구니에 담기</string>
+	<key>IDS_BTN_ADD-FOLDER-TO-CART</key>
+	<string>폴더 장바구니에 담기</string>
+	<key>IDS_BTN_ADD-NEW-FOLDER_A</key>
+	<string>새 폴더 추가하기</string>
+	<key>IDS_BTN_ADD-PAYMENT-METHOD_A</key>
+	<string>결제방법 추가하기</string>
+	<key>IDS_BTN_ADD-PERSONAL-INFORMATION_A</key>
+	<string>개인 정보 추가하기</string>
+	<key>IDS_BTN_ADD-PHOTO</key>
+	<string>사진 첨부하기</string>
+	<key>IDS_BTN_ADD-REWARDS-ADDRESS_A</key>
+	<string>추천포인트 수령인 정보 입력하기</string>
+	<key>IDS_BTN_ADD-SHIPPING-ADDRESS_A</key>
+	<string>배송 주소 추가</string>
+	<key>IDS_BTN_ADD-TO-CART</key>
+	<string>장바구니에 담기</string>
+	<key>IDS_BTN_ADD-TO-WISH-LIST</key>
+	<string>위시리스트에 추가하기</string>
+	<key>IDS_BTN_APP-DEMO_A</key>
+	<string>앱 데모</string>
+	<key>IDS_BTN_APPLY</key>
+	<string>적용하기</string>
+	<key>IDS_BTN_APPLY-CODE</key>
+	<string>코드 적용하기</string>
+	<key>IDS_BTN_CALCULATE</key>
+	<string>계산하기</string>
+	<key>IDS_BTN_CANCEL</key>
+	<string>취소</string>
+	<key>IDS_BTN_CHOOSE-EXISTING-PHOTO</key>
+	<string>저장된 사진 이용하기</string>
+	<key>IDS_BTN_CLEAR-CACHE</key>
+	<string>캐시 지우기</string>
+	<key>IDS_BTN_CLEAR_A</key>
+	<string>지우기</string>
+	<key>IDS_BTN_COMBINE-BOTH-CARTS</key>
+	<string>모든 장바구니 주문하기</string>
+	<key>IDS_BTN_COMPLETE-PAYMENT</key>
+	<string>결제 완료하기</string>
+	<key>IDS_BTN_CONTINUE</key>
+	<string>계속</string>
+	<key>IDS_BTN_CONTINUE-TO-APP</key>
+	<string>앱으로 계속 진행하기</string>
+	<key>IDS_BTN_COPY-TO-WISH-LIST_A</key>
+	<string>위시리스트로 복사하기</string>
+	<key>IDS_BTN_CREATE-ACCOUNT</key>
+	<string>가입하기</string>
+	<key>IDS_BTN_CREATE-NEW-SAVED-SEARCH_A</key>
+	<string>새로운 검색기록 저장목록 만들기</string>
+	<key>IDS_BTN_CUSTOMIZABLE-HOMEPAGE_A</key>
+	<string>맞춤 제작용 홈페이지</string>
+	<key>IDS_BTN_DELETE-REVIEW</key>
+	<string>리뷰 삭제하기</string>
+	<key>IDS_BTN_DISMISS</key>
+	<string>닫기</string>
+	<key>IDS_BTN_DONE</key>
+	<string>완료</string>
+	<key>IDS_BTN_EDIT</key>
+	<string>수정</string>
+	<key>IDS_BTN_ENTER-CODES</key>
+	<string>코드 입력하기</string>
+	<key>IDS_BTN_FORGOT-PASSWORD</key>
+	<string>비밀번호 분실</string>
+	<key>IDS_BTN_HELPFUL_A</key>
+	<string>유용함</string>
+	<key>IDS_BTN_MAKE-DEFAULT</key>
+	<string>지정하기</string>
+	<key>IDS_BTN_NO</key>
+	<string>아니요</string>
+	<key>IDS_BTN_OK</key>
+	<string>네</string>
+	<key>IDS_BTN_REFINE_A</key>
+	<string>정렬기준</string>
+	<key>IDS_BTN_REMOVE</key>
+	<string>제거하기</string>
+	<key>IDS_BTN_REMOVE-ALL-ITEMS</key>
+	<string>모든 아이템 제거하기</string>
+	<key>IDS_BTN_REPORT-ABUSE</key>
+	<string>신고하기</string>
+	<key>IDS_BTN_RESET_A</key>
+	<string>재설정</string>
+	<key>IDS_BTN_SAVE</key>
+	<string>저장하기</string>
+	<key>IDS_BTN_SAVE-AND-CONTINUE</key>
+	<string>저장 &amp;amp; 계속하기</string>
+	<key>IDS_BTN_SAVE-CART-TO-WISHLIST</key>
+	<string>위시리스트에 장바구니 저장하기</string>
+	<key>IDS_BTN_SAVE-CHANGES_A</key>
+	<string>변경사항 저장하기</string>
+	<key>IDS_BTN_SAVE-SEARCH_A</key>
+	<string>검색기록 저장하기</string>
+	<key>IDS_BTN_SEE-ALL-REVIEWS</key>
+	<string>모든 리뷰 보기</string>
+	<key>IDS_BTN_SKIP-SIGN-IN</key>
+	<string>로그인 건너뛰기</string>
+	<key>IDS_BTN_SKIP-VERIFICATION</key>
+	<string>확인 과정 건너 띄기</string>
+	<key>IDS_BTN_SUBMIT-REVIEW</key>
+	<string>사용후기 등록하기</string>
+	<key>IDS_BTN_TAKE-PHOTO</key>
+	<string>사진 찍기</string>
+	<key>IDS_BTN_TAP-TO-EXIT-HOMEPAGE-EDIT-MODE</key>
+	<string>홈페이지 편집을 끝내려면 이곳을 탭하세요</string>
+	<key>IDS_BTN_USE-CURRENT-CART</key>
+	<string>현재 장바구니 주문하기</string>
+	<key>IDS_BTN_USE-PREVIOUS-CART</key>
+	<string>이전 장바구니 주문하기</string>
+	<key>IDS_BTN_YES</key>
+	<string>네</string>
+	<key>IDS_ERR_ADD-A-CREDIT-CARD</key>
+	<string>결제진행과정에서 결제카드를 추가하여 주십시오.</string>
+	<key>IDS_ERR_ADDRESS-LINE1-REQUIRED</key>
+	<string>주소라인1을 입력하여 주십시오.</string>
+	<key>IDS_ERR_ADDRESS-LINE2-REQUIRED</key>
+	<string>주소 2 입력이 필요합니다</string>
+	<key>IDS_ERR_BAD-REQUEST</key>
+	<string>요청하신 내용을 실행하는 중 문제가 발생하였습니다</string>
+	<key>IDS_ERR_CITY-REQUIRED</key>
+	<string>도시명을 입력하십시오.</string>
+	<key>IDS_ERR_CONFIRM-PASSWORD-REQUIRED</key>
+	<string>비밀번호를 재입력해 주십시오.</string>
+	<key>IDS_ERR_CONSIGNEE-NAME-REQUIRED</key>
+	<string>수령자 성함을 입력하십시오.</string>
+	<key>IDS_ERR_COUNTRY-REQUIRED</key>
+	<string>국가정보가 필요합니다</string>
+	<key>IDS_ERR_EMAIL-ADDRESS-REQUIRED</key>
+	<string>이메일주소를 입력하여 주십시오.</string>
+	<key>IDS_ERR_FIELDS-MISSING-IN-FORM</key>
+	<string>1개 이상의 필수 입력 사항이 입력되지 않았습니다. 다시 한번 확인 후 시도해 주시길 바랍니다.</string>
+	<key>IDS_ERR_FOLDER-ALREADY-EXISTS</key>
+	<string>이미 존재하는 폴더입니다.</string>
+	<key>IDS_ERR_FULL-NAME-REQUIRED</key>
+	<string>전체 이름을 입력하여 주십시오.</string>
+	<key>IDS_ERR_IMAGE-ATTACHMENTS-TOO-BIG</key>
+	<string>첨부파일의 용량이 허용양을 초과하였습니다.</string>
+	<key>IDS_ERR_ISSUE-TYPE-REQUIRED</key>
+	<string>문제 종류를 입력하세요</string>
+	<key>IDS_ERR_LOGIN-FAILED</key>
+	<string>로그인에 실패하였습니다. 다시 로그인해 주시거나, 고객서비스센터로 문의하여 주십시오.</string>
+	<key>IDS_ERR_LOGIN-TO-CUSTOMIZE-HOMEPAGE_A</key>
+	<string>홈페이지의 맞춤설정을 위해 로그인해 주세요.</string>
+	<key>IDS_ERR_NEW-PASSWORD-REQUIRED</key>
+	<string>새로운 비밀번호를 입력해 주십시오.</string>
+	<key>IDS_ERR_OLD-PASSWORD-REQUIRED</key>
+	<string>이전 비밀번호를 입력해 주십시오.</string>
+	<key>IDS_ERR_ORDER-NUMBER-REQUIRED</key>
+	<string>주문 번호 입력이 필요합니다</string>
+	<key>IDS_ERR_PASSWORD-REQUIRED</key>
+	<string>비밀번호를 입력하여 주십시오.</string>
+	<key>IDS_ERR_PHONE-NUMBER-REQUIRED</key>
+	<string>유효한 전화번호를 입력하여 주십시오.</string>
+	<key>IDS_ERR_POSTAL-REQUIRED</key>
+	<string>우편번호를 입력하여 주십시오.</string>
+	<key>IDS_ERR_PRODUCT-REQUIRED</key>
+	<string>문제 제품을 선택하세요</string>
+	<key>IDS_ERR_REASON-REQUIRED</key>
+	<string>이유를 입력하세요</string>
+	<key>IDS_ERR_REVIEW-IS-REQUIRED</key>
+	<string>상품평 내용을 입력하여 주십시오.</string>
+	<key>IDS_ERR_REVIEW-TITLE-REQUIRED</key>
+	<string>상품평 제목을 입력하여 주십시오.</string>
+	<key>IDS_ERR_REWARDS-CODE-IS-REQUIRED</key>
+	<string>추천코드를 입력하세요</string>
+	<key>IDS_ERR_STATE-PROVINCE-REGION-REQUIRED</key>
+	<string>주/도명을 입력하여 주십시오.</string>
+	<key>IDS_ERR_STATE-REQUIRED</key>
+	<string>주/도명을 입력하여 주십시오.</string>
+	<key>IDS_ERR_SUBURB-REQUIRED</key>
+	<string>주/도명을 입력하세요</string>
+	<key>IDS_ERR_TRY-AGAIN-LATER</key>
+	<string>다시 시도하여 주십시오. 만일 문제가 지속될 시, 고객서비스센터로 문의하여 주십시오.</string>
+	<key>IDS_ERR_ZIP-POSTAL-REQUIRED</key>
+	<string>우편번호를 입력하여 주십시오.</string>
+	<key>IDS_GEN_CART</key>
+	<string>장바구니</string>
+	<key>IDS_GEN_CHANGE-PASSWORD</key>
+	<string>비밀번호 변경</string>
+	<key>IDS_GEN_DISCLAIMER</key>
+	<string>면책사항</string>
+	<key>IDS_GEN_EXPIRATION-DATE</key>
+	<string>유통기한</string>
+	<key>IDS_GEN_HEALTH-TOPICS</key>
+	<string>건강관련 주제</string>
+	<key>IDS_GEN_HOME</key>
+	<string>메인 페이지</string>
+	<key>IDS_GEN_INTERNATIONAL</key>
+	<string>해외배송</string>
+	<key>IDS_GEN_MODIFY-ORDER</key>
+	<string>주문 변경</string>
+	<key>IDS_GEN_MODIFY-ORDER-ITEMS</key>
+	<string>주문 상품 수정</string>
+	<key>IDS_GEN_MODIFY-SHIPPING-ADDRESS</key>
+	<string>배송지 주소 수정</string>
+	<key>IDS_GEN_MODIFY-SHIPPING-METHOD_A</key>
+	<string>배송방법 변경</string>
+	<key>IDS_GEN_MY-IHERB-PAGE</key>
+	<string>iHerb 페이지</string>
+	<key>IDS_GEN_NOTIFICATION-LIST</key>
+	<string>알림 리스트</string>
+	<key>IDS_GEN_NOTIFY-ME</key>
+	<string>입고 알림</string>
+	<key>IDS_GEN_ORDER-HISTORY</key>
+	<string>주문기록</string>
+	<key>IDS_GEN_ORDER-SUMMARY</key>
+	<string>주문내역</string>
+	<key>IDS_GEN_PERSONAL-INFORMATION</key>
+	<string>개인 정보</string>
+	<key>IDS_GEN_PRIVACY-POLICY</key>
+	<string>개인정보정책</string>
+	<key>IDS_GEN_RELATED-PRODUCTS</key>
+	<string>관련 제품</string>
+	<key>IDS_GEN_REORDER</key>
+	<string>재주문</string>
+	<key>IDS_GEN_RESET-PASSWORD</key>
+	<string>비밀번호 재설정</string>
+	<key>IDS_GEN_REWARDS</key>
+	<string>추천포인트</string>
+	<key>IDS_GEN_SEARCH</key>
+	<string>검색</string>
+	<key>IDS_GEN_SETTINGS_A</key>
+	<string>설정</string>
+	<key>IDS_GEN_SHARE-YOUR-CART</key>
+	<string>장바구니 공유하기</string>
+	<key>IDS_GEN_SHIPPING-CALCULATOR</key>
+	<string>배송료 계산</string>
+	<key>IDS_GEN_SHIPPING-INFORMATION</key>
+	<string>배송 정보</string>
+	<key>IDS_GEN_SHIPPING-WEIGHT-COLON</key>
+	<string>배송 무게:</string>
+	<key>IDS_GEN_SHIPPING-WEIGHT_A</key>
+	<string>배송 무게</string>
+	<key>IDS_GEN_SIGN-IN</key>
+	<string>로그인</string>
+	<key>IDS_GEN_TERMS-AND-CONDITIONS</key>
+	<string>이용약관</string>
+	<key>IDS_GEN_WISHLIST</key>
+	<string>위시리스트</string>
+	<key>IDS_GEN_WRITE-A-REVIEW</key>
+	<string>상품평 쓰기</string>
+	<key>IDS_HDR_ALL-CATEGORIES</key>
+	<string>전체 카테고리</string>
+	<key>IDS_HDR_BENEFITS-SHOPPING-WITH-IHERB</key>
+	<string>iHerb 쇼핑의 혜택</string>
+	<key>IDS_HDR_PASSWORD-RESET</key>
+	<string>비밀번호 재설정</string>
+	<key>IDS_HDR_PRODUCT-OVERVIEW</key>
+	<string>제품요약</string>
+	<key>IDS_LBL-MENU</key>
+	<string>메뉴</string>
+	<key>IDS_LBL_ABOUT-IHERB</key>
+	<string>iHerb에 대하여</string>
+	<key>IDS_LBL_ACCOUNT-NOTIFICATIONS</key>
+	<string>계정 알림 설정</string>
+	<key>IDS_LBL_ACCOUNT-NUMBER_A</key>
+	<string>계정 번호</string>
+	<key>IDS_LBL_ADD-NEW-BILLING-ADDRESS_A</key>
+	<string>새 청구지 주소 추가하기</string>
+	<key>IDS_LBL_ADD-NEW-SHIPPING-ADDRESS_A</key>
+	<string>새 배송 주소 추가</string>
+	<key>IDS_LBL_ADDRESS-1-AUSTRALIA</key>
+	<string>주소, 사서함, 회사이름, 수령자 이름</string>
+	<key>IDS_LBL_ADDRESS-2-AUSTRALIA</key>
+	<string>아파트, 호수, 층번호 등</string>
+	<key>IDS_LBL_ADDRESS-LINE1</key>
+	<string>주소 1</string>
+	<key>IDS_LBL_ADDRESS-LINE2</key>
+	<string>주소 2</string>
+	<key>IDS_LBL_ADDRESS-VERIFICATION</key>
+	<string>주소 확인</string>
+	<key>IDS_LBL_ALSO-CREATE-BILLING-ADDRESS_A</key>
+	<string>청구지 주소도 동일하게 만듭니다</string>
+	<key>IDS_LBL_ALSO-CREATE-SHIPPING-ADDRESS_A</key>
+	<string>배송주소도 동일하게 만듭니다</string>
+	<key>IDS_LBL_AROMATHERAPY</key>
+	<string>아로마테라피</string>
+	<key>IDS_LBL_AVAILABLE-COLON</key>
+	<string>현재 사용 가능:</string>
+	<key>IDS_LBL_BATH-AND-BEAUTY</key>
+	<string>목욕 제품</string>
+	<key>IDS_LBL_BEST-RATING</key>
+	<string>높은 평가순</string>
+	<key>IDS_LBL_BEST-SELLERS</key>
+	<string>베스트셀러</string>
+	<key>IDS_LBL_BEST-SELLING</key>
+	<string>높은 판매량 순</string>
+	<key>IDS_LBL_BILLING-ADDRESS</key>
+	<string>청구지 주소</string>
+	<key>IDS_LBL_BRANDS</key>
+	<string>브랜드</string>
+	<key>IDS_LBL_CACHE-CLEARED</key>
+	<string>캐쉬가 모두 삭제되었습니다</string>
+	<key>IDS_LBL_CACHING</key>
+	<string>캐시</string>
+	<key>IDS_LBL_CACHING-LENGTH</key>
+	<string>캐시 사용 기간</string>
+	<key>IDS_LBL_CALCULATE-SHIPPING-COSTS_A</key>
+	<string>배송비 계산하기:</string>
+	<key>IDS_LBL_CANCEL-ORDER</key>
+	<string>주문 취소</string>
+	<key>IDS_LBL_CASH-ON-DELIVERY</key>
+	<string>대금 상환 인도</string>
+	<key>IDS_LBL_CATEGORIES</key>
+	<string>카테고리</string>
+	<key>IDS_LBL_CITY</key>
+	<string>도시</string>
+	<key>IDS_LBL_CLEARANCE_ITEMS</key>
+	<string>재고 정리 세일</string>
+	<key>IDS_LBL_CONFIRM-PASSWORD</key>
+	<string>비밀번호 재확인</string>
+	<key>IDS_LBL_CONSIGNEE-NAME</key>
+	<string>수령인 이름</string>
+	<key>IDS_LBL_COPY-ME-IN-EMAIL</key>
+	<string>이메일로 보고 받기</string>
+	<key>IDS_LBL_COUNTRY</key>
+	<string>국가</string>
+	<key>IDS_LBL_CREAMS-LOTIONS</key>
+	<string>크림, 로션</string>
+	<key>IDS_LBL_CURRENCY_A</key>
+	<string>환율</string>
+	<key>IDS_LBL_CURRENT-CART</key>
+	<string>현재 장바구니</string>
+	<key>IDS_LBL_CUSTOMER-INFORMATION</key>
+	<string>고객 정보</string>
+	<key>IDS_LBL_CUSTOMER-SERVICE</key>
+	<string>고객서비스</string>
+	<key>IDS_LBL_DATE-COLON</key>
+	<string>날짜:</string>
+	<key>IDS_LBL_DEALS</key>
+	<string>할인행사</string>
+	<key>IDS_LBL_DELIVERED-ON</key>
+	<string>배송된 날짜:</string>
+	<key>IDS_LBL_DESCRIPTION</key>
+	<string>제품설명</string>
+	<key>IDS_LBL_DESCRIPTION-OF-ISSUE</key>
+	<string>문제 내용</string>
+	<key>IDS_LBL_DIET-AND-WEIGHT-LOSS</key>
+	<string>다이어트 &amp; 체중감량</string>
+	<key>IDS_LBL_DIMENSIONS</key>
+	<string>부피 및 배송 중량</string>
+	<key>IDS_LBL_DISCOUNT-COLON</key>
+	<string>할인:</string>
+	<key>IDS_LBL_DISCOUNT-S-COLON</key>
+	<string>할인:</string>
+	<key>IDS_LBL_EDIT-BILLING-ADDRESS</key>
+	<string>청구지 주소 수정</string>
+	<key>IDS_LBL_EDIT-REVIEW</key>
+	<string>상품평 수정</string>
+	<key>IDS_LBL_EDIT-SHIPPING-ADDRESS</key>
+	<string>배송주소 수정</string>
+	<key>IDS_LBL_EMAIL-ADDRESS</key>
+	<string>이메일주소</string>
+	<key>IDS_LBL_EMAIL-UPDATE</key>
+	<string>이메일 업데이트</string>
+	<key>IDS_LBL_ENABLE-TOUCH-ID</key>
+	<string>Touch ID 활성화</string>
+	<key>IDS_LBL_ENTER-CODE</key>
+	<string>코드 입력하기</string>
+	<key>IDS_LBL_ESTIMATED-DELIVERY</key>
+	<string>배송 예상:</string>
+	<key>IDS_LBL_ESTIMATED-ORDER-TOTAL-COLON</key>
+	<string>예상 총 결제금액:</string>
+	<key>IDS_LBL_ESTIMATED-TOTAL-IN-LOCALIZED_A</key>
+	<string>환율에 따른 예상 총금액</string>
+	<key>IDS_LBL_EXP</key>
+	<string>유효기간</string>
+	<key>IDS_LBL_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+	<string>고객님의 {0} 결제가 아직 완료되지 않았습니다!</string>
+	<key>IDS_LBL_FILL-PASSPORT-NUMBER</key>
+	<string>여권번호</string>
+	<key>IDS_LBL_FOLDER-NAME_A</key>
+	<string>폴더명</string>
+	<key>IDS_LBL_FROM_A</key>
+	<string>작성된 지역:</string>
+	<key>IDS_LBL_FULL-NAME</key>
+	<string>이름</string>
+	<key>IDS_LBL_GROCERY</key>
+	<string>식료품</string>
+	<key>IDS_LBL_HEALTHY-HOME</key>
+	<string>건강한 가정</string>
+	<key>IDS_LBL_HEAVIEST-TO-LIGHTEST_A</key>
+	<string>무거운 무게순</string>
+	<key>IDS_LBL_HERBS</key>
+	<string>허브</string>
+	<key>IDS_LBL_HIDE</key>
+	<string>숨기기</string>
+	<key>IDS_LBL_HIGH-TO-LOW</key>
+	<string>높음-낮음</string>
+	<key>IDS_LBL_HIGHEST-PRICE</key>
+	<string>높은 가격 순</string>
+	<key>IDS_LBL_IMPORTANT-NOTE</key>
+	<string>주요사항:</string>
+	<key>IDS_LBL_IN-STOCK-COLON</key>
+	<string>재고:</string>
+	<key>IDS_LBL_IN-STOCK-NOTIFICATIONS_A</key>
+	<string>입고알림</string>
+	<key>IDS_LBL_INFORMATION</key>
+	<string>정보</string>
+	<key>IDS_LBL_ISSUE-INFORMATION</key>
+	<string>문제 사항</string>
+	<key>IDS_LBL_ISSUE-WITH-ENTIRE-ORDER</key>
+	<string>주문 전체의 문제</string>
+	<key>IDS_LBL_ISSUE-WITH-INDIVIDUAL-PRODUCTS</key>
+	<string>수령한 제품에 대한 문제</string>
+	<key>IDS_LBL_ITEM-PRICE</key>
+	<string>제품 가격</string>
+	<key>IDS_LBL_ITEMS-COUNT</key>
+	<string>{0} 개의 상품</string>
+	<key>IDS_LBL_KIDS-AND-BABIES</key>
+	<string>유아용 제품</string>
+	<key>IDS_LBL_LANGUAGE-CURRENCY</key>
+	<string>언어/결제 통화</string>
+	<key>IDS_LBL_LANGUAGE_A</key>
+	<string>언어</string>
+	<key>IDS_LBL_LARGE-ICON_A</key>
+	<string>큰 아이콘</string>
+	<key>IDS_LBL_LEAVE</key>
+	<string>나가기</string>
+	<key>IDS_LBL_LESS</key>
+	<string>적게 보기</string>
+	<key>IDS_LBL_LIGHTEST-TO-HEAVIEST_A</key>
+	<string>가벼운 무게순</string>
+	<key>IDS_LBL_LOW-TO-HIGH</key>
+	<string>낮음-높음</string>
+	<key>IDS_LBL_LOWEST-PRICE</key>
+	<string>낮은 가격 순</string>
+	<key>IDS_LBL_LOYALTY-CREDIT</key>
+	<string>로열티 크래딧 포인트</string>
+	<key>IDS_LBL_MAKE-SELECTION</key>
+	<string>상품을 선택해 주세요</string>
+	<key>IDS_LBL_MAX</key>
+	<string>최대</string>
+	<key>IDS_LBL_METHOD</key>
+	<string>방법</string>
+	<key>IDS_LBL_MINIMUM-CUSTOMER-RATING_A</key>
+	<string>낮은 고객평순</string>
+	<key>IDS_LBL_MODIFY-ORDER-INFO_A</key>
+	<string>주문정보 수정</string>
+	<key>IDS_LBL_MODIFY-ORDER-ITEM-QUANTITY_A</key>
+	<string>주문상품 수량 변경</string>
+	<key>IDS_LBL_MORE</key>
+	<string>더 많은 제품들</string>
+	<key>IDS_LBL_MOST-HELPFUL</key>
+	<string>유용한 상품평순</string>
+	<key>IDS_LBL_MY-FOLDERS</key>
+	<string>내 폴더</string>
+	<key>IDS_LBL_MY-REVIEWS</key>
+	<string>마이 리뷰</string>
+	<key>IDS_LBL_MY-SAVED-SEARCHES_A</key>
+	<string>나의 저장된 검색기록</string>
+	<key>IDS_LBL_NEW</key>
+	<string>신규</string>
+	<key>IDS_LBL_NEW-PASSWORD</key>
+	<string>새 비밀번호</string>
+	<key>IDS_LBL_NEWEST</key>
+	<string>최신</string>
+	<key>IDS_LBL_NOTIFICATIONS_A</key>
+	<string>알림</string>
+	<key>IDS_LBL_OLD-PASSWORD</key>
+	<string>이전 비밀번호</string>
+	<key>IDS_LBL_OPTIONAL</key>
+	<string>선택가능</string>
+	<key>IDS_LBL_ORDER-CANCELLATION</key>
+	<string>주문 취소</string>
+	<key>IDS_LBL_ORDER-CONFIRMATION</key>
+	<string>주문 확인</string>
+	<key>IDS_LBL_ORDER-INFORMATION</key>
+	<string>주문 정보</string>
+	<key>IDS_LBL_ORDER-ITEMS_A</key>
+	<string>주문 상품</string>
+	<key>IDS_LBL_ORDER-MODIFICATION</key>
+	<string>주문내역 변경</string>
+	<key>IDS_LBL_ORDER-NOTIFICATIONS</key>
+	<string>주문 알림 설정</string>
+	<key>IDS_LBL_ORDER-NUMBER</key>
+	<string>주문번호</string>
+	<key>IDS_LBL_ORDER-NUMBER-COLON</key>
+	<string>주문번호:</string>
+	<key>IDS_LBL_ORDER-SHIPPING</key>
+	<string>주문 배송</string>
+	<key>IDS_LBL_ORDER-STATUS</key>
+	<string>주문 처리 상황</string>
+	<key>IDS_LBL_ORDER-TOTAL-COLON_A</key>
+	<string>합계:</string>
+	<key>IDS_LBL_ORDER-TOTALS</key>
+	<string>주문 합계:</string>
+	<key>IDS_LBL_OTHER-INFORMATION</key>
+	<string>추가 정보</string>
+	<key>IDS_LBL_OTHER-INGREDIENTS</key>
+	<string>포함된 다른 성분들</string>
+	<key>IDS_LBL_PACKAGE-NUMBER-OF-TOTAL</key>
+	<string>{0} of {1}</string>
+	<key>IDS_LBL_PACKAGE-QUANTITY</key>
+	<string>포장 수량</string>
+	<key>IDS_LBL_PACKAGES</key>
+	<string>패키지</string>
+	<key>IDS_LBL_PAID-WITH-EXTERNAL-PAYMENT</key>
+	<string>{0} 로 결제하기</string>
+	<key>IDS_LBL_PASSWORD</key>
+	<string>비밀번호</string>
+	<key>IDS_LBL_PAYMENT-METHOD</key>
+	<string>결제방법</string>
+	<key>IDS_LBL_PENDING-COLON</key>
+	<string>보류중:</string>
+	<key>IDS_LBL_PETS</key>
+	<string>반려동물</string>
+	<key>IDS_LBL_PHONE-NUMBER</key>
+	<string>전화번호</string>
+	<key>IDS_LBL_POSTAL-CODE</key>
+	<string>우편번호</string>
+	<key>IDS_LBL_PREVIOUS-CART</key>
+	<string>이전 장바구니</string>
+	<key>IDS_LBL_PRICE</key>
+	<string>금액</string>
+	<key>IDS_LBL_PRICE-COLON</key>
+	<string>가격:</string>
+	<key>IDS_LBL_PRICE-TOGETHER</key>
+	<string>묶음 구매:</string>
+	<key>IDS_LBL_PRODUCT</key>
+	<string>제품</string>
+	<key>IDS_LBL_PRODUCT-CATEGORIES</key>
+	<string>상품 카테고리</string>
+	<key>IDS_LBL_PRODUCT-CODE</key>
+	<string>상품 코드</string>
+	<key>IDS_LBL_PRODUCTS</key>
+	<string>상품</string>
+	<key>IDS_LBL_QTY-COLON</key>
+	<string>수량:</string>
+	<key>IDS_LBL_RATING</key>
+	<string>평가순</string>
+	<key>IDS_LBL_RECOMMENDATIONS</key>
+	<string>추천</string>
+	<key>IDS_LBL_RELEVANCE</key>
+	<string>관련</string>
+	<key>IDS_LBL_REMOVED_A</key>
+	<string>제거됨</string>
+	<key>IDS_LBL_RESHIP-OF-ORDER</key>
+	<string>재주문</string>
+	<key>IDS_LBL_RESHIPPED-UNDER-ORD</key>
+	<string>재배송 처리중</string>
+	<key>IDS_LBL_REVIEW</key>
+	<string>상품평</string>
+	<key>IDS_LBL_REVIEW-APP_A</key>
+	<string>앱 재검토</string>
+	<key>IDS_LBL_REVIEW-TITLE</key>
+	<string>상품평 제목</string>
+	<key>IDS_LBL_REVIEWS</key>
+	<string>평가</string>
+	<key>IDS_LBL_REWARDS-ADDRESS</key>
+	<string>추천포인트 수령인 주소</string>
+	<key>IDS_LBL_REWARDS-CODE</key>
+	<string>추천코드</string>
+	<key>IDS_LBL_REWARDS-CREDIT</key>
+	<string>추천 포인트</string>
+	<key>IDS_LBL_SAME-AS-SHIPPING-ADDRESS</key>
+	<string>배송지주소와 동일함</string>
+	<key>IDS_LBL_SAVED-SEARCHES_A</key>
+	<string>저장된 검색기록</string>
+	<key>IDS_LBL_SAVINGS</key>
+	<string>할인</string>
+	<key>IDS_LBL_SAVINGS-COLON</key>
+	<string>할인:</string>
+	<key>IDS_LBL_SEARCH-HISTORY</key>
+	<string>검색 기록</string>
+	<key>IDS_LBL_SELECT-CURRENCY</key>
+	<string>통화 선택하기</string>
+	<key>IDS_LBL_SELECT-FROM-SAVED-ADDRESSES_M</key>
+	<string>저장된 주소에서 선택하기</string>
+	<key>IDS_LBL_SELECT-LANGUAGE</key>
+	<string>언어 선택하기</string>
+	<key>IDS_LBL_SELECT-PREFERENCES</key>
+	<string>배송지역, 결제통화, 언어를 선택해주세요</string>
+	<key>IDS_LBL_SELECT-PRODUCT</key>
+	<string>제품 선택</string>
+	<key>IDS_LBL_SELECT-REASON</key>
+	<string>이유를 입력하세요</string>
+	<key>IDS_LBL_SELECT-SHIPPING-METHOD</key>
+	<string>배송방법을 선택하십시오.</string>
+	<key>IDS_LBL_SELECT-YOUR-COUNTRY</key>
+	<string>국가 선택하기</string>
+	<key>IDS_LBL_SHIPPING</key>
+	<string>배송</string>
+	<key>IDS_LBL_SHIPPING-ADDRESS</key>
+	<string>배송지주소</string>
+	<key>IDS_LBL_SHIPPING-ADDRESS-COLON</key>
+	<string>배송지주소:</string>
+	<key>IDS_LBL_SHIPPING-METHOD</key>
+	<string>배송방법</string>
+	<key>IDS_LBL_SHOW</key>
+	<string>제품 보기</string>
+	<key>IDS_LBL_SIGNIN_WITH_EMAIL</key>
+	<string>이메일로 로그인 하기</string>
+	<key>IDS_LBL_SMALL-ICON_A</key>
+	<string>작은 아이콘</string>
+	<key>IDS_LBL_SORT-BY</key>
+	<string>정렬</string>
+	<key>IDS_LBL_SORT_A</key>
+	<string>정렬</string>
+	<key>IDS_LBL_SPECIALS</key>
+	<string>특별할인</string>
+	<key>IDS_LBL_SPORTS</key>
+	<string>스포츠</string>
+	<key>IDS_LBL_STATE-REGION</key>
+	<string>주/도명</string>
+	<key>IDS_LBL_STATE-TERRITORY</key>
+	<string>주/도</string>
+	<key>IDS_LBL_STATUS-COLON</key>
+	<string>상태:</string>
+	<key>IDS_LBL_SUBCATEGORIES_A</key>
+	<string>하위 범주</string>
+	<key>IDS_LBL_SUBMIT</key>
+	<string>접수하기</string>
+	<key>IDS_LBL_SUBTOTAL-COLON</key>
+	<string>소계:</string>
+	<key>IDS_LBL_SUBURB</key>
+	<string>도명</string>
+	<key>IDS_LBL_SUGGESTED-USE</key>
+	<string>제품 사용법</string>
+	<key>IDS_LBL_SUPERFOODS</key>
+	<string>수퍼푸드</string>
+	<key>IDS_LBL_SUPPLEMENTS</key>
+	<string>건강 보조 식품</string>
+	<key>IDS_LBL_TAX</key>
+	<string>세금</string>
+	<key>IDS_LBL_TOTAL-CANCELLED</key>
+	<string>취소금액 총합</string>
+	<key>IDS_LBL_TOTAL-COLON</key>
+	<string>총합:</string>
+	<key>IDS_LBL_TOTAL-ORDERS</key>
+	<string>총 {0} 주문건</string>
+	<key>IDS_LBL_TOTAL-WEIGHT-COLON</key>
+	<string>총 무게:</string>
+	<key>IDS_LBL_TRACKING-COLON</key>
+	<string>배송추적:</string>
+	<key>IDS_LBL_TRACKING-NUMBER</key>
+	<string>배송 추적 번호:</string>
+	<key>IDS_LBL_TRIALS</key>
+	<string>체험상품</string>
+	<key>IDS_LBL_UNITED-STATES</key>
+	<string>미국</string>
+	<key>IDS_LBL_UPC-CODE</key>
+	<string>UPC 코드</string>
+	<key>IDS_LBL_UPDATE-SELECTION-SETTINGS</key>
+	<string>설정페이지에서 업데이트가 가능합니다</string>
+	<key>IDS_LBL_WARNINGS</key>
+	<string>주의사항</string>
+	<key>IDS_LBL_WEIGHT</key>
+	<string>무게</string>
+	<key>IDS_LBL_WEIGHT-COLON</key>
+	<string>무게:</string>
+	<key>IDS_LBL_ZIP-POSTAL</key>
+	<string>우편번호</string>
+	<key>IDS_LBL_ZIP-POSTAL-CODE-COLON_A</key>
+	<string>우편번호:</string>
+	<key>IDS_LNK_ACNE</key>
+	<string>여드름</string>
+	<key>IDS_LNK_ALLERGIES</key>
+	<string>알레르기</string>
+	<key>IDS_LNK_ANXIETY</key>
+	<string>불안감</string>
+	<key>IDS_LNK_CLOSE</key>
+	<string>닫기</string>
+	<key>IDS_LNK_COLD-FLU-VIRAL</key>
+	<string>감기, 독감 및 바이러스</string>
+	<key>IDS_LNK_DELETE</key>
+	<string>삭제</string>
+	<key>IDS_LNK_DIET-WEIGHT-LOSS</key>
+	<string>체중감량</string>
+	<key>IDS_LNK_HAIR-ALOPECIA</key>
+	<string>머리카락, 탈모</string>
+	<key>IDS_LNK_HEADACHE</key>
+	<string>두통</string>
+	<key>IDS_LNK_INFLAMMATION</key>
+	<string>염증</string>
+	<key>IDS_LNK_JOINTS-LIGAMENTS</key>
+	<string>관절, 인대</string>
+	<key>IDS_LNK_KIDNEY-BLADDER</key>
+	<string>신장, 방광</string>
+	<key>IDS_LNK_LEARN-MORE-LOYALTY-CREDIT</key>
+	<string>iHerb 로열티 프로그램 자세히 알아보기</string>
+	<key>IDS_LNK_LEARN-MORE-REWARDS-PROGRAM</key>
+	<string>iHerb 추천 프로그램 자세히 알아보기</string>
+	<key>IDS_LNK_MY-ACCOUNT</key>
+	<string>내 계정</string>
+	<key>IDS_LNK_SIGN-OUT</key>
+	<string>로그아웃</string>
+	<key>IDS_LNK_SKIN-HEALTH</key>
+	<string>피부 건강</string>
+	<key>IDS_LNK_WOMEN-HEALTH</key>
+	<string>여성 건강</string>
+	<key>IDS_MSG_ADDRESS-ADDED</key>
+	<string>주소가 추가되었습니다.</string>
+	<key>IDS_MSG_ADDRESS-DELETED</key>
+	<string>주소가 삭제되었습니다</string>
+	<key>IDS_MSG_ALREADY-IN-WISH-LIST</key>
+	<string>이미 위시리스트에 포함된 제품입니다</string>
+	<key>IDS_MSG_CANCEL-ENTIRE-ORDER</key>
+	<string>주문 전체를 취소하시겠습니까?</string>
+	<key>IDS_MSG_CART-MAY-NOT-CONTAIN-ALL-ITEMS</key>
+	<string>이전에 장바구니에 남아둔 제품이 모두 포함되지 않았습니다.</string>
+	<key>IDS_MSG_CHECK-INTERNET-CONNECTION</key>
+	<string>인터넷 연결 상태를 확인해 보시길 바랍니다</string>
+	<key>IDS_MSG_CONFIRM-CLEAR-SEARCH-HISTORY_T</key>
+	<string>정말로 검색 기록을 삭제 하시겠습니까?</string>
+	<key>IDS_MSG_CONFIRMATION-EMAIL-SENT</key>
+	<string>이메일이 발송되었습니다</string>
+	<key>IDS_MSG_CONNECTION-ISSUES-ACCESSING-CART</key>
+	<string>장바구니 접속에 문제가 발생하였습니다.</string>
+	<key>IDS_MSG_COUPON-APPLIED_A</key>
+	<string>추천코드가 적용 되었습니다</string>
+	<key>IDS_MSG_COUPON-REMOVED</key>
+	<string>쿠폰코드가 삭제되었습니다.</string>
+	<key>IDS_MSG_DELETE-ADDRESS-CONFIRMATION</key>
+	<string>주소를 삭제하시겠습니까?</string>
+	<key>IDS_MSG_DELETE-CREDIT-CARD-CONFIRMATION</key>
+	<string>결제카드 정보를 삭제하시겠습니까?</string>
+	<key>IDS_MSG_DELETE-FOLDER-CONFIRMATION</key>
+	<string>해당폴더를 삭제하시겠습니까?</string>
+	<key>IDS_MSG_DELETE-ICON-CONFRIMATION</key>
+	<string>아이콘을 삭제하시겠습니까?</string>
+	<key>IDS_MSG_DELETE-ITEM-CONFIRMATION</key>
+	<string>선택하신 제품을 삭제하시겠습니까?</string>
+	<key>IDS_MSG_DID-YOU-MEAN</key>
+	<string>{0} 을/를 찾으셨나요?</string>
+	<key>IDS_MSG_EDIT-BILLING-ADDRESS_A</key>
+	<string>아래의 청구지 주소를 수정해 주십시오</string>
+	<key>IDS_MSG_EDIT-FOLDER-NAME-AND-SAVE_A</key>
+	<string>아래의 폴더\ 이름을 수정하고 저장해 주세요.</string>
+	<key>IDS_MSG_EDIT-SHIPPING-ADDRESS_A</key>
+	<string>아래의 배송주소를 수정해 주십시오</string>
+	<key>IDS_MSG_EMAIL-SENT</key>
+	<string>이메일이 발송되었습니다</string>
+	<key>IDS_MSG_FOLDER-ADDED-TO-CART_A</key>
+	<string>폴더가 장바구니에 추가되었습니다</string>
+	<key>IDS_MSG_HERE-ARE-SOME-SIMILAR-PRODUCTS</key>
+	<string>검색내용과 유사한 제품들:</string>
+	<key>IDS_MSG_ITEM-ADDED-TO-CART_A</key>
+	<string>상품이 장바구니에 추가 되었습니다</string>
+	<key>IDS_MSG_ITEM-ADDED-TO-WISHLIST</key>
+	<string>상품이 위시리스트에 추가 되었습니다</string>
+	<key>IDS_MSG_ITEM-DELETED_A</key>
+	<string>상품이 삭제 되었습니다</string>
+	<key>IDS_MSG_ITEM-REMOVED</key>
+	<string>삭제되었습니다</string>
+	<key>IDS_MSG_ITEMS-ADDED</key>
+	<string>상품이 장바구니에 추가되었습니다.</string>
+	<key>IDS_MSG_ITEMS-COPIED_A</key>
+	<string>상품이 복사되었습니다</string>
+	<key>IDS_MSG_ITEMS-MOVED</key>
+	<string>상품이 이동되었습니다.</string>
+	<key>IDS_MSG_LEAVE-APP-AND-OPEN-BROWSER</key>
+	<string>iHerb 어플리케이션이 아닌 다른 인터넷 브라우저로 연결됩니다. 진행하시겠습니까?</string>
+	<key>IDS_MSG_LEAVE-CHECKOUT-CONFIRMATION</key>
+	<string>결제를 중단하고 페이지를 나가시겠습니까?</string>
+	<key>IDS_MSG_LEAVE-ORDER-ISSUES-CONFIRMATION</key>
+	<string>주문 문제 해결 페이지를 나가시겠습니까?</string>
+	<key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S00</key>
+	<string>비밀번호 재설정을 위한 링크가 고객님의 이메일 주소로 전송 되었습니다.</string>
+	<key>IDS_MSG_LINK-TO-CHANGE-PASSWORD_S01</key>
+	<string>링크 이메일은 약 5분 이내에 확인하실 수 있습니다.</string>
+	<key>IDS_MSG_LOG-OUT-CONFIRMATION</key>
+	<string>정말로 로그아웃 하시겠습니까?</string>
+	<key>IDS_MSG_NO-ITEMS-IN-WISHLIST</key>
+	<string>위시리스트에 저장된 상품이 없습니다.</string>
+	<key>IDS_MSG_NOT-AVAILABLE</key>
+	<string>해당 서비스를 사용하실 수 없습니다.</string>
+	<key>IDS_MSG_NOT-RECOGNIZE-ADDRESS</key>
+	<string>죄송하지만, 주소 확인 시스템에서 입력하신 주소지를 인식할 수 없습니다. 다음 주소 중 하나를 선택해 주세요:</string>
+	<key>IDS_MSG_NOTHING-TO-REMOVE</key>
+	<string>제거할 내용이 없습니다</string>
+	<key>IDS_MSG_NOTIFY-LIST-IN-LIST</key>
+	<string>본 제품은 이미 위시리시트에 포함되어 있습니다</string>
+	<key>IDS_MSG_OPTION-UNAVAILABLE-FOR-ORDER_A</key>
+	<string>이 주문에서는 해당 옵션을 사용할 수 없습니다</string>
+	<key>IDS_MSG_ORDER-HISTORY-EMPTY</key>
+	<string>주문기록이 존재하지 않습니다</string>
+	<key>IDS_MSG_PASSWORD-WAS-SAVED</key>
+	<string>비밀번호가 저장되었습니다.</string>
+	<key>IDS_MSG_PAYMENT-FAILED</key>
+	<string>결제 실패</string>
+	<key>IDS_MSG_PAYMENT-PENDING</key>
+	<string>결제 대기중</string>
+	<key>IDS_MSG_PAYMENT-SUCCESSFUL</key>
+	<string>결제 완료</string>
+	<key>IDS_MSG_PLEASE-BROWSE-ADD-PRODUCTS_A</key>
+	<string>제품을 검색 후 장바구니에 담아 주세요</string>
+	<key>IDS_MSG_PRODUCT-NOT-AVAILABLE</key>
+	<string>해당 상품이 품절/절판 되었습니다.</string>
+	<key>IDS_MSG_QUANTITY-UPDATED</key>
+	<string>수량 업데이트</string>
+	<key>IDS_MSG_REACHED-LIMIT-HOMEPAGE-ICONS_A</key>
+	<string>사용가능한 아이콘 갯수를 모두 사용하셨습니다</string>
+	<key>IDS_MSG_REMOVE-ALL-ITEMS-CONFIRMATION</key>
+	<string>전체 상품을 삭제 하시겠습니까?</string>
+	<key>IDS_MSG_REMOVE-PHOTO-CONFIRMATION</key>
+	<string>사진을 삭제하시겠습니까?</string>
+	<key>IDS_MSG_REMOVE-REVIEW-CONFIRMATION</key>
+	<string>사용 후기를 삭제하시겠습니까?</string>
+	<key>IDS_MSG_REMOVE-THIS-ITEM-CONFIRMATION</key>
+	<string>본 제품을 삭제하시겠습니까?</string>
+	<key>IDS_MSG_REORDER-CONFIRMATION_A</key>
+	<string>정말로 재주문 하시겠습니까?</string>
+	<key>IDS_MSG_REWARDS-ADDRESS-NOT-APPROVED</key>
+	<string>고객님의 리워드 주소가 아직 승인되지 않았습니다. 리워드 주소의 승인을 위해 iHerb 고객서비스팀에서 연락이 취해질 수 있습니다.</string>
+	<key>IDS_MSG_SAVE-CHANGES-CONFIRMATION</key>
+	<string>변경된 사항을 저장하시겠습니까?</string>
+	<key>IDS_MSG_SAVED-SUCCESSIVELY_A</key>
+	<string>성공적으로 저장되었습니다</string>
+	<key>IDS_MSG_SEARCH-RESULTS-FOR-COLON_A</key>
+	<string>검색결과 {0}:</string>
+	<key>IDS_MSG_SEARCH-RESULTS-REVIEWS-COLON_A</key>
+	<string>상품평 내 {0} 의 검색결과:</string>
+	<key>IDS_MSG_SELECT-ICON-SIZE_A</key>
+	<string>큰 아이콘과 작은 아이콘중 어느 것을 사용하시겠습니까?</string>
+	<key>IDS_MSG_SELECT-ICON-TYPE_A</key>
+	<string>사용을 원하시는 아이콘 타입을 선택해 주세요</string>
+	<key>IDS_MSG_SHARE-YOUR-CART</key>
+	<string>iHerb.com의 내 장바구니 결제하기</string>
+	<key>IDS_MSG_SUBMIT-FORM-CONFIRMATION</key>
+	<string>본 내용을 접수하시겠습니까?</string>
+	<key>IDS_MSG_THANKS-FOR-FEEDBACK</key>
+	<string>피드백을 남겨 주셔서 감사합니다!</string>
+	<key>IDS_MSG_THERE-ARE-NO-SEARCH-RESULTS-FOR</key>
+	<string>검색결과가 존재하지 않습니다 {0}.</string>
+	<key>IDS_MSG_TOUCH-ID-ENABLED-AFTER-LOGIN</key>
+	<string>iHerb 계정에 로그인 하시면 Touch ID 기능이 활성화 됩니다</string>
+	<key>IDS_MSG_TRY-AGAIN_A</key>
+	<string>다시 시도하여 주십시오</string>
+	<key>IDS_MSG_WE-DO-NOT-CARRY</key>
+	<string>{0} 제품은 판매하지 않는 상품입니다.</string>
+	<key>IDS_MSG_WISH-LIST-COPY-SUBTITLE</key>
+	<string>어느 폴더에 제품을 포함시키겠습니까?</string>
+	<key>IDS_MSG_WISH-LIST-EMPTY</key>
+	<string>위시리스트가 비어있습니다</string>
+	<key>IDS_MSG_WISH-LIST-MOVE-SUBTITLE</key>
+	<string>이 제품을 어느 폴더로 이동시키겠습니까?</string>
+	<key>IDS_MSG_WRITE-REVIEW-MUST-SHIPPED-ORDER</key>
+	<string>상품평 작성을 위해서는 배송이 완료된 주문 기록이 필요합니다.</string>
+	<key>IDS_MSG_WRITE-YOUR-REVIEW-HERE_A</key>
+	<string>이곳에 상품평을 작성해 주십시오</string>
+	<key>IDS_MSG_YOUR-REVIEW-WAS-DELETED</key>
+	<string>상품평이 삭제되었습니다.</string>
+	<key>IDS_MSG_YOUR-REVIEW-WAS-SAVED</key>
+	<string>상품평이 저장되었습니다.</string>
+	<key>IDS_TTL_APPLIED-CODES</key>
+	<string>코드가 적용되었습니다</string>
+	<key>IDS_TTL_APPLY-REWARDS-OR-PROMO-CODE</key>
+	<string>추천코드/ 프로모션코드 입력</string>
+	<key>IDS_TTL_CHECKOUT</key>
+	<string>결제</string>
+	<key>IDS_TTL_CUSTOMIZE-ICON_A</key>
+	<string>아이콘 설정</string>
+	<key>IDS_TTL_EDIT-FOLDER-NAME_A</key>
+	<string>폴더명 수정</string>
+	<key>IDS_TTL_EDIT-SAVED-SEARCH-NAME_A</key>
+	<string>저장된 검색기록명 수정</string>
+	<key>IDS_TTL_ERROR_A</key>
+	<string>오류</string>
+	<key>IDS_TTL_KOREAN-PCC</key>
+	<string>한국 개인통관고유부호</string>
+	<key>IDS_TTL_LOGIN</key>
+	<string>로그인</string>
+	<key>IDS_TTL_NEW-BILLING-ADDRESS_A</key>
+	<string>새 청구지 주소</string>
+	<key>IDS_TTL_NEW-FEATURE-DEMO_A</key>
+	<string>새로운 기능 데모</string>
+	<key>IDS_TTL_NEW-REWARDS-ADDRESS_A</key>
+	<string>새로운 추천포인트 수령인 정보</string>
+	<key>IDS_TTL_NEW-SHIPPING-ADDRESS_A</key>
+	<string>새 배송주소</string>
+	<key>IDS_TTL_ORDER-ISSUES</key>
+	<string>주문 문제 해결</string>
+	<key>IDS_TTL_PROFILE</key>
+	<string>프로필</string>
+	<key>IDS_TTL_SEARCH-TITLE_A</key>
+	<string>검색 제목</string>
+	<key>IDS_TTL_SELECT-FOLDER_A</key>
+	<string>폴더 선택</string>
+	<key>IDS_TTL_SELECT-HEALTH-TOPIC</key>
+	<string>건강 주제를 선택하세요</string>
+	<key>IDS_TTL_SELECT-ICON-IMAGE_A</key>
+	<string>아이콘 이미지 선택</string>
+	<key>IDS_TTL_SELECT-ORDER-NUMBER</key>
+	<string>주문번호를 선택해 주세요</string>
+	<key>IDS_TTL_SELECT-PRODUCT-CATEGORY_A</key>
+	<string>제품 카테고리 선택</string>
+	<key>IDS_TTL_SELECT-SAVED-SEARCH_A</key>
+	<string>저장된 검색기록 선택</string>
+	<key>IDS_TTL_SHOPPING-CART</key>
+	<string>장바구니</string>
+	<key>IDS_TXT_ACCESS-YOUR-SAVED-SEARCHES-MORE</key>
+	<string>검색기록 저장 기능을 비롯한 더 많아진 편의 기능</string>
+	<key>IDS_TXT_AGREE_TERMS_POLICY_STATEMENT</key>
+	<string>계정을 만드는것은 iHerb사의 &lt;a href=&quot;{0}&quot; target=&quot;_blank&quot;&gt;개인 정보 정책&lt;/a&gt;과 &lt;a href=&quot;{1}&quot; target=&quot;_blank&quot;&gt;이용 약관&lt;/a&gt;에 동의하는 것으로 간주합니다.</string>
+	<key>IDS_TXT_AUTOENROLL_EARN-BACK</key>
+	<string>10%를 적립 받으세요</string>
+	<key>IDS_TXT_AUTOENROLL_GET_PAID</key>
+	<string>$5 + 5%의 포인트를 받으세요</string>
+	<key>IDS_TXT_AUTOENROLL_WITH-LOYALTY-CREDIT</key>
+	<string>주문 시 로열티 크래딧을 적립 받을 수 있습니다.</string>
+	<key>IDS_TXT_AUTOENROLL_WITH-OUR-REFERRAL</key>
+	<string>새로운 회원에게 iHerb를 추천해 주시면 추천 포인트를 적립 받으실 수 있습니다.</string>
+	<key>IDS_TXT_BUY-THESE-TOGETHER</key>
+	<string>함께 구매하기</string>
+	<key>IDS_TXT_CACHING-NOTES</key>
+	<string>캐시 저장 기능을 사용하면 인터넷 접속없이 사이트의 일부 기능을 사용하실 수 있습니다. 캐시 저장 기능 사용 시 표시되는 제품의 가격은 업데이트 되지 않은 이전 가격일 수 있음을 알려드립니다.</string>
+	<key>IDS_TXT_CART-IS-EMPTY</key>
+	<string>장바구니가 비어있습니다.</string>
+	<key>IDS_TXT_CASH-ON-DELIVERY</key>
+	<string>주문배달 시 결제가 이루어 집니다.</string>
+	<key>IDS_TXT_CLEAR-CACHE-CONFIRM</key>
+	<string>저장된 모든 캐시를 삭제하시겠습니까?</string>
+	<key>IDS_TXT_DELETE-COUPON-CODE-CONFIRMATION</key>
+	<string>입력된 코드를 삭제하겠습니까?</string>
+	<key>IDS_TXT_DIGIT-CODE</key>
+	<string>6자리 숫자 코드</string>
+	<key>IDS_TXT_DIGIT-CODE-REQUIERED</key>
+	<string>6자리의 숫자 코드가 필요합니다.</string>
+	<key>IDS_TXT_EDIT-SAVED-SEARCH-NAME_A</key>
+	<string>저장된 검색기록명을 수정하신 후 저장을 눌러 주세요.</string>
+	<key>IDS_TXT_ENTER-FOLDER-NAME</key>
+	<string>폴더 이름을 입력하여 주십시오.</string>
+	<key>IDS_TXT_EXPIRATION-DATE_S00</key>
+	<string>유통기한에 대한 기간과 권장사용기간의 날짜는 제품의 종류 및 브랜드에 따라 결정됩니다.</string>
+	<key>IDS_TXT_EXPIRATION-DATE_S01</key>
+	<string>부패하기 쉬운 제품 (플랙스 오일 또는 유산균 관련 상품)은 보편적으로 짧은 유통기한을 가지고 있습니다. 본사의 물류창고는 냉방장치가 설치되어 있지만, 이와 같은 제품들은 최대의 신선도를 위해 냉장보관실(냉동 또는 냉장시설)에 보관됩니다.</string>
+	<key>IDS_TXT_EXPIRATION-DATE_S02</key>
+	<string>본사의 인수부서는  모든 상품의 정확한 유통기한의 확인 및 데이터 입력을 위해 최선을 다하고 있습니다. 간혹  불일치하는 정보가 확인될 수 있습니다. 그러나  iHerb의 월등히 높은 상품 교체률을 통해 본사의 재고품이 업계에서 가장 신선함을 보증합니다.</string>
+	<key>IDS_TXT_EXTERNAL-PAYMENT-NOT-COMPLETE</key>
+	<string>죄송하지만, {0} 결제가 아직 완료되지 않았습니다. 만약 {1} 를 통해 결제를 완료하신 상태라면, 약 2시간 후 업데이트되는 내용을 다시 확인해 주시길 바랍니다. 2시간 이후에도 주문진행이 업데이트되지 않을 경우에는 고객지원팀에 문의해 주시길 바랍니다. &lt;br /&gt;&lt;br /&gt; {2} 로 결제가 완료되지 않았을 경우 아래 버튼을 눌러 주문 결제를 완료하시길 바랍니다.</string>
+	<key>IDS_TXT_FIND-OR-TRACK-YOUR-ORDERS</key>
+	<string>주문 위치 확인하기</string>
+	<key>IDS_TXT_IMPORTANT-NOTE</key>
+	<string>중요사항</string>
+	<key>IDS_TXT_ITEMS-FROM-PREVIOUS-SESSION</key>
+	<string>이전 쇼핑과정에서 담으신 상품이 장바구니에 남아 있습니다.</string>
+	<key>IDS_TXT_LANGUAGE-SETTINGS-ALERT</key>
+	<string>iOS 설정 페이지에서 사용을 원하시는 언어를 선택해 주세요</string>
+	<key>IDS_TXT_LOGIN-TO-YOUR-ACCOUNT-TO</key>
+	<string>계정에 로그인 하세요:</string>
+	<key>IDS_TXT_LOGIN-USING-TOUCH-ID</key>
+	<string>Touch ID로 로그인이 가능합니다</string>
+	<key>IDS_TXT_LOGIN_SHOP_TOP_BRANDS</key>
+	<string>35,000 개 이상의 유명 브랜드 건강 제품을 주문하세요. $40 이상 주문 시 무료 배송 혜택을 받으실 수 있습니다.</string>
+	<key>IDS_TXT_MANAGE-REWARDS-ADDRESS</key>
+	<string>고객님께서 the &lt;a class=&quot;{0}&quot; href=&quot;{1}&quot;&gt;Rewards&lt;/a&gt; 사이트로 로그인하시면 리워드 주소를 관리하실 수 있습니다.</string>
+	<key>IDS_TXT_MANAGE-YOUR-WISH-LIST</key>
+	<string>위시 리스트 관리하기</string>
+	<key>IDS_TXT_MODIFY-ORDER-ITEMS_A</key>
+	<string>장바구니에 있는 제품의 수량을 조정하거나 삭제해 주세요</string>
+	<key>IDS_TXT_MODIFY-ORDER-NOTE</key>
+	<string>주문 변경이 있을 경우, 출고가 예정된 시간보다 지연될 수 있는 점 알려드립니다.</string>
+	<key>IDS_TXT_MODIFY-SHIPPING-ADDRESS_A</key>
+	<string>배송 주소를 선택해 주세요. 새로운 주소를 입력하셔도 됩니다</string>
+	<key>IDS_TXT_MODIFY-SHIPPING-METHOD_A</key>
+	<string>배송 방법을 선택해 주세요</string>
+	<key>IDS_TXT_NEW-BILLING-ADDRESS_A</key>
+	<string>아래에 새 청구지주소를 추가해 주세요</string>
+	<key>IDS_TXT_NEW-FEATURE-DEMO_A</key>
+	<string>새로운 iHerb 앱은 여러분께서 살펴보실 몇가지의 새로운 기능을 포함하고 있습니다.</string>
+	<key>IDS_TXT_NEW-SHIPPING-ADDRESS_A</key>
+	<string>아래에 새 배송주소를 추가해 주세요.</string>
+	<key>IDS_TXT_NO-ITEMS-IN-NOTIFY-LIST</key>
+	<string>알림 리스트에 저장된 상품이 없습니다. 품절된 상품의 재입고 알림을 요청하시면, 해당 상품을 이 곳에서 확인하실 수 있습니다.</string>
+	<key>IDS_TXT_NOTIFIED-WHEN-PRODUCT-AVAILABLE</key>
+	<string>해당 제품의 재입고시 입고알림 메세지가 전달됩니다.</string>
+	<key>IDS_TXT_NUMBER-DAYS</key>
+	<string>{0} 일(s)</string>
+	<key>IDS_TXT_NUMBER-OF-REVIEWS</key>
+	<string>{0} 평가</string>
+	<key>IDS_TXT_OR</key>
+	<string>혹은</string>
+	<key>IDS_TXT_ORDER-ISSUE</key>
+	<string>문제해결을 위해 자세한 내용을 아래에 적어주세요.</string>
+	<key>IDS_TXT_OTHER-DEVICE-EMAIL-MODIFIED</key>
+	<string>고객님의 이메일이 업데이트 되었습니다.</string>
+	<key>IDS_TXT_OTHER-DEVICE-ORDER-CANCELLED</key>
+	<string>고객님의 주문, {0},이/가 취소되었습니다</string>
+	<key>IDS_TXT_OTHER-DEVICE-ORDER-CONFIRMATION</key>
+	<string>고객님의 주문, {0},이/가 접수되었습니다</string>
+	<key>IDS_TXT_OTHER-DEVICE-ORDER-MODIFIED</key>
+	<string>고객님의 주문, {0},이/가 변경 되었습니다</string>
+	<key>IDS_TXT_OTHER-DEVICE-PASSWORD-RESET</key>
+	<string>패스워드가 재설정 되었습니다</string>
+	<key>IDS_TXT_PAYMENT-METHOD-SUBTITLE_A</key>
+	<string>이전에 저장된 결제방법을 검토하거나 수정해 주세요</string>
+	<key>IDS_TXT_PEOPLE-FOUND-REVIEW-HELFUL</key>
+	<string>{0} 명의 이용자께서 다음의 상품평이 유용함을 확인하셨습니다.</string>
+	<key>IDS_TXT_PRODUCT-WEIGHT-KG</key>
+	<string>{0} kg</string>
+	<key>IDS_TXT_PRODUCT-WEIGHT-LBS</key>
+	<string>{0} lbs</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-EMAIL-UPDATE</key>
+	<string>다른 기기를 통해 이메일 계정이 변경되면 확인 메세지를 받게 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-IN-STOCK_A</key>
+	<string>관심을 가지셨던 품절상품의 재입고시 알림메시지가 수신 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CANCEL</key>
+	<string>다른 기기를 통해 주문 취소가 접수되면 확인 메세지를 받게 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-CONFIRM</key>
+	<string>다른 기기를 통해 주문이 접수되면 확인 메세지를 받게 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-ORDER-MODIF</key>
+	<string>다른 기기를 통해 주문 내역이 변경되면 확인 메세지를 받게 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-PASS-RESET</key>
+	<string>다른 기기를 통해 패스워드가 변경되면 확인 메세지를 받게 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATIONS-SHIPPED-OUT_A</key>
+	<string>주문의 출고시 알림메시지가 수신 됩니다.</string>
+	<key>IDS_TXT_PUSH-NOTIFICATION_I</key>
+	<string>스마트폰 설정 페이지 &gt;알림 설정 &gt; iHerb 앱 &quot;모든 알림&quot; 켜기</string>
+	<key>IDS_TXT_RESET-PASSWORD</key>
+	<string>이메일 주소를 입력하시면 패스워드를 재설정할 수 있는 링크를 보내드립니다. 패스워드 재설정 시, 개인 정보 보호를 위하여 입력되어 있는 결제 정보는 자동으로 삭제됩니다.</string>
+	<key>IDS_TXT_RESET-PASSWORD-NOTE1</key>
+	<string>비밀번호 재설정 링크가 자동 이메일로 발송되기 때문에, 이메일 서비스 제공업체에서 해당 이메일을 스팸이메일로 분류할 수 있습니다. 해당이메일의 수신확인이 어려우시다면 스팸메일함을 꼭 확인하여 주십시오.</string>
+	<key>IDS_TXT_RESET-PASSWORD-SECURITY-HTML_A</key>
+	<string>보안문제와 관련하여, 비밀번호의 재설정시 &lt;font color=&quot;#FF0000&quot;&gt; 모든 결제카드 정보가 고객님의 계정에서 삭제됩니다.&lt;/font&gt;</string>
+	<key>IDS_TXT_RESULTS-FOR_A</key>
+	<string>{0} 검색결과</string>
+	<key>IDS_TXT_REVIEWED-ON-DATE_A</key>
+	<string>평가된 날짜: {0}</string>
+	<key>IDS_TXT_REWARDS-ADDRESS-SUBTITLE_A</key>
+	<string>사용가능 추천 포인트가 $300 이상일 경우,  현금화 수령인 정보를 입력하고 현금화 받으실 수 있습니다.</string>
+	<key>IDS_TXT_SAVE</key>
+	<string>할인</string>
+	<key>IDS_TXT_SAVE-WHEN-BUY-TOGETHER</key>
+	<string>오늘 {0} 저렴한 가격으로 {1}와 함께 묶음구매 하세요.</string>
+	<key>IDS_TXT_SEARCH-TITLE_A</key>
+	<string>검색기록에 이름을 부여하여 iHerb 홈페이지에 추가할 수 있습니다.</string>
+	<key>IDS_TXT_SEE-PRICE-IN-CART</key>
+	<string>장바구니에 담아 금액 확인하기</string>
+	<key>IDS_TXT_SELECT-AND-CONTINUE-BELOW</key>
+	<string>정확한 주소를 입력하셨다고 판단되시면, 아래의 &quot;선택 &amp; 계속하기&quot; 를 눌러주세요:</string>
+	<key>IDS_TXT_SELECT-CACHE-SETTINGS_LENGTH</key>
+	<string>캐시 시간 설정하기</string>
+	<key>IDS_TXT_SELECT-HEALTH-TOPIC</key>
+	<string>원하시는 건강 주제를 선택하세요</string>
+	<key>IDS_TXT_SELECT-ICON-IMAGE_A</key>
+	<string>사용하실 이미지를 선택해 주세요</string>
+	<key>IDS_TXT_SELECT-ORDER-NUMBER</key>
+	<string>아래 주문 목록에서 선택해 주세요</string>
+	<key>IDS_TXT_SELECT-PRODUCT-CATEGORY_A</key>
+	<string>사용하실 제품 카테고리를 선택해 주세요</string>
+	<key>IDS_TXT_SELECT-PRODUCT-FROM-YOUR-ORDER</key>
+	<string>주문에 포함된 제품들에서 선택해 주세요</string>
+	<key>IDS_TXT_SELECT-SAVED-SEARCH_A</key>
+	<string>사용하고자 하시는 저장된 검색기록을 선택하여 주세요</string>
+	<key>IDS_TXT_SEND-CODE</key>
+	<string>코드 보내기</string>
+	<key>IDS_TXT_SHARE-PRODUCT</key>
+	<string>iHerb.com에 있는 이 제품을 확인해 보세요</string>
+	<key>IDS_TXT_SHARED-CART</key>
+	<string>&quot;장바구니에 담기&quot;를 눌러 주시면 됩니다. 구매 전 수량 및 제품을 변경하실 수 있습니다.</string>
+	<key>IDS_TXT_SHIPPING-WEIGHT</key>
+	<string>배송 무게는 제품, 포장제, 배송상자의 무게를 포함하고 있습니다. 추가로, 배송품의 부피(길이, 너비, 높이)에 따라 배송무게가 조정될 수 있습니다. 유리용기제품, 액체류, 파손되기 쉬운 제품, 냉장보관을 요하는 제품 등 특정 종류의 제품은 별도의 포장 보충제를 필요로 하며, 이와 같은 경우 배송 무게가 별도의 보호제가 필요치 않은 제품들보다 높게 측정될 수 있습니다.</string>
+	<key>IDS_TXT_SIGN-IN-WITH-EMAIL</key>
+	<string>패스워드가 생각나지 않을 경우, 이메일 주소로 로그인 할 수 있습니다. iHerb에 등록된 이메일로 받은 코드를 입력하면 패스워드 없이 로그인 할 수 있습니다.</string>
+	<key>IDS_TXT_UPDATE-YOUR-PROFILE-INFO</key>
+	<string>개인정보 업데이트 하기</string>
+	<key>IDS_TXT_VERIFICATION-EMAIL-NOTICE</key>
+	<string>이메일 변경을 위해  iHerb에서 확인 이메일을 발송할 예정입니다. 이메일을 확인하시고 설명에 따라 계정 정보를 업데이트해 주시길 바랍니다.</string>
+	<key>IDS_TXT_VIEW-YOUR-CUSTOMIZED-HOMEPAGE</key>
+	<string>직접 편집이 가능한 홈페이지</string>
+	<key>IDS_TXT_XE-CONVERSION-RATES_A</key>
+	<string>XE.com 에서 제공되는 환율 근사치 – 매일 업데이트됨. 주문은 미화로 진행됩니다.</string>
+</dict>
+</plist>
