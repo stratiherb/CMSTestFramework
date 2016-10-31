@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Interpretor{
+public class Interpretor{
     
     let dictionary: NSDictionary
     
